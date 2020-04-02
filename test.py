@@ -12,14 +12,15 @@ with open(DATA_FILE) as f:
     data = json.load(f)
 
 # Generate edge list
-edgelist = []
 top_url = data['top_url']
-for ext_url in data['external_urls']:
-    edgelist.append((top_url, ext_url))
+edgelist = [ (top_url, ext_url) for ext_url in data['external_urls'] ]
+nodesize = [ data['external_urls'][ext_url]['count']*300 for ext_url in data['external_urls'] ]
+nodesize.insert(0, 300)  # top_url
+print(nodesize)
 
 # Generate Graph
 G = nx.from_edgelist(edgelist)
 
 # Plot it
-nx.draw(G, with_labels=True)
+nx.draw(G, with_labels=True, node_color="skyblue", node_size=nodesize)
 plt.show()
