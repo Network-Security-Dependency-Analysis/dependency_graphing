@@ -1,0 +1,21 @@
+################################################################################
+# Dependency Graph Notes
+################################################################################
+Graph:
+- G = (S, D)
+- S = set of services
+- D = set of directed edges depicting a dependency between services
+
+Node:
+- s = <name, service, type>
+- services can be website, CDN, DNS or OCSP
+
+Edge:
+- d = <source, target, dependency_type>
+
+Dependency Types:
+- direct
+    - exclusive dependency (the sole dependency of its resource type)
+- indirect/transitive
+    - exclusive dependency (exd)
+    - if s1 exd s2, and s2 exd s3, then s1 transitively dependent on s3
