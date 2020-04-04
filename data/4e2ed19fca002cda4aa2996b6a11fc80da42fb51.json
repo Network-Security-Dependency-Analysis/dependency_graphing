@@ -1,1 +1,334 @@
-{"top_url": "https://zoom.us/pricing/", "top_domain": "zoom.us", "external_domains": {"support.zoom.us": {"resources": {"total": 16, "a": 16, "script": 0, "link": 0, "iframe": 0, "video": 0, "audio": 0, "img": 0, "embed": 0, "object": 0}, "ip_addresses": {"104.16.51.111": {"lat": 37.751, "long": 37.751}, "104.16.54.111": {"lat": 37.751, "long": 37.751}, "104.16.55.111": {"lat": 37.751, "long": 37.751}, "104.16.52.111": {"lat": 37.751, "long": 37.751}, "104.16.53.111": {"lat": 37.751, "long": 37.751}}}, "blog.zoom.us": {"resources": {"total": 6, "a": 6, "script": 0, "link": 0, "iframe": 0, "video": 0, "audio": 0, "img": 0, "embed": 0, "object": 0}, "ip_addresses": {"18.211.110.86": {"lat": 39.0481, "long": 39.0481}}}, "investors.zoom.us": {"resources": {"total": 2, "a": 2, "script": 0, "link": 0, "iframe": 0, "video": 0, "audio": 0, "img": 0, "embed": 0, "object": 0}, "ip_addresses": {"184.26.90.208": {"lat": 37.751, "long": 37.751}, "184.26.90.136": {"lat": 37.751, "long": 37.751}}}, "linkedin.com": {"resources": {"total": 2, "a": 2, "script": 0, "link": 0, "iframe": 0, "video": 0, "audio": 0, "img": 0, "embed": 0, "object": 0}, "ip_addresses": {"108.174.10.10": {"lat": 37.751, "long": 37.751}}}, "twitter.com": {"resources": {"total": 2, "a": 2, "script": 0, "link": 0, "iframe": 0, "video": 0, "audio": 0, "img": 0, "embed": 0, "object": 0}, "ip_addresses": {"104.244.42.1": {"lat": 37.751, "long": 37.751}, "104.244.42.129": {"lat": 37.751, "long": 37.751}}}, "youtube.com": {"resources": {"total": 2, "a": 2, "script": 0, "link": 0, "iframe": 0, "video": 0, "audio": 0, "img": 0, "embed": 0, "object": 0}, "ip_addresses": {"172.217.12.174": {"lat": 37.751, "long": 37.751}}}, "facebook.com": {"resources": {"total": 2, "a": 2, "script": 0, "link": 0, "iframe": 0, "video": 0, "audio": 0, "img": 0, "embed": 0, "object": 0}, "ip_addresses": {"157.240.18.35": {"lat": 37.751, "long": 37.751}}}, "d24cgw3uvb9a9h.cloudfront.net": {"resources": {"total": 28, "a": 0, "script": 12, "link": 10, "iframe": 0, "video": 0, "audio": 0, "img": 6, "embed": 0, "object": 0}, "ip_addresses": {"99.84.112.153": {"lat": 37.751, "long": 37.751}, "99.84.112.217": {"lat": 37.751, "long": 37.751}, "99.84.112.8": {"lat": 37.751, "long": 37.751}, "99.84.112.123": {"lat": 37.751, "long": 37.751}}}, "chrome.google.com": {"resources": {"total": 2, "a": 0, "script": 0, "link": 2, "iframe": 0, "video": 0, "audio": 0, "img": 0, "embed": 0, "object": 0}, "ip_addresses": {"172.217.12.142": {"lat": 37.751, "long": 37.751}}}}, "external_resources": {"https://support.zoom.us/hc/en-us/articles/206618765-Zoom-Video-Tutorials/": {"count": 2, "type": "a"}, "https://blog.zoom.us/": {"count": 2, "type": "a"}, "https://support.zoom.us/hc/en-us/articles/206175806-Top-Questions/": {"count": 4, "type": "a"}, "https://support.zoom.us/hc/en-us/": {"count": 8, "type": "a"}, "https://support.zoom.us/hc/en-us/articles/201080605-W-9-Wire-Transfer-Instructions/": {"count": 2, "type": "a"}, "http://blog.zoom.us/": {"count": 4, "type": "a"}, "https://investors.zoom.us/": {"count": 2, "type": "a"}, "http://linkedin.com/company/2532259/": {"count": 2, "type": "a"}, "http://twitter.com/zoom_us/": {"count": 2, "type": "a"}, "http://youtube.com/zoommeetings/": {"count": 2, "type": "a"}, "http://facebook.com/zoomvideocommunications/": {"count": 2, "type": "a"}, "https://d24cgw3uvb9a9h.cloudfront.net/static/93889/js/all.min.js": {"count": 2, "type": "script"}, "https://d24cgw3uvb9a9h.cloudfront.net/static/93889/js/lib/vue/vue.min.js": {"count": 2, "type": "script"}, "https://d24cgw3uvb9a9h.cloudfront.net/static/93889/js/lib/vue/zoom-components.min.js": {"count": 2, "type": "script"}, "https://d24cgw3uvb9a9h.cloudfront.net/static/93889/js/app/jquery.validate.message.min.js": {"count": 2, "type": "script"}, "https://d24cgw3uvb9a9h.cloudfront.net/static/93889/js/sb.min.js": {"count": 2, "type": "script"}, "https://d24cgw3uvb9a9h.cloudfront.net/static/93889/js/lib/vue/advanced/notification/notification.min.js": {"count": 2, "type": "script"}, "https://d24cgw3uvb9a9h.cloudfront.net/zoom.ico": {"count": 2, "type": "link"}, "https://chrome.google.com/webstore/detail/kgjfgplpablkjnlkjmjdecgdpfankdle/": {"count": 2, "type": "link"}, "https://d24cgw3uvb9a9h.cloudfront.net/static/93889/css/all.min.css": {"count": 2, "type": "link"}, "https://d24cgw3uvb9a9h.cloudfront.net/static/93889/js/lib/vue/advanced/notification/notification.min.css": {"count": 2, "type": "link"}, "https://d24cgw3uvb9a9h.cloudfront.net/static/93889/css/vue/zoom-components.min.css": {"count": 2, "type": "link"}, "https://d24cgw3uvb9a9h.cloudfront.net/static/93889/css/meetings/meeting_delete_dialog.min.css": {"count": 2, "type": "link"}, "https://d24cgw3uvb9a9h.cloudfront.net/static/93889/image/new/ZoomLogo.png": {"count": 2, "type": "img"}, "https://d24cgw3uvb9a9h.cloudfront.net/static/93889/image/new/pricing/pricing-voice.jpg": {"count": 2, "type": "img"}, "https://d24cgw3uvb9a9h.cloudfront.net/static/93889/image/new/zoomrooms/laptop_weebinar.png": {"count": 2, "type": "img"}}, "ip_addresses": {"3.235.72.190": {"lat": 39.0481, "long": 39.0481}}}
+{
+    "top_url": "https://zoom.us/pricing/",
+    "top_domain": "zoom.us",
+    "external_domains": {
+        "support.zoom.us": {
+            "resources": {
+                "total": 16,
+                "a": 16,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "104.16.51.111": {
+                    "lat": 37.751,
+                    "long": 37.751
+                },
+                "104.16.54.111": {
+                    "lat": 37.751,
+                    "long": 37.751
+                },
+                "104.16.55.111": {
+                    "lat": 37.751,
+                    "long": 37.751
+                },
+                "104.16.52.111": {
+                    "lat": 37.751,
+                    "long": 37.751
+                },
+                "104.16.53.111": {
+                    "lat": 37.751,
+                    "long": 37.751
+                }
+            }
+        },
+        "blog.zoom.us": {
+            "resources": {
+                "total": 6,
+                "a": 6,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "18.211.110.86": {
+                    "lat": 39.0481,
+                    "long": 39.0481
+                }
+            }
+        },
+        "investors.zoom.us": {
+            "resources": {
+                "total": 2,
+                "a": 2,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "184.26.90.208": {
+                    "lat": 37.751,
+                    "long": 37.751
+                },
+                "184.26.90.136": {
+                    "lat": 37.751,
+                    "long": 37.751
+                }
+            }
+        },
+        "linkedin.com": {
+            "resources": {
+                "total": 2,
+                "a": 2,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "108.174.10.10": {
+                    "lat": 37.751,
+                    "long": 37.751
+                }
+            }
+        },
+        "twitter.com": {
+            "resources": {
+                "total": 2,
+                "a": 2,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "104.244.42.1": {
+                    "lat": 37.751,
+                    "long": 37.751
+                },
+                "104.244.42.129": {
+                    "lat": 37.751,
+                    "long": 37.751
+                }
+            }
+        },
+        "youtube.com": {
+            "resources": {
+                "total": 2,
+                "a": 2,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "172.217.12.174": {
+                    "lat": 37.751,
+                    "long": 37.751
+                }
+            }
+        },
+        "facebook.com": {
+            "resources": {
+                "total": 2,
+                "a": 2,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "157.240.18.35": {
+                    "lat": 37.751,
+                    "long": 37.751
+                }
+            }
+        },
+        "d24cgw3uvb9a9h.cloudfront.net": {
+            "resources": {
+                "total": 28,
+                "a": 0,
+                "script": 12,
+                "link": 10,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 6,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "99.84.112.153": {
+                    "lat": 37.751,
+                    "long": 37.751
+                },
+                "99.84.112.217": {
+                    "lat": 37.751,
+                    "long": 37.751
+                },
+                "99.84.112.8": {
+                    "lat": 37.751,
+                    "long": 37.751
+                },
+                "99.84.112.123": {
+                    "lat": 37.751,
+                    "long": 37.751
+                }
+            }
+        },
+        "chrome.google.com": {
+            "resources": {
+                "total": 2,
+                "a": 0,
+                "script": 0,
+                "link": 2,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "172.217.12.142": {
+                    "lat": 37.751,
+                    "long": 37.751
+                }
+            }
+        }
+    },
+    "external_resources": {
+        "https://support.zoom.us/hc/en-us/articles/206618765-Zoom-Video-Tutorials/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://blog.zoom.us/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://support.zoom.us/hc/en-us/articles/206175806-Top-Questions/": {
+            "count": 4,
+            "type": "a"
+        },
+        "https://support.zoom.us/hc/en-us/": {
+            "count": 8,
+            "type": "a"
+        },
+        "https://support.zoom.us/hc/en-us/articles/201080605-W-9-Wire-Transfer-Instructions/": {
+            "count": 2,
+            "type": "a"
+        },
+        "http://blog.zoom.us/": {
+            "count": 4,
+            "type": "a"
+        },
+        "https://investors.zoom.us/": {
+            "count": 2,
+            "type": "a"
+        },
+        "http://linkedin.com/company/2532259/": {
+            "count": 2,
+            "type": "a"
+        },
+        "http://twitter.com/zoom_us/": {
+            "count": 2,
+            "type": "a"
+        },
+        "http://youtube.com/zoommeetings/": {
+            "count": 2,
+            "type": "a"
+        },
+        "http://facebook.com/zoomvideocommunications/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://d24cgw3uvb9a9h.cloudfront.net/static/93889/js/all.min.js": {
+            "count": 2,
+            "type": "script"
+        },
+        "https://d24cgw3uvb9a9h.cloudfront.net/static/93889/js/lib/vue/vue.min.js": {
+            "count": 2,
+            "type": "script"
+        },
+        "https://d24cgw3uvb9a9h.cloudfront.net/static/93889/js/lib/vue/zoom-components.min.js": {
+            "count": 2,
+            "type": "script"
+        },
+        "https://d24cgw3uvb9a9h.cloudfront.net/static/93889/js/app/jquery.validate.message.min.js": {
+            "count": 2,
+            "type": "script"
+        },
+        "https://d24cgw3uvb9a9h.cloudfront.net/static/93889/js/sb.min.js": {
+            "count": 2,
+            "type": "script"
+        },
+        "https://d24cgw3uvb9a9h.cloudfront.net/static/93889/js/lib/vue/advanced/notification/notification.min.js": {
+            "count": 2,
+            "type": "script"
+        },
+        "https://d24cgw3uvb9a9h.cloudfront.net/zoom.ico": {
+            "count": 2,
+            "type": "link"
+        },
+        "https://chrome.google.com/webstore/detail/kgjfgplpablkjnlkjmjdecgdpfankdle/": {
+            "count": 2,
+            "type": "link"
+        },
+        "https://d24cgw3uvb9a9h.cloudfront.net/static/93889/css/all.min.css": {
+            "count": 2,
+            "type": "link"
+        },
+        "https://d24cgw3uvb9a9h.cloudfront.net/static/93889/js/lib/vue/advanced/notification/notification.min.css": {
+            "count": 2,
+            "type": "link"
+        },
+        "https://d24cgw3uvb9a9h.cloudfront.net/static/93889/css/vue/zoom-components.min.css": {
+            "count": 2,
+            "type": "link"
+        },
+        "https://d24cgw3uvb9a9h.cloudfront.net/static/93889/css/meetings/meeting_delete_dialog.min.css": {
+            "count": 2,
+            "type": "link"
+        },
+        "https://d24cgw3uvb9a9h.cloudfront.net/static/93889/image/new/ZoomLogo.png": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://d24cgw3uvb9a9h.cloudfront.net/static/93889/image/new/pricing/pricing-voice.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://d24cgw3uvb9a9h.cloudfront.net/static/93889/image/new/zoomrooms/laptop_weebinar.png": {
+            "count": 2,
+            "type": "img"
+        }
+    },
+    "ip_addresses": {
+        "3.235.72.190": {
+            "lat": 39.0481,
+            "long": 39.0481
+        }
+    }
+}

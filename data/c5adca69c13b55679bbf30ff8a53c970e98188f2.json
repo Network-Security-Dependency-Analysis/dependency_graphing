@@ -1,1 +1,202 @@
-{"top_url": "http://users.ece.cmu.edu/~vsekar/Teaching/Spring20/18731/", "top_domain": "users.ece.cmu.edu", "external_domains": {"docs.google.com": {"resources": {"total": 1, "a": 1, "script": 0, "link": 0, "iframe": 0, "video": 0, "audio": 0, "img": 0, "embed": 0, "object": 0}, "ip_addresses": {"172.217.7.14": {"lat": 37.751, "long": 37.751}}}, "fonts.googleapis.com": {"resources": {"total": 6, "a": 0, "script": 0, "link": 6, "iframe": 0, "video": 0, "audio": 0, "img": 0, "embed": 0, "object": 0}, "ip_addresses": {"172.217.10.234": {"lat": 37.751, "long": 37.751}}}, "forms.gle": {"resources": {"total": 1, "a": 1, "script": 0, "link": 0, "iframe": 0, "video": 0, "audio": 0, "img": 0, "embed": 0, "object": 0}, "ip_addresses": {"151.101.65.195": {"lat": 37.751, "long": 37.751}, "151.101.1.195": {"lat": 37.751, "long": 37.751}}}, "mininet.org": {"resources": {"total": 1, "a": 1, "script": 0, "link": 0, "iframe": 0, "video": 0, "audio": 0, "img": 0, "embed": 0, "object": 0}, "ip_addresses": {"192.30.252.153": {"lat": 37.751, "long": 37.751}, "192.30.252.154": {"lat": 37.751, "long": 37.751}}}, "virtualbox.org": {"resources": {"total": 1, "a": 1, "script": 0, "link": 0, "iframe": 0, "video": 0, "audio": 0, "img": 0, "embed": 0, "object": 0}, "ip_addresses": {"137.254.60.32": {"lat": 37.751, "long": 37.751}}}, "noxrepo.org": {"resources": {"total": 1, "a": 1, "script": 0, "link": 0, "iframe": 0, "video": 0, "audio": 0, "img": 0, "embed": 0, "object": 0}, "ip_addresses": {"64.111.125.3": {"lat": 37.751, "long": 37.751}}}, "piazza.com": {"resources": {"total": 1, "a": 1, "script": 0, "link": 0, "iframe": 0, "video": 0, "audio": 0, "img": 0, "embed": 0, "object": 0}, "ip_addresses": {"34.192.194.48": {"lat": 39.0481, "long": 39.0481}, "3.220.226.234": {"lat": 39.0481, "long": 39.0481}, "34.231.49.99": {"lat": 39.0481, "long": 39.0481}, "52.71.92.221": {"lat": 39.0481, "long": 39.0481}}}}, "external_resources": {"https://docs.google.com/presentation/d/1-0bjeQJc7sARXXPzZKOjVUXuMEo_igFI0lq4eUEIamc/edit#slide=id.p!": {"count": 1, "type": "a"}, "https://fonts.googleapis.com/css?family=Titillium+Web:600italic,600,400,400italic/": {"count": 6, "type": "link"}, "https://forms.gle/Fu4Xj3N7cFSeQPD48/": {"count": 1, "type": "a"}, "http://mininet.org/": {"count": 1, "type": "a"}, "https://virtualbox.org/": {"count": 1, "type": "a"}, "http://noxrepo.org/pox/about-pox/": {"count": 1, "type": "a"}, "https://piazza.com/class/k5b62zd28phsw/": {"count": 1, "type": "a"}}, "ip_addresses": {"128.2.131.88": {"lat": 40.4442, "long": 40.4442}}}
+{
+    "top_url": "http://users.ece.cmu.edu/~vsekar/Teaching/Spring20/18731/",
+    "top_domain": "users.ece.cmu.edu",
+    "external_domains": {
+        "docs.google.com": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "172.217.7.14": {
+                    "lat": 37.751,
+                    "long": 37.751
+                }
+            }
+        },
+        "fonts.googleapis.com": {
+            "resources": {
+                "total": 6,
+                "a": 0,
+                "script": 0,
+                "link": 6,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "172.217.10.234": {
+                    "lat": 37.751,
+                    "long": 37.751
+                }
+            }
+        },
+        "forms.gle": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "151.101.65.195": {
+                    "lat": 37.751,
+                    "long": 37.751
+                },
+                "151.101.1.195": {
+                    "lat": 37.751,
+                    "long": 37.751
+                }
+            }
+        },
+        "mininet.org": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "192.30.252.153": {
+                    "lat": 37.751,
+                    "long": 37.751
+                },
+                "192.30.252.154": {
+                    "lat": 37.751,
+                    "long": 37.751
+                }
+            }
+        },
+        "virtualbox.org": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "137.254.60.32": {
+                    "lat": 37.751,
+                    "long": 37.751
+                }
+            }
+        },
+        "noxrepo.org": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "64.111.125.3": {
+                    "lat": 37.751,
+                    "long": 37.751
+                }
+            }
+        },
+        "piazza.com": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "34.192.194.48": {
+                    "lat": 39.0481,
+                    "long": 39.0481
+                },
+                "3.220.226.234": {
+                    "lat": 39.0481,
+                    "long": 39.0481
+                },
+                "34.231.49.99": {
+                    "lat": 39.0481,
+                    "long": 39.0481
+                },
+                "52.71.92.221": {
+                    "lat": 39.0481,
+                    "long": 39.0481
+                }
+            }
+        }
+    },
+    "external_resources": {
+        "https://docs.google.com/presentation/d/1-0bjeQJc7sARXXPzZKOjVUXuMEo_igFI0lq4eUEIamc/edit#slide=id.p!": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://fonts.googleapis.com/css?family=Titillium+Web:600italic,600,400,400italic/": {
+            "count": 6,
+            "type": "link"
+        },
+        "https://forms.gle/Fu4Xj3N7cFSeQPD48/": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://mininet.org/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://virtualbox.org/": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://noxrepo.org/pox/about-pox/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://piazza.com/class/k5b62zd28phsw/": {
+            "count": 1,
+            "type": "a"
+        }
+    },
+    "ip_addresses": {
+        "128.2.131.88": {
+            "lat": 40.4442,
+            "long": 40.4442
+        }
+    }
+}

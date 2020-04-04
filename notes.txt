@@ -1,6 +1,7 @@
 ################################################################################
 # Priorities
 ################################################################################
+- Make the labels readable
 - Weight the edges based on the "COUNT"
 - nx_pylab.py
     - adjust node_size
@@ -12,7 +13,6 @@
 - Many Top Level Domains
     - Iterate through all the JSON Files
     - Make sure the domain lines up across multiple edges
-
 
 
 ################################################################################

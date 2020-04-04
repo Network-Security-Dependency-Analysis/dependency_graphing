@@ -1,4 +1,4 @@
-''' Testing the networkx graphing library '''
+''' Plot the dependency graph for a single top level domain (TLD) '''
 import json
 import numpy as np
 import pandas as pd
