@@ -2,10 +2,17 @@
 # Priorities
 ################################################################################
 - Weight the edges based on the "COUNT"
-- Make the text extra small
 - nx_pylab.py
     - adjust node_size
     - adjust node_color
+- plot the lat and long
+- different services show up as different colors (e.g. a, script, link, iframe,
+  video, audio, img, embed, object)
+- Should each graph only have a single Top Level Domain?
+- Many Top Level Domains
+    - Iterate through all the JSON Files
+    - Make sure the domain lines up across multiple edges
+
 
 
 ################################################################################
@@ -29,3 +36,9 @@ Dependency Types:
 - indirect/transitive
     - exclusive dependency (exd)
     - if s1 exd s2, and s2 exd s3, then s1 transitively dependent on s3
+
+
+################################################################################
+# Useful Links
+################################################################################
+https://networkx.github.io/documentation/latest/auto_examples/drawing/plot_directed.html
