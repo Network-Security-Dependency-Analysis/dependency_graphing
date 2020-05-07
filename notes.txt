@@ -1,6 +1,7 @@
 ################################################################################
 # Priorities
 ################################################################################
+- only plot script, img, iframe
 - Make the labels readable
     - make the labels scale to the node size
     - Only assign labels to dependencies which are big enough
