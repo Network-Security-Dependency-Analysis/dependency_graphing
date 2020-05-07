@@ -1,17 +1,18 @@
 ################################################################################
 # Priorities
 ################################################################################
-- only plot script, img, iframe
 - Make the labels readable
-    - make the labels scale to the node size
     - Only assign labels to dependencies which are big enough
+    - make the labels scale to the node size
     - draw_network_labels()
     - node_size() taken into account for the springloader positioning?
+- For a single TLD, generate a barchart instead of a graph
+- Rebuild program cleanly using this feature
+    - "G.add_edge(1, 3, weight=7, capacity=15, length=342.7)"
 - plot the lat and long
 - different services show up as different colors (e.g. a, script, link, iframe,
   video, audio, img, embed, object)
     - Color code the nodes
-- For a single TLD, generate a barchart instead of a graph
 
 
 ################################################################################

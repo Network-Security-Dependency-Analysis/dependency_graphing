@@ -7,8 +7,10 @@ import networkx as nx
 import matplotlib.pyplot as plt
 
 DEFAULT_NODE_SIZE = 1  # library default is 300
+MIN_DEPENDENCIES = 5
 DATA_DIR = 'data/pgh/'
-RESOURCES = ['script', 'iframe', 'video', 'audio', 'img', 'embed']
+# RESOURCES = ['script', 'iframe', 'video', 'audio', 'img', 'embed']
+RESOURCES = ['script']
 
 # Retrieve the json data on dependencies
 TLDs = []
@@ -48,6 +50,16 @@ node_sizes = []
 for node in G.nodes:
     node_sizes.append(num_deps[node] * DEFAULT_NODE_SIZE)
 
+# Update node labels in the graph
+labels = {}
+for node, size in zip(G.nodes, node_sizes):
+    if size >= MIN_DEPENDENCIES:
+        labels[node] = node
+    elif node in [tld['top_domain'] for tld in TLDs]:
+        labels[node] = node
+    else:
+        labels[node] = ''
+
 # Plot it
-nx.draw(G, with_labels=True, font_size=5, node_color="skyblue", node_size=node_sizes)
+nx.draw(G, with_labels=True, font_color='r', font_size=5, node_color="skyblue", node_size=node_sizes, labels=labels)
 plt.show()
