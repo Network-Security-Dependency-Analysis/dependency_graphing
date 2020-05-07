@@ -2,17 +2,15 @@
 # Priorities
 ################################################################################
 - Make the labels readable
-- Weight the edges based on the "COUNT"
-- nx_pylab.py
-    - adjust node_size
-    - adjust node_color
+    - make the labels scale to the node size
+    - Only assign labels to dependencies which are big enough
+    - draw_network_labels()
+    - node_size() taken into account for the springloader positioning?
 - plot the lat and long
 - different services show up as different colors (e.g. a, script, link, iframe,
   video, audio, img, embed, object)
-- Should each graph only have a single Top Level Domain?
-- Many Top Level Domains
-    - Iterate through all the JSON Files
-    - Make sure the domain lines up across multiple edges
+    - Color code the nodes
+- For a single TLD, generate a barchart instead of a graph
 
 
 ################################################################################

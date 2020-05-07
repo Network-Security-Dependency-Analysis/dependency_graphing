@@ -1,0 +1,5925 @@
+{
+    "top_url": "https://pittsburghpa.gov/",
+    "top_domain": "pittsburghpa.gov",
+    "external_domains": {
+        "cprbpgh.org": {
+            "resources": {
+                "total": 340,
+                "a": 340,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "50.87.199.113": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 46606,
+                    "as_org": "UNIFIEDLAYER-AS-1"
+                }
+            }
+        },
+        "communitysafety.pittsburghpa.gov": {
+            "resources": {
+                "total": 370,
+                "a": 370,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "205.141.190.92": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 26059,
+                    "as_org": "PGH-AS"
+                }
+            }
+        },
+        "governmentjobs.com": {
+            "resources": {
+                "total": 1031,
+                "a": 1031,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "162.246.160.80": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 33093,
+                    "as_org": "NEOGOV"
+                }
+            }
+        },
+        "pittsburghpa.shinyapps.io": {
+            "resources": {
+                "total": 731,
+                "a": 731,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "3.216.53.251": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                },
+                "107.23.174.121": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                },
+                "52.6.169.187": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                }
+            }
+        },
+        "encrypted.google.com": {
+            "resources": {
+                "total": 170,
+                "a": 170,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "172.217.3.110": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 15169,
+                    "as_org": "GOOGLE"
+                }
+            }
+        },
+        "visitpittsburgh.com": {
+            "resources": {
+                "total": 340,
+                "a": 340,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "34.226.187.201": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                }
+            }
+        },
+        "apps.pittsburghpa.gov": {
+            "resources": {
+                "total": 1839,
+                "a": 406,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 1433,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "205.141.190.114": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 26059,
+                    "as_org": "PGH-AS"
+                }
+            }
+        },
+        "launchpgh.com": {
+            "resources": {
+                "total": 340,
+                "a": 340,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "23.185.0.1": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 54113,
+                    "as_org": "FASTLY"
+                }
+            }
+        },
+        "medium.com": {
+            "resources": {
+                "total": 4,
+                "a": 4,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "104.16.120.127": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 13335,
+                    "as_org": "CLOUDFLARENET"
+                },
+                "104.16.121.127": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 13335,
+                    "as_org": "CLOUDFLARENET"
+                },
+                "104.16.123.127": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 13335,
+                    "as_org": "CLOUDFLARENET"
+                },
+                "104.16.124.127": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 13335,
+                    "as_org": "CLOUDFLARENET"
+                },
+                "104.16.122.127": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 13335,
+                    "as_org": "CLOUDFLARENET"
+                }
+            }
+        },
+        "allvision.io": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "3.134.58.38": {
+                    "lat": 39.9653,
+                    "long": -83.0235,
+                    "asn": 16509,
+                    "as_org": "AMAZON-02"
+                },
+                "3.16.253.131": {
+                    "lat": 39.9653,
+                    "long": -83.0235,
+                    "asn": 16509,
+                    "as_org": "AMAZON-02"
+                },
+                "3.135.176.153": {
+                    "lat": 39.9653,
+                    "long": -83.0235,
+                    "asn": 16509,
+                    "as_org": "AMAZON-02"
+                }
+            }
+        },
+        "beam-data.com": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "104.248.60.43": {
+                    "lat": 40.793,
+                    "long": -74.0247,
+                    "asn": 14061,
+                    "as_org": "DIGITALOCEAN-ASN"
+                }
+            }
+        },
+        "bestie.co": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "104.19.240.93": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 13335,
+                    "as_org": "CLOUDFLARENET"
+                },
+                "104.19.241.93": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 13335,
+                    "as_org": "CLOUDFLARENET"
+                }
+            }
+        },
+        "cropolis.co": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "157.230.216.51": {
+                    "lat": 40.793,
+                    "long": -74.0247,
+                    "asn": 14061,
+                    "as_org": "DIGITALOCEAN-ASN"
+                }
+            }
+        },
+        "metamesh.org": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "23.236.62.147": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 15169,
+                    "as_org": "GOOGLE"
+                }
+            }
+        },
+        "netbeez.net": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "162.252.84.146": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 29802,
+                    "as_org": "HVC-AS"
+                }
+            }
+        },
+        "qlicket.com": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "3.85.109.77": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                }
+            }
+        },
+        "steelcitysoils.com": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "159.89.41.105": {
+                    "lat": 40.8364,
+                    "long": -74.1403,
+                    "asn": 14061,
+                    "as_org": "DIGITALOCEAN-ASN"
+                }
+            }
+        },
+        "globalwordsmiths.com": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "23.236.62.147": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 15169,
+                    "as_org": "GOOGLE"
+                }
+            }
+        },
+        "zensors.com": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "3.132.243.232": {
+                    "lat": 39.9653,
+                    "long": -83.0235,
+                    "asn": 16509,
+                    "as_org": "AMAZON-02"
+                },
+                "3.12.54.140": {
+                    "lat": 39.9653,
+                    "long": -83.0235,
+                    "asn": 16509,
+                    "as_org": "AMAZON-02"
+                }
+            }
+        },
+        "cleanrobotics.com": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "45.40.150.81": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 26496,
+                    "as_org": "AS-26496-GO-DADDY-COM-LLC"
+                }
+            }
+        },
+        "cognowear.com": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "104.27.175.101": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 13335,
+                    "as_org": "CLOUDFLARENET"
+                },
+                "104.27.174.101": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 13335,
+                    "as_org": "CLOUDFLARENET"
+                }
+            }
+        },
+        "goflywheelgo.com": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {}
+        },
+        "hibersense.com": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "52.1.191.120": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                }
+            }
+        },
+        "kaarta.com": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "3.85.132.146": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                }
+            }
+        },
+        "waterhorseenergy.com": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "18.211.9.206": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                }
+            }
+        },
+        "transit-source.com": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "66.96.147.96": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 29873,
+                    "as_org": "BIZLAND-SD"
+                }
+            }
+        },
+        "cattfish.com": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "104.236.123.190": {
+                    "lat": 40.8364,
+                    "long": -74.1403,
+                    "asn": 14061,
+                    "as_org": "DIGITALOCEAN-ASN"
+                }
+            }
+        },
+        "changeagency.world": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "23.251.151.93": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 15169,
+                    "as_org": "GOOGLE"
+                }
+            }
+        },
+        "roomleopard.com": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "208.91.197.27": {
+                    "lat": 18.5,
+                    "long": -64.5,
+                    "asn": 40034,
+                    "as_org": "CONFLUENCE-NETWORK-INC"
+                }
+            }
+        },
+        "honeycombcredit.com": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "23.236.62.147": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 15169,
+                    "as_org": "GOOGLE"
+                }
+            }
+        },
+        "wormreturn.com": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "23.227.38.32": {
+                    "lat": 43.6319,
+                    "long": -79.3716,
+                    "asn": 13335,
+                    "as_org": "CLOUDFLARENET"
+                }
+            }
+        },
+        "deco-resources.com": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "69.90.24.177": {
+                    "lat": 49.245,
+                    "long": -123.1337,
+                    "asn": 13768,
+                    "as_org": "COGECO-PEER1"
+                }
+            }
+        },
+        " https://lifewhere.com/": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {}
+        },
+        "techstrasolutions.com": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "50.63.103.33": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 26496,
+                    "as_org": "AS-26496-GO-DADDY-COM-LLC"
+                }
+            }
+        },
+        "it-security-solutions.com": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "199.250.199.40": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 54641,
+                    "as_org": "INMOTI-1"
+                }
+            }
+        },
+        "ura.org": {
+            "resources": {
+                "total": 9,
+                "a": 9,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "35.174.2.169": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                }
+            }
+        },
+        "hacp.org": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "162.243.37.191": {
+                    "lat": 40.7308,
+                    "long": -73.9975,
+                    "asn": 14061,
+                    "as_org": "DIGITALOCEAN-ASN"
+                }
+            }
+        },
+        "pittsburghparking.com": {
+            "resources": {
+                "total": 9,
+                "a": 9,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "205.141.129.198": {
+                    "lat": 40.3989,
+                    "long": -79.9332,
+                    "asn": 26059,
+                    "as_org": "PGH-AS"
+                }
+            }
+        },
+        "flypittsburgh.com": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "151.101.130.159": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 54113,
+                    "as_org": "FASTLY"
+                }
+            }
+        },
+        "technical.ly": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "104.197.25.64": {
+                    "lat": 38.6583,
+                    "long": -77.2481,
+                    "asn": 15169,
+                    "as_org": "GOOGLE"
+                }
+            }
+        },
+        "pitchwerks.com": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "199.34.228.69": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 27647,
+                    "as_org": "WEEBLY"
+                }
+            }
+        },
+        "internetassociation.org": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "104.198.109.149": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 15169,
+                    "as_org": "GOOGLE"
+                }
+            }
+        },
+        "bizjournals.com": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "107.154.102.27": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 19551,
+                    "as_org": "INCAPSULA"
+                },
+                "107.154.103.27": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 19551,
+                    "as_org": "INCAPSULA"
+                }
+            }
+        },
+        "geekwire.com": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "104.26.15.176": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 13335,
+                    "as_org": "CLOUDFLARENET"
+                },
+                "104.26.14.176": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 13335,
+                    "as_org": "CLOUDFLARENET"
+                }
+            }
+        },
+        "triblive.com": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "104.22.11.64": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 13335,
+                    "as_org": "CLOUDFLARENET"
+                },
+                "104.22.10.64": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 13335,
+                    "as_org": "CLOUDFLARENET"
+                }
+            }
+        },
+        "sopghreporter.com": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "35.165.62.155": {
+                    "lat": 45.8491,
+                    "long": -119.7143,
+                    "asn": 16509,
+                    "as_org": "AMAZON-02"
+                }
+            }
+        },
+        "googletagmanager.com": {
+            "resources": {
+                "total": 176,
+                "a": 0,
+                "script": 4,
+                "link": 0,
+                "iframe": 172,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "172.217.12.136": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 15169,
+                    "as_org": "GOOGLE"
+                }
+            }
+        },
+        "code.jquery.com": {
+            "resources": {
+                "total": 175,
+                "a": 0,
+                "script": 175,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "209.197.3.24": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 20446,
+                    "as_org": "HIGHWINDS3"
+                }
+            }
+        },
+        "fonts.googleapis.com": {
+            "resources": {
+                "total": 9,
+                "a": 0,
+                "script": 0,
+                "link": 9,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "172.217.10.138": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 15169,
+                    "as_org": "GOOGLE"
+                }
+            }
+        },
+        "onestoppgh.pittsburghpa.gov": {
+            "resources": {
+                "total": 475,
+                "a": 475,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "66.35.56.71": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 22625,
+                    "as_org": "IMDC-AS22625"
+                }
+            }
+        },
+        "pittsburghpa.buildingeye.com": {
+            "resources": {
+                "total": 349,
+                "a": 349,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "52.203.46.66": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                },
+                "18.235.168.190": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                }
+            }
+        },
+        "fiscalfocus.pittsburghpa.gov": {
+            "resources": {
+                "total": 350,
+                "a": 350,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "52.206.140.205": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                },
+                "52.206.140.199": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                },
+                "52.206.68.26": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                }
+            }
+        },
+        "webstats.pittsburghpa.gov": {
+            "resources": {
+                "total": 338,
+                "a": 338,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "13.225.62.68": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 16509,
+                    "as_org": "AMAZON-02"
+                },
+                "13.225.62.11": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 16509,
+                    "as_org": "AMAZON-02"
+                },
+                "13.225.62.31": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 16509,
+                    "as_org": "AMAZON-02"
+                },
+                "13.225.62.2": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 16509,
+                    "as_org": "AMAZON-02"
+                }
+            }
+        },
+        "cityalarmpermit.com": {
+            "resources": {
+                "total": 346,
+                "a": 346,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "174.143.78.102": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 33070,
+                    "as_org": "RMH-14"
+                }
+            }
+        },
+        "openbookpittsburgh.com": {
+            "resources": {
+                "total": 354,
+                "a": 354,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "38.87.54.170": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 174,
+                    "as_org": "COGENT-174"
+                }
+            }
+        },
+        "dspayments.com": {
+            "resources": {
+                "total": 344,
+                "a": 344,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "207.250.125.14": {
+                    "lat": 43.0477,
+                    "long": -88.004,
+                    "asn": 3549,
+                    "as_org": "LVLT-3549"
+                }
+            }
+        },
+        "gomobilepittsburgh.com": {
+            "resources": {
+                "total": 340,
+                "a": 340,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "107.180.50.181": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 26496,
+                    "as_org": "AS-26496-GO-DADDY-COM-LLC"
+                }
+            }
+        },
+        "ww2.payerexpress.com": {
+            "resources": {
+                "total": 344,
+                "a": 344,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "67.20.169.57": {
+                    "lat": 40.1585,
+                    "long": -76.0511,
+                    "asn": 7381,
+                    "as_org": "SRS-6-Z-7381"
+                }
+            }
+        },
+        "magic.collectorsolutions.com": {
+            "resources": {
+                "total": 385,
+                "a": 385,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "207.223.116.230": {
+                    "lat": 33.7684,
+                    "long": -86.8084,
+                    "asn": 33606,
+                    "as_org": "TEKLINKS"
+                }
+            }
+        },
+        "pgh.st": {
+            "resources": {
+                "total": 342,
+                "a": 342,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "207.38.86.241": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 30083,
+                    "as_org": "AS-30083-GO-DADDY-COM-LLC"
+                }
+            }
+        },
+        "google.com": {
+            "resources": {
+                "total": 172,
+                "a": 170,
+                "script": 0,
+                "link": 0,
+                "iframe": 2,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "172.217.9.238": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 15169,
+                    "as_org": "GOOGLE"
+                }
+            }
+        },
+        "library.municode.com": {
+            "resources": {
+                "total": 18,
+                "a": 18,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "52.227.138.23": {
+                    "lat": 36.6534,
+                    "long": -78.375,
+                    "asn": 8075,
+                    "as_org": "MICROSOFT-CORP-MSN-AS-BLOCK"
+                }
+            }
+        },
+        "public-pgh.epropertyplus.com": {
+            "resources": {
+                "total": 42,
+                "a": 42,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "54.243.34.63": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                }
+            }
+        },
+        "facebook.com": {
+            "resources": {
+                "total": 218,
+                "a": 216,
+                "script": 0,
+                "link": 0,
+                "iframe": 2,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "157.240.18.35": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 32934,
+                    "as_org": "FACEBOOK"
+                }
+            }
+        },
+        "twitter.com": {
+            "resources": {
+                "total": 252,
+                "a": 252,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "104.244.42.1": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 13414,
+                    "as_org": "TWITTER"
+                },
+                "104.244.42.65": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 13414,
+                    "as_org": "TWITTER"
+                }
+            }
+        },
+        "instagram.com": {
+            "resources": {
+                "total": 22,
+                "a": 22,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "34.192.55.61": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                },
+                "3.94.155.152": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                },
+                "3.223.74.156": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                },
+                "34.225.190.8": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                },
+                "3.215.250.205": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                },
+                "34.230.150.191": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                },
+                "3.209.182.35": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                },
+                "34.196.166.174": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                }
+            }
+        },
+        "pittsburghpa.local": {
+            "resources": {
+                "total": 134,
+                "a": 134,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {}
+        },
+        "youtube.com": {
+            "resources": {
+                "total": 138,
+                "a": 134,
+                "script": 0,
+                "link": 0,
+                "iframe": 4,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "172.217.10.238": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 15169,
+                    "as_org": "GOOGLE"
+                }
+            }
+        },
+        "translation-services-usa.com": {
+            "resources": {
+                "total": 134,
+                "a": 134,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "158.69.243.62": {
+                    "lat": 45.4995,
+                    "long": -73.5848,
+                    "asn": 16276,
+                    "as_org": "OVH SAS"
+                }
+            }
+        },
+        "tableau.alleghenycounty.us": {
+            "resources": {
+                "total": 8,
+                "a": 8,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "199.224.17.139": {
+                    "lat": 40.3965,
+                    "long": -80.0442,
+                    "asn": 54559,
+                    "as_org": "ALGH-DCS"
+                }
+            }
+        },
+        "fema.gov": {
+            "resources": {
+                "total": 2,
+                "a": 2,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "104.126.79.189": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 16625,
+                    "as_org": "AKAMAI-AS"
+                }
+            }
+        },
+        "pittsburghfoundation.org": {
+            "resources": {
+                "total": 2,
+                "a": 2,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "23.185.0.3": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 54113,
+                    "as_org": "FASTLY"
+                }
+            }
+        },
+        "security.org": {
+            "resources": {
+                "total": 2,
+                "a": 2,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "107.178.243.66": {
+                    "lat": 38.6583,
+                    "long": -77.2481,
+                    "asn": 15169,
+                    "as_org": "GOOGLE"
+                }
+            }
+        },
+        "www2.county.allegheny.pa.us": {
+            "resources": {
+                "total": 6,
+                "a": 6,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "40.76.96.132": {
+                    "lat": 38.7095,
+                    "long": -78.1539,
+                    "asn": 8075,
+                    "as_org": "MICROSOFT-CORP-MSN-AS-BLOCK"
+                }
+            }
+        },
+        "cims.pittsburghpa.gov": {
+            "resources": {
+                "total": 2,
+                "a": 2,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "205.141.129.198": {
+                    "lat": 40.3989,
+                    "long": -79.9332,
+                    "asn": 26059,
+                    "as_org": "PGH-AS"
+                }
+            }
+        },
+        "famspermit.com": {
+            "resources": {
+                "total": 4,
+                "a": 4,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "174.143.78.96": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 33070,
+                    "as_org": "RMH-14"
+                }
+            }
+        },
+        "get.adobe.com": {
+            "resources": {
+                "total": 6,
+                "a": 6,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "193.104.215.66": {
+                    "lat": 35.1716,
+                    "long": -80.9118,
+                    "asn": 44786,
+                    "as_org": "Adobe Systems Software Ireland Ltd"
+                }
+            }
+        },
+        "support.office.com": {
+            "resources": {
+                "total": 4,
+                "a": 4,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "104.126.68.19": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 16625,
+                    "as_org": "AKAMAI-AS"
+                }
+            }
+        },
+        "alleghenycounty.us": {
+            "resources": {
+                "total": 18,
+                "a": 18,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "199.224.22.10": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 54559,
+                    "as_org": "ALGH-DCS"
+                }
+            }
+        },
+        "ecsr.net": {
+            "resources": {
+                "total": 4,
+                "a": 4,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "107.180.2.235": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 26496,
+                    "as_org": "AS-26496-GO-DADDY-COM-LLC"
+                }
+            }
+        },
+        "wprdc.org": {
+            "resources": {
+                "total": 8,
+                "a": 8,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "136.142.88.60": {
+                    "lat": 40.4442,
+                    "long": -79.9557,
+                    "asn": 4130,
+                    "as_org": "UPITT-AS"
+                }
+            }
+        },
+        "goo.gl": {
+            "resources": {
+                "total": 7,
+                "a": 7,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "172.217.11.14": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 15169,
+                    "as_org": "GOOGLE"
+                }
+            }
+        },
+        "registerparks.pittsburghpa.gov": {
+            "resources": {
+                "total": 11,
+                "a": 11,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "205.141.129.27": {
+                    "lat": 40.3989,
+                    "long": -79.9332,
+                    "asn": 26059,
+                    "as_org": "PGH-AS"
+                }
+            }
+        },
+        "pgh2o.com": {
+            "resources": {
+                "total": 8,
+                "a": 8,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "52.36.45.254": {
+                    "lat": 45.8491,
+                    "long": -119.7143,
+                    "asn": 16509,
+                    "as_org": "AMAZON-02"
+                },
+                "52.25.219.28": {
+                    "lat": 45.8491,
+                    "long": -119.7143,
+                    "asn": 16509,
+                    "as_org": "AMAZON-02"
+                }
+            }
+        },
+        "dmv.org": {
+            "resources": {
+                "total": 2,
+                "a": 2,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "3.214.71.201": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                }
+            }
+        },
+        "pps.k12.pa.us": {
+            "resources": {
+                "total": 2,
+                "a": 2,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "198.206.22.200": {
+                    "lat": 40.4064,
+                    "long": -79.9856,
+                    "asn": 20031,
+                    "as_org": "SDP-ASN"
+                }
+            }
+        },
+        "portauthority.org": {
+            "resources": {
+                "total": 2,
+                "a": 2,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "199.102.91.190": {
+                    "lat": 40.4603,
+                    "long": -80.0359,
+                    "asn": 22804,
+                    "as_org": "IDEALCLOUD"
+                }
+            }
+        },
+        "itunes.apple.com": {
+            "resources": {
+                "total": 4,
+                "a": 4,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "184.27.220.34": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 16625,
+                    "as_org": "AKAMAI-AS"
+                }
+            }
+        },
+        "play.google.com": {
+            "resources": {
+                "total": 4,
+                "a": 4,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "172.217.10.110": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 15169,
+                    "as_org": "GOOGLE"
+                }
+            }
+        },
+        "weinnovatepgh.net": {
+            "resources": {
+                "total": 2,
+                "a": 2,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "192.0.78.181": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 2635,
+                    "as_org": "AUTOMATTIC"
+                },
+                "192.0.78.239": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 2635,
+                    "as_org": "AUTOMATTIC"
+                }
+            }
+        },
+        "digital.library.pitt.edu": {
+            "resources": {
+                "total": 7,
+                "a": 7,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "136.142.156.76": {
+                    "lat": 40.4324,
+                    "long": -79.9247,
+                    "asn": 4130,
+                    "as_org": "UPITT-AS"
+                }
+            }
+        },
+        "pghfdn.theresumator.com": {
+            "resources": {
+                "total": 2,
+                "a": 2,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "3.212.111.15": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                },
+                "3.217.142.33": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                }
+            }
+        },
+        "pwsablueribbon.org": {
+            "resources": {
+                "total": 5,
+                "a": 5,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "104.28.17.197": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 13335,
+                    "as_org": "CLOUDFLARENET"
+                },
+                "104.28.16.197": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 13335,
+                    "as_org": "CLOUDFLARENET"
+                }
+            }
+        },
+        "pittsburgh.plowtracker.com": {
+            "resources": {
+                "total": 2,
+                "a": 2,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "8.33.80.108": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 7381,
+                    "as_org": "SRS-6-Z-7381"
+                }
+            }
+        },
+        "pittsburgh-plows.connectanywhere.co": {
+            "resources": {
+                "total": 2,
+                "a": 0,
+                "script": 0,
+                "link": 0,
+                "iframe": 2,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "8.33.80.108": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 7381,
+                    "as_org": "SRS-6-Z-7381"
+                }
+            }
+        },
+        "minutesmatterpgh.com": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "52.170.46.174": {
+                    "lat": 38.7095,
+                    "long": -78.1539,
+                    "asn": 8075,
+                    "as_org": "MICROSOFT-CORP-MSN-AS-BLOCK"
+                }
+            }
+        },
+        "gis.pittsburghpa.gov": {
+            "resources": {
+                "total": 3,
+                "a": 3,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "205.141.190.93": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 26059,
+                    "as_org": "PGH-AS"
+                }
+            }
+        },
+        "pittsburgh.legistar.com": {
+            "resources": {
+                "total": 15,
+                "a": 13,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 2,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "207.7.154.40": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 29748,
+                    "as_org": "QTS-ASH"
+                }
+            }
+        },
+        "runsignup.com": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "54.165.155.11": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                },
+                "34.194.61.140": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                },
+                "3.222.216.205": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                }
+            }
+        },
+        "na01.safelinks.protection.outlook.com": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "104.47.38.28": {
+                    "lat": 38.7095,
+                    "long": -78.1539,
+                    "asn": 8075,
+                    "as_org": "MICROSOFT-CORP-MSN-AS-BLOCK"
+                },
+                "104.47.44.28": {
+                    "lat": 29.4247,
+                    "long": -98.4935,
+                    "asn": 8075,
+                    "as_org": "MICROSOFT-CORP-MSN-AS-BLOCK"
+                }
+            }
+        },
+        "pittsburghpa.qscend.com": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "192.195.173.30": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 394524,
+                    "as_org": "QSCEND"
+                }
+            }
+        },
+        "nhtsa.gov": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "204.68.194.196": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 2576,
+                    "as_org": "DOT-AS"
+                }
+            }
+        },
+        "data.wprdc.org": {
+            "resources": {
+                "total": 2,
+                "a": 2,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "35.169.165.142": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                }
+            }
+        },
+        "forms.gle": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "151.101.1.195": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 54113,
+                    "as_org": "FASTLY"
+                },
+                "151.101.65.195": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 54113,
+                    "as_org": "FASTLY"
+                }
+            }
+        },
+        "qminder.com": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "13.225.62.8": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 16509,
+                    "as_org": "AMAZON-02"
+                },
+                "13.225.62.9": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 16509,
+                    "as_org": "AMAZON-02"
+                },
+                "13.225.62.47": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 16509,
+                    "as_org": "AMAZON-02"
+                },
+                "13.225.62.75": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 16509,
+                    "as_org": "AMAZON-02"
+                }
+            }
+        },
+        "bbbspgh.org": {
+            "resources": {
+                "total": 2,
+                "a": 2,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "146.20.149.144": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 27357,
+                    "as_org": "RACKSPACE"
+                }
+            }
+        },
+        "uwswpa.org": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "72.10.53.140": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 31815,
+                    "as_org": "MEDIATEMPLE"
+                }
+            }
+        },
+        "\thttps://pittsburghpa.gov/innovation-performance/gis/": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {}
+        },
+        "cfefund.org": {
+            "resources": {
+                "total": 4,
+                "a": 4,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "104.196.205.145": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 15169,
+                    "as_org": "GOOGLE"
+                }
+            }
+        },
+        "neighborhoodallies.com": {
+            "resources": {
+                "total": 4,
+                "a": 4,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "66.39.49.167": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 7859,
+                    "as_org": "PAIR-NETWORKS"
+                }
+            }
+        },
+        "advantageccs.org": {
+            "resources": {
+                "total": 4,
+                "a": 4,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "104.28.24.95": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 13335,
+                    "as_org": "CLOUDFLARENET"
+                },
+                "104.28.25.95": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 13335,
+                    "as_org": "CLOUDFLARENET"
+                }
+            }
+        },
+        "omny.fm": {
+            "resources": {
+                "total": 2,
+                "a": 2,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "104.20.63.35": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 13335,
+                    "as_org": "CLOUDFLARENET"
+                },
+                "104.20.64.35": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 13335,
+                    "as_org": "CLOUDFLARENET"
+                }
+            }
+        },
+        "nextdoor.com": {
+            "resources": {
+                "total": 3,
+                "a": 3,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "13.225.62.81": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 16509,
+                    "as_org": "AMAZON-02"
+                },
+                "13.225.62.94": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 16509,
+                    "as_org": "AMAZON-02"
+                },
+                "13.225.62.62": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 16509,
+                    "as_org": "AMAZON-02"
+                },
+                "13.225.62.18": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 16509,
+                    "as_org": "AMAZON-02"
+                }
+            }
+        },
+        "calendar.google.com": {
+            "resources": {
+                "total": 2,
+                "a": 2,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "172.217.6.206": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 15169,
+                    "as_org": "GOOGLE"
+                }
+            }
+        },
+        "pittsburghrbi.leagueapps.com": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "107.178.210.162": {
+                    "lat": 38.6583,
+                    "long": -77.2481,
+                    "asn": 15169,
+                    "as_org": "GOOGLE"
+                }
+            }
+        },
+        "pgh-sea.com": {
+            "resources": {
+                "total": 2,
+                "a": 2,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "209.59.156.109": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 32244,
+                    "as_org": "LIQUIDWEB"
+                }
+            }
+        },
+        "health.pa.gov": {
+            "resources": {
+                "total": 2,
+                "a": 2,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "206.17.31.206": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 17231,
+                    "as_org": "ATT-CERFNET-BLOCK"
+                },
+                "63.241.232.211": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 7018,
+                    "as_org": "ATT-INTERNET4"
+                }
+            }
+        },
+        "governor.pa.gov": {
+            "resources": {
+                "total": 2,
+                "a": 2,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "13.226.31.125": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 16509,
+                    "as_org": "AMAZON-02"
+                },
+                "13.226.31.65": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 16509,
+                    "as_org": "AMAZON-02"
+                },
+                "13.226.31.81": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 16509,
+                    "as_org": "AMAZON-02"
+                },
+                "13.226.31.4": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 16509,
+                    "as_org": "AMAZON-02"
+                }
+            }
+        },
+        "cdc.gov": {
+            "resources": {
+                "total": 2,
+                "a": 2,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "198.246.106.49": {
+                    "lat": 33.8019,
+                    "long": -84.3861,
+                    "asn": 13611,
+                    "as_org": "CDC"
+                },
+                "198.246.102.49": {
+                    "lat": 33.8019,
+                    "long": -84.3861,
+                    "asn": 13611,
+                    "as_org": "CDC"
+                }
+            }
+        },
+        "nih.gov": {
+            "resources": {
+                "total": 2,
+                "a": 2,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "54.235.145.223": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                }
+            }
+        },
+        "who.int": {
+            "resources": {
+                "total": 2,
+                "a": 2,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "158.232.12.119": {
+                    "lat": 46.2058,
+                    "long": 6.1416,
+                    "asn": 28810,
+                    "as_org": "World Health Organization (WHO)"
+                }
+            }
+        },
+        "amwater.com": {
+            "resources": {
+                "total": 2,
+                "a": 2,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "13.248.146.74": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 16509,
+                    "as_org": "AMAZON-02"
+                }
+            }
+        },
+        " https://apps.pittsburghpa.gov/redtail/images/9125_Swahili_-_City_of_Pittsburgh_announces_more_distancing_restrictions.pdf ": {
+            "resources": {
+                "total": 2,
+                "a": 2,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {}
+        },
+        "alcogis.maps.arcgis.com": {
+            "resources": {
+                "total": 2,
+                "a": 2,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "52.3.118.132": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                },
+                "35.171.62.122": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                },
+                "52.205.53.65": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                },
+                "52.203.158.234": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                },
+                "52.5.233.169": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                },
+                "52.54.4.29": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                },
+                "34.228.201.51": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                },
+                "34.229.2.9": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                }
+            }
+        },
+        "humaneanimalrescue.org": {
+            "resources": {
+                "total": 2,
+                "a": 2,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "50.28.41.123": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 32244,
+                    "as_org": "LIQUIDWEB"
+                }
+            }
+        },
+        "bigburgh.com": {
+            "resources": {
+                "total": 4,
+                "a": 4,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "64.90.52.86": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 26347,
+                    "as_org": "DREAMHOST-AS"
+                }
+            }
+        },
+        "wcspittsburgh.org": {
+            "resources": {
+                "total": 2,
+                "a": 2,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "192.124.249.158": {
+                    "lat": 33.6647,
+                    "long": -117.1743,
+                    "asn": 30148,
+                    "as_org": "SUCURI-SEC"
+                }
+            }
+        },
+        "corporate.comcast.com": {
+            "resources": {
+                "total": 2,
+                "a": 2,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "104.64.229.9": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 16625,
+                    "as_org": "AKAMAI-AS"
+                }
+            }
+        },
+        "upmc.com": {
+            "resources": {
+                "total": 4,
+                "a": 4,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "157.229.38.48": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 122,
+                    "as_org": "UPMC-AS122"
+                }
+            }
+        },
+        "peer-support.org": {
+            "resources": {
+                "total": 2,
+                "a": 2,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "184.168.152.147": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 26496,
+                    "as_org": "AS-26496-GO-DADDY-COM-LLC"
+                }
+            }
+        },
+        "samhsa.gov": {
+            "resources": {
+                "total": 2,
+                "a": 2,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "52.61.138.75": {
+                    "lat": 45.8491,
+                    "long": -119.7143,
+                    "asn": 8987,
+                    "as_org": "Amazon Data Services Ireland Ltd"
+                }
+            }
+        },
+        "pghschools.org": {
+            "resources": {
+                "total": 4,
+                "a": 4,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "52.206.191.232": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                }
+            }
+        },
+        "elrc5.alleghenycounty.us": {
+            "resources": {
+                "total": 2,
+                "a": 2,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "198.49.23.144": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 53831,
+                    "as_org": "SQUARESPACE"
+                },
+                "198.185.159.144": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 53831,
+                    "as_org": "SQUARESPACE"
+                },
+                "198.185.159.145": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 53831,
+                    "as_org": "SQUARESPACE"
+                },
+                "198.49.23.145": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 53831,
+                    "as_org": "SQUARESPACE"
+                }
+            }
+        },
+        "static1.squarespace.com": {
+            "resources": {
+                "total": 2,
+                "a": 2,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "151.101.184.238": {
+                    "lat": 41.8483,
+                    "long": -87.6517,
+                    "asn": 54113,
+                    "as_org": "FASTLY"
+                }
+            }
+        },
+        "drive.google.com": {
+            "resources": {
+                "total": 2,
+                "a": 2,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "172.217.12.206": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 15169,
+                    "as_org": "GOOGLE"
+                }
+            }
+        },
+        "uc.pa.gov": {
+            "resources": {
+                "total": 2,
+                "a": 2,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "13.225.62.114": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 16509,
+                    "as_org": "AMAZON-02"
+                },
+                "13.225.62.53": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 16509,
+                    "as_org": "AMAZON-02"
+                },
+                "13.225.62.34": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 16509,
+                    "as_org": "AMAZON-02"
+                },
+                "13.225.62.101": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 16509,
+                    "as_org": "AMAZON-02"
+                }
+            }
+        },
+        "sba.gov": {
+            "resources": {
+                "total": 2,
+                "a": 2,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "100.24.234.30": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                },
+                "34.238.5.146": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                },
+                "3.219.77.158": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                }
+            }
+        },
+        "dced.pa.gov": {
+            "resources": {
+                "total": 2,
+                "a": 2,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "67.225.161.90": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 32244,
+                    "as_org": "LIQUIDWEB"
+                }
+            }
+        },
+        "docs.google.com": {
+            "resources": {
+                "total": 4,
+                "a": 4,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "172.217.12.142": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 15169,
+                    "as_org": "GOOGLE"
+                }
+            }
+        },
+        "riversidecenterforinnovation.com": {
+            "resources": {
+                "total": 2,
+                "a": 2,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "76.223.27.102": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 16509,
+                    "as_org": "AMAZON-02"
+                },
+                "13.248.155.104": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 16509,
+                    "as_org": "AMAZON-02"
+                }
+            }
+        }
+    },
+    "external_resources": {
+        "https://cprbpgh.org/": {
+            "count": 340,
+            "type": "a"
+        },
+        "https://communitysafety.pittsburghpa.gov/Home.aspx": {
+            "count": 370,
+            "type": "a"
+        },
+        "https://governmentjobs.com/careers/pittsburgh/": {
+            "count": 687,
+            "type": "a"
+        },
+        "https://pittsburghpa.shinyapps.io/BurghsEyeView/": {
+            "count": 693,
+            "type": "a"
+        },
+        "https://encrypted.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiJlq-ft7DTAhWELyYKHS4XBT0QFggkMAA&url=https%3A%2F%2Fnextpittsburgh.com%2F&usg=AFQjCNEdojBqqVd0mmLIdQ-7tzXDUSNojA&sig2=OtFTa_G9y3GOVAzL89IXqA": {
+            "count": 168,
+            "type": "a"
+        },
+        "https://visitpittsburgh.com/": {
+            "count": 340,
+            "type": "a"
+        },
+        "http://apps.pittsburghpa.gov/redtail/images/8618_Pgh_Buying_Plan_Q1_2020.pdf": {
+            "count": 3,
+            "type": "a"
+        },
+        "http://apps.pittsburghpa.gov/redtail/images/2003_CityofPittsburghVendorRegistrationGuidev3.1.01.18.pdf": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://launchpgh.com/": {
+            "count": 340,
+            "type": "a"
+        },
+        "https://medium.com/department-of-innovation-performance/tagged/civic-innovation/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://allvision.io/": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://beam-data.com/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://bestie.co/landing-page/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://cropolis.co/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://metamesh.org/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://netbeez.net/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://qlicket.com/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://steelcitysoils.com/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://globalwordsmiths.com/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://zensors.com/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://cleanrobotics.com/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://cognowear.com/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://goflywheelgo.com/team/%20target=/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://hibersense.com/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://kaarta.com/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://waterhorseenergy.com/renerge-inc/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://transit-source.com/ target=/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://cattfish.com/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://changeagency.world/about-us/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://roomleopard.com/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://honeycombcredit.com/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://wormreturn.com/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://deco-resources.com/": {
+            "count": 1,
+            "type": "a"
+        },
+        " https://lifewhere.com/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://techstrasolutions.com/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://it-security-solutions.com/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://ura.org/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://hacp.org/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://pittsburghparking.com/": {
+            "count": 7,
+            "type": "a"
+        },
+        "https://flypittsburgh.com/allegheny-county-airport/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://technical.ly/2018/05/30/pgh-lab-startups-civic-tech-local-government-open-data-pittsburgh/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://medium.com/department-of-innovation-performance/language-matters-8cd83cd5b20f/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://pitchwerks.com/podcast/annia-aleman-pgh-lab-pitchwerks-81/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://medium.com/department-of-innovation-performance/netbeez-finds-a-temporary-hive-in-city-government-6d013fcee19a/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://internetassociation.org/reports/look-future-cities-internet-age/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://bizjournals.com/pittsburgh/news/2018/02/14/city-announces-third-pgh-lab-startup-cohort.html?ana=twt": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://geekwire.com/2018/8-pittsburgh-area-startups-make-third-class-city-backed-pgh-lab-incubator/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://triblive.com/local/allegheny/13303764-74/pgh-lab-announces-third-cohort-of-startup-partnerships/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://sopghreporter.com/story/2018/02/20/news/city-announces-third-cohort-of-pgh-lab-startup-program/18564.html": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://googletagmanager.com/gtag/js?id=UA-76963647-1/": {
+            "count": 2,
+            "type": "script"
+        },
+        "https://code.jquery.com/jquery.min.js": {
+            "count": 4,
+            "type": "script"
+        },
+        "https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic/": {
+            "count": 1,
+            "type": "link"
+        },
+        "https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800/": {
+            "count": 1,
+            "type": "link"
+        },
+        "https://onestoppgh.pittsburghpa.gov/pghprod/pub/lms/Login.aspx": {
+            "count": 474,
+            "type": "a"
+        },
+        "https://pittsburghpa.buildingeye.com/": {
+            "count": 340,
+            "type": "a"
+        },
+        "https://fiscalfocus.pittsburghpa.gov/": {
+            "count": 349,
+            "type": "a"
+        },
+        "https://webstats.pittsburghpa.gov/": {
+            "count": 336,
+            "type": "a"
+        },
+        "https://cityalarmpermit.com/FAMS/Citizen/City/Pittsburgh/ATB_Login.aspx": {
+            "count": 346,
+            "type": "a"
+        },
+        "https://openbookpittsburgh.com/": {
+            "count": 342,
+            "type": "a"
+        },
+        "https://dspayments.com/Pittsburgh/": {
+            "count": 340,
+            "type": "a"
+        },
+        "https://gomobilepittsburgh.com/": {
+            "count": 340,
+            "type": "a"
+        },
+        "https://ww2.payerexpress.com/ebp/ppapleases/": {
+            "count": 344,
+            "type": "a"
+        },
+        "https://magic.collectorsolutions.com/magic-ui/Login/pittsburgh/": {
+            "count": 385,
+            "type": "a"
+        },
+        "https://fonts.googleapis.com/css?family=Raleway:400,100,200,300,500,600,700,800,900/": {
+            "count": 1,
+            "type": "link"
+        },
+        "https://googletagmanager.com/ns.html?id=GTM-KXJS3WF": {
+            "count": 1,
+            "type": "iframe"
+        },
+        "https://pgh.st/": {
+            "count": 342,
+            "type": "a"
+        },
+        "https://governmentjobs.com/careers/pittsburgh/transferjobs/": {
+            "count": 340,
+            "type": "a"
+        },
+        "https://code.jquery.com/jquery-3.4.1.min.js": {
+            "count": 1,
+            "type": "script"
+        },
+        "https://googletagmanager.com/gtag/js?id=UA-88739770-2/": {
+            "count": 1,
+            "type": "script"
+        },
+        "httpss://google.com/maps/place/Pittsburgh,+PA/data=!4m2!3m1!1s0x8834f16f48068503:0x8df915a15aa21b34?ved=2ahUKEwjW-r6fis3gAhXvRd8KHau2Bk0Q8gEwAHoECAAQAQ/": {
+            "count": 170,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/2630_Annual_Debt_Service_ChartNEW5.11.18.pdf": {
+            "count": 7,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/2625_Debt_Amortization_Schedule.pdf": {
+            "count": 7,
+            "type": "a"
+        },
+        "https://library.municode.com/pa/pittsburgh/codes/code_of_ordinances?nodeId=COOR_TITTWOFI_ARTIAD_CH202DEMAPO/": {
+            "count": 7,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/2626_Outstanding_Principal.pdf": {
+            "count": 7,
+            "type": "a"
+        },
+        "https://pittsburghpa.shinyapps.io/BurghsEyeViewParcels/": {
+            "count": 38,
+            "type": "a"
+        },
+        "https://public-pgh.epropertyplus.com/landmgmtpub/app/base/landing/": {
+            "count": 42,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/7721_Penalty_Waiver_Instructions.pdf": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8661_Request_For_Penalty_Waiver_Form.pdf": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/6820_2019_LST_EXEMPTION_CERT.pdf": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/6819__LST_REFUND_FORM.pdf": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/dps/Title_Six-Conduct-Article_III.PDF": {
+            "count": 18,
+            "type": "a"
+        },
+        "https://facebook.com/PittsburghPolice/": {
+            "count": 3,
+            "type": "a"
+        },
+        "https://twitter.com/PghPolice/": {
+            "count": 3,
+            "type": "a"
+        },
+        "https://instagram.com/pghpolice/": {
+            "count": 3,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/dps/Violence-in-the-City-of-Pittsburgh-2010-through-2014.pdf": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/dps/Updated-Violence-in-the-City-of-Pittsburgh-First-Six-Months-of-the-Year-2015.pdf": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/dps/Violence_in_the_City_of_Pittsburgh_2015.pdf": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/dps/Violence_in_the_City_of_Pittsburgh_First_Six_Months_of_2016.pdf": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://pittsburghpa.local/publicsafety/publicsafety.html.html": {
+            "count": 134,
+            "type": "a"
+        },
+        "https://facebook.com/city.of.pittsburgh/": {
+            "count": 154,
+            "type": "a"
+        },
+        "https://twitter.com/citypgh?lang=en/": {
+            "count": 134,
+            "type": "a"
+        },
+        "https://youtube.com/channel/UC-YfIv9wvBjGT3LMxo9hLoQ/": {
+            "count": 134,
+            "type": "a"
+        },
+        "https://translation-services-usa.com/": {
+            "count": 134,
+            "type": "a"
+        },
+        "https://code.jquery.com/jquery.js": {
+            "count": 170,
+            "type": "script"
+        },
+        "https://googletagmanager.com/ns.html?id=GTM-PFQX7GL": {
+            "count": 170,
+            "type": "iframe"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/4971_residents-nav.png": {
+            "count": 170,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/4953_welcome-nav-visitors.png": {
+            "count": 170,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/4991_business.png": {
+            "count": 170,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/4981_city-hall.png": {
+            "count": 170,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/4984_online-apps.png": {
+            "count": 170,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/4943_pgh-nav-map.PNG": {
+            "count": 170,
+            "type": "img"
+        },
+        "https://tableau.alleghenycounty.us/t/PublicSite/views/CJ_GunViolence_PGH_8-22-17_v2/Home?:embed=y&:showAppBanner=false&:showShareOptions=true&:display_count=no&:showVizHome=no/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://tableau.alleghenycounty.us/t/PublicSite/views/CJ_Homicides_PGH_8-22-17_v2/Home?:embed=y&:showAppBanner=false&:showShareOptions=true&:display_count=no&:showVizHome=no/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://tableau.alleghenycounty.us/t/PublicSite/views/CJ_Overall_Violence_Trends_PGH_8-22-17_v2/Home?:embed=y&:showAppBanner=false&:showShareOptions=true&:display_count=no&:showVizHome=no/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://tableau.alleghenycounty.us/t/PublicSite/views/CJ_UCR_PGH_8-22-17_v3/Home?:embed=y&:showAppBanner=false&:showShareOptions=true&:display_count=no&:showVizHome=no/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://fema.gov/national-incident-management-system/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://pittsburghfoundation.org/roccofund/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/76_police-memorial.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/982_badge.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/983_06_pobadge.gif": {
+            "count": 2,
+            "type": "img"
+        },
+        "http://apps.pittsburghpa.gov/redtail/images/6033_police-homepage.jpg": {
+            "count": 1,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/dps/lost-pet.png": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/dps/cats-ears.png": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/dps/urban-wildlife-faq.png": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/7917_Urban_Agriculture.pdf": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/dps/SpayNeuterAppUpdated_6-17.pdf": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/dps/sn.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://security.org/resources/keeping-pets-safe/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/dps/owner.jpg": {
+            "count": 4,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/dps/home.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://www2.county.allegheny.pa.us/RealEstate/Default.aspx": {
+            "count": 4,
+            "type": "a"
+        },
+        "https://cims.pittsburghpa.gov/fea3/finance/realestate.html#realestate-faqs": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8662_Moodys_Rating_30.01.2019.pdf": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8663_8630_S&P_Rating_Report_914838_21.02.2020.pdf": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8727_Fitch_Pittsburgh_Pennsylvania_-_2020-02-26_Final_Formal_Report.pdf": {
+            "count": 2,
+            "type": "a"
+        },
+        "http://famspermit.com/pittsburgh/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://get.adobe.com/reader/": {
+            "count": 6,
+            "type": "a"
+        },
+        "https://support.office.com/en-us/article/HA010449811?CorrelationId=987e6d7c-a898-4132-89d2-5f8950b5dd81/": {
+            "count": 4,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/2521_2018_ABATEMENT_TABLE_as_of_4-1-18.pdf": {
+            "count": 4,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8274_Act_42_Enhanced_Exemption_Application.pdf": {
+            "count": 4,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/5633_ACT_42_ENHANCED_-_TARGETED_GROWTH_ZONES.pdf": {
+            "count": 4,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/5632_3_year_ACT_42_APPLICATION__2_.pdf": {
+            "count": 4,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8270_Local_Economic_Stimulus_Abatement_Application.pdf": {
+            "count": 4,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8272_Commercial_LERTA_Abatement_Application.pdf": {
+            "count": 4,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8269_Procedures_for_Purchasing_Property_Through_Court_Auction_Sales.pdf": {
+            "count": 4,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8265_Request_to_Purchase_Application_-_Individuals.pdf": {
+            "count": 4,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8266_Request_to_Purchase_Application_-_Business_Entities.pdf": {
+            "count": 4,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8267_Request_to_Include_Tax_Delinquent_Property_in_a_Treasurer_s_Sale_Proceeding.pdf": {
+            "count": 4,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/7242_AVAILABLE_FOR_AUCTION_10-3-19.pdf": {
+            "count": 6,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/7241_Regulations_10-18-19.pdf": {
+            "count": 6,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/finance/sideyard_sale_program.pdf": {
+            "count": 6,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8268_Request_For_City_Iien_Verification_Letter.pdf": {
+            "count": 4,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8408_tax_cert_letter.pdf": {
+            "count": 4,
+            "type": "a"
+        },
+        "https://alleghenycounty.us/treasurers-office/senior-citizen-tax-relief.aspx": {
+            "count": 4,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8556_Act_77_verification_Form.pdf": {
+            "count": 4,
+            "type": "a"
+        },
+        "https://alleghenycounty.us/real-estate/abatements-exemptions/act-50/act-50-application-process.aspx": {
+            "count": 4,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8395_Discount_Extension_Form__Real_Estate.pdf": {
+            "count": 4,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/finance/05_Auction_Procedures.pdf": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/1771_2_15_2018_Individual_V.1_Fillable_Update_2-15.pdf": {
+            "count": 4,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/1769_2_15_2018_Business_Entities_V.1_Fillable_Update_2-15.pdf": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/1772_2_15_2018_Treasurers_V.1_Fillable_Update_2-15.pdf": {
+            "count": 4,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/finance/Amusement_Tax_2.pdf": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/finance/ISP_FAQ.pdf": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/finance/2008_LST_faq.pdf": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/7279_Payroll_Expense_Tax_FAQs.pdf": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/finance/facility_usage_fee.pdf": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/finance/Parking_Tax.pdf": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/7278_Change_in_Business_Status_Form_.pdf": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8394_Business_Registration_Form.pdf": {
+            "count": 4,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/7590_Delinquent_Real_Estate_taxes_as_of_10-31-19.pdf": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://www2.county.allegheny.pa.us/RealEstate/search.aspx": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8384_2020_Instructions_for_Tax_Forms.pdf": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8382_2020_Amusment_Tax_Form.pdf": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/6614_2019_AT_7.25.2019.pdf": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/finance/Amusement%20Tax%20-%20Regulations.pdf": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8389_2020_Payroll_Expense_Tax_Form.pdf": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/6615_2019_ET-1_7.25.19.pdf": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/6612_2018_ET-1_7.25.19.pdf": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/6610_2017_ET-1_7.25.19.pdf": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/6608_2016_ET-1_7.25.19.pdf": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/finance/2016_PROVISIONAL_QUARTER_ET-1_%281%29.pdf": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/finance/10_ET-1_payroll_tax_regulations_2017.pdf": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8383_2020_Institution_and_Service_Privilege_Tax_Form.pdf": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/6616_2019_ISP.7.25.19.pdf": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/finance/ISP_Regs.PDF": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8170_2020_Local_Services_Tax_Employee_Only_Form.pdf": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/6618_2019_LS-3_-7.25.19.pdf": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/finance/2008_LST_regulations.pdf": {
+            "count": 4,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8396_2020_Local_Services_Tax_Employer-Self_Employed_Form.pdf": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/6617_2019_LS-1_7.25.19.pdf": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/6613_2018_LS-1_7.25.19.pdf": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/6629_2017_LS-1_7.26.19.pdf": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/6609_2016_LS-1_7.25.19.pdf": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8388_2020_Parking_Tax_Form.pdf": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/6619_2019_PT.7.25.19.pdf": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/332_Parking_Tax_Regulations_FINAL_version_(1).pdf": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8387_2020_Non-Resident_Sports_Facility_Usage_Fee_Form.pdf": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/6620_2019_UF-1_SPORTS.7.25.19.pdf": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/finance/Final_UF_-_Regulations_2-9-17.pdf": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://twitter.com/pghdpw?lang=en/": {
+            "count": 5,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8431_combo.pdf": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8082_COP_CE_2020.pdf": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8081_COP_SN_2020.pdf": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/dpw/large-truck.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/dpw/ENVS_DIVsm.gif": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/dpw/pgh.stapplet.png": {
+            "count": 2,
+            "type": "img"
+        },
+        "http://twitter.com/pghdpw?lang=en/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://ecsr.net/pittsburgh-recycling/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://governmentjobs.com/careers/Pittsburgh?department[0]=Public%20Works&sort=PositionTitle%7CAscending/": {
+            "count": 2,
+            "type": "a"
+        },
+        "http://apps.pittsburghpa.gov/redtail/images/8516_yard-bris-day.jpg": {
+            "count": 1,
+            "type": "img"
+        },
+        "http://apps.pittsburghpa.gov/redtail/images/3765_treeviltalize.jpg": {
+            "count": 1,
+            "type": "img"
+        },
+        "http://apps.pittsburghpa.gov/redtail/images/7440_recycling.png": {
+            "count": 1,
+            "type": "img"
+        },
+        "http://apps.pittsburghpa.gov/redtail/images/8521_cropped-Pittsburgh-Recycling-2.jpg": {
+            "count": 1,
+            "type": "img"
+        },
+        "http://apps.pittsburghpa.gov/redtail/images/3766_DBKadjHVoAAuBH-.jpg": {
+            "count": 1,
+            "type": "img"
+        },
+        "http://apps.pittsburghpa.gov/redtail/images/5724_dpw-recognition.png": {
+            "count": 1,
+            "type": "img"
+        },
+        "https://encrypted.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiJlq-ft7DTAhWELyYKHS4XBT0QFggkMAA&url=http%3A%2F%2Fnextpittsburgh.com%2F&usg=AFQjCNEdojBqqVd0mmLIdQ-7tzXDUSNojA&sig2=OtFTa_G9y3GOVAzL89IXqA": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://famspermit.com/pittsburgh/": {
+            "count": 2,
+            "type": "a"
+        },
+        "http://webstats.pittsburghpa.gov/": {
+            "count": 2,
+            "type": "a"
+        },
+        "http://openbookpittsburgh.com/": {
+            "count": 7,
+            "type": "a"
+        },
+        "https://wprdc.org/": {
+            "count": 8,
+            "type": "a"
+        },
+        "https://goo.gl/ZPbkRa/": {
+            "count": 4,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/finance/Business_Discontinuation_Form_2015.pdf": {
+            "count": 4,
+            "type": "a"
+        },
+        "https://registerparks.pittsburghpa.gov/": {
+            "count": 11,
+            "type": "a"
+        },
+        "https://dspayments.com/pittsburgh/": {
+            "count": 4,
+            "type": "a"
+        },
+        "https://pgh2o.com/pay/": {
+            "count": 4,
+            "type": "a"
+        },
+        "https://ecsr.net/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://dmv.org/pa-pennsylvania/disabled-drivers.php": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://pps.k12.pa.us/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://portauthority.org/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://openbookpittsburgh.com/SearchContracts.aspx": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://library.municode.com/pa/pittsburgh/codes/code_of_ordinances/": {
+            "count": 10,
+            "type": "a"
+        },
+        "https://pittsburghpa.buildingeye.com/building/": {
+            "count": 9,
+            "type": "a"
+        },
+        "https://itunes.apple.com/us/app/myburgh/id1021606996?mt=8/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://play.google.com/store/apps/details?id=com.qscend.report2gov.myburgh&hl=en": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://weinnovatepgh.net/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://twitter.com/CityPGH?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor/": {
+            "count": 12,
+            "type": "a"
+        },
+        "https://digital.library.pitt.edu/pittsburgh/": {
+            "count": 7,
+            "type": "a"
+        },
+        "https://pghfdn.theresumator.com/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8994_denny.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/9000_mayors-history-default.jpg": {
+            "count": 12,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8866_snowden.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8867_murray.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8868_lowrie.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8869_pettigrew.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8870_mcclintock.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8872_little.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8871_irwin.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/9001_thompson.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8873_howard.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8884_herron.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8885_barker.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8883_guthrie.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8956_bingham.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8957_weaver.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8958_wilson.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8959_sawyer.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8960_lowry.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8961_mcCarthy.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8962_blackmore.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8963_bush.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8964_liddell.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8965_lyon.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8969_fulton.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8970_mcCallin.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8971_gourley.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8972_mcKenna.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8976_ford.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8975_diehl.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8974_brown.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8973_obrown.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8980_hays.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8979_guthrie.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8978_magee.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8977_armstrong.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8981_babcock.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8982_kline.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8983_herron.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8984_mcNair.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8986_scully.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8987_lawrence.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8988_gallagher.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8989_barr.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8990_flaherty.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8998_calliguiri.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8992_masloff.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8993_murphy.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8996_oconnor.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8995_ravenstahl.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8999_peduto.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://pwsablueribbon.org/": {
+            "count": 4,
+            "type": "a"
+        },
+        "https://facebook.com/PghPublicSafety/": {
+            "count": 6,
+            "type": "a"
+        },
+        "https://twitter.com/pghpublicsafety/": {
+            "count": 4,
+            "type": "a"
+        },
+        "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700,600,800/": {
+            "count": 1,
+            "type": "link"
+        },
+        "https://fonts.googleapis.com/css?family=Arizonia/": {
+            "count": 1,
+            "type": "link"
+        },
+        "https://fonts.googleapis.com/css?family=Great+Vibes/": {
+            "count": 1,
+            "type": "link"
+        },
+        "https://fonts.googleapis.com/css?family=Lobster/": {
+            "count": 1,
+            "type": "link"
+        },
+        "https://facebook.com/City-of-Pittsburgh-Office-of-Special-Events-1000718500065848/": {
+            "count": 5,
+            "type": "a"
+        },
+        "https://twitter.com/PghEventsOffice/": {
+            "count": 5,
+            "type": "a"
+        },
+        "http://pittsburgh.plowtracker.com/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://pittsburgh-plows.connectanywhere.co/": {
+            "count": 2,
+            "type": "iframe"
+        },
+        "https://twitter.com/fiscalfocuspgh/": {
+            "count": 5,
+            "type": "a"
+        },
+        "https://openbookpittsburgh.com/SearchLobbyists.aspx": {
+            "count": 3,
+            "type": "a"
+        },
+        "https://itunes.apple.com/app/pghwatchdog/id1083599790?ls=1&mt=8/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://play.google.com/store/apps/details?id=gov.pittsburghpa.fraud.android.gp": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/236_Complaint_Procedure.pdf": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/811_facility-rental.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "http://apps.pittsburghpa.gov/redtail/images/6266_omi-homepage.jpg": {
+            "count": 1,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/7080_COP_Pension_Book_Master_Copy_7.17__1_.pdf": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://apps.pittsburghpa.gov/redtail/images/6235_mpf-homepage.jpg": {
+            "count": 1,
+            "type": "img"
+        },
+        "http://pittsburghparking.com/": {
+            "count": 2,
+            "type": "a"
+        },
+        "http://pgh2o.com/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://minutesmatterpgh.com/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/6085_pointing.png": {
+            "count": 13,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8374_MinutesMatter.png": {
+            "count": 1,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/5666_dolly_parton_imagination_library_free_books.jpg": {
+            "count": 1,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/4929_mbk-mayor.png": {
+            "count": 1,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/5242_Feyisola-Alabi.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/6692_oliver-beasley.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/5182_Alicia-Carberry.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/5253_Laurie-1.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/5252_Laura-Drogowski.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/6691_josiah-gilliam.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/5238_Dan-Gilman.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/7907_james-h.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/5246_Henry-Horn-Pyatt.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/5236_Anu-Jain.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/5256_Majestic-Lane.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/5233_Tim-McN..jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/7046_mohamed.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/6704_platt.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/5255_Lindsay-1.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/7045_rajakone.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/5259_Tiffini-Simoneaux.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/5239_Darlene-Watson.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/5258_Ricardo-WIlliams.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/5220_Erin-B..jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/5231_Ross-C..jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/6705_dash.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/5213_Mike-G..jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/5602_garces.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/5235_Yvonne-H.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/5234_Wendell-H..jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/5226_Margaret-L..jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/5222_Janet-M..jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/7047_pawlos.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/5225_Karina-R..jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/6706_stanley.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/5616_Jones.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/5618_Romano.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/5617_Schubert.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/6173_law-homepage.jpg": {
+            "count": 1,
+            "type": "img"
+        },
+        "https://library.municode.com/pa/pittsburgh/codes/code_of_ordinances?nodeId=COOR_TITONEAD_ARTXIHURE_CH198CAFIRE/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/5360_Fiscal_Focus_Mar12_FINAL.jpg": {
+            "count": 1,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/6234_cmptf.jpg": {
+            "count": 1,
+            "type": "img"
+        },
+        "https://gis.pittsburghpa.gov/cdbg/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://goo.gl/YqXpQv/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://facebook.com/Pittsburgh-City-Clerks-Office-291493564346138/": {
+            "count": 8,
+            "type": "a"
+        },
+        "https://twitter.com/CityClerk_Pgh/": {
+            "count": 8,
+            "type": "a"
+        },
+        "https://instagram.com/cityclerk_pgh/": {
+            "count": 8,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/452_Application-Inter-municipal-Liquor-License-Transfer.pdf": {
+            "count": 6,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/9082_1931_Rules_of_Council_Updated_3-17-20_(1).pdf": {
+            "count": 6,
+            "type": "a"
+        },
+        "https://pittsburgh.legistar.com/Calendar.aspx": {
+            "count": 9,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/6216_council-homepage.jpg": {
+            "count": 1,
+            "type": "img"
+        },
+        "https://pittsburgh.legistar.com/Legislation.aspx": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://pittsburgh.legistar.com/Help.aspx?M=L": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/344_lic.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://pittsburgh.legistar.com/Images/RSS.gif": {
+            "count": 2,
+            "type": "img"
+        },
+        "http://fiscalfocus.pittsburghpa.gov/": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://goo.gl/YqXpQv/": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://pwsablueribbon.org/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://googletagmanager.com/gtag/js?id=UA-88739770-1/": {
+            "count": 1,
+            "type": "script"
+        },
+        "https://fonts.googleapis.com/css?family=Raleway:100,200,300,400,500,600,700,800,900/": {
+            "count": 1,
+            "type": "link"
+        },
+        "https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900/": {
+            "count": 1,
+            "type": "link"
+        },
+        "https://googletagmanager.com/ns.html?id=GTM-NGSBRQ3": {
+            "count": 1,
+            "type": "iframe"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/6162_WRC-HOMEPAGE.jpg": {
+            "count": 1,
+            "type": "img"
+        },
+        "https://runsignup.com/Race/PA/Pittsburgh/BrooklineBreeze5K/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://na01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fregisterparks.pittsburghpa.gov%2F&data=02%7C01%7Ccis.sys.net.notifier%40pittsburghpa.gov%7C5cc5b308f6b847c2271008d65acfa8e6%7Cf5f47917c90443689120d327cf175591%7C1%7C1%7C636796245291100087&sdata=HYIOWDB1GNHhoQdZfDbyWEcb18nH5bLjrGKh5IHcOiw%3D&reserved=0": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8486_start_--_crowd_passes.jpg": {
+            "count": 1,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/9064_summer_activities.jpg": {
+            "count": 1,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8289_Great_Race_photo.jpg": {
+            "count": 1,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8293_Family_Fun_Run_start.jpg": {
+            "count": 1,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8093_Riverview_5K_--_male_winner.jpg": {
+            "count": 1,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8092_block-party.jpg": {
+            "count": 1,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/4353_facility-rental.jpg": {
+            "count": 1,
+            "type": "img"
+        },
+        "https://twitter.com/CityPGH/": {
+            "count": 6,
+            "type": "a"
+        },
+        "https://google.com/maps/embed?pb=!1m18!1m12!1m3!1d1276.8891995020274!2d-79.94548656468017!3d40.43163125293991!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8834f18dab793e3f%3A0xe4a68c7f4d82a670!2sSchenley+Park+Ice+Skating+Rink!5e0!3m2!1sen!2sus!4v1545679043288": {
+            "count": 2,
+            "type": "iframe"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/7424_Schenley-Rink----family-skating.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://pittsburghpa.qscend.com/311/request/add/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8516_yard-bris-day.jpg": {
+            "count": 1,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/3765_treeviltalize.jpg": {
+            "count": 1,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/7440_recycling.png": {
+            "count": 1,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8521_cropped-Pittsburgh-Recycling-2.jpg": {
+            "count": 1,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/3766_DBKadjHVoAAuBH-.jpg": {
+            "count": 1,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/5724_dpw-recognition.png": {
+            "count": 1,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/6178_dpw-homepage.jpg": {
+            "count": 1,
+            "type": "img"
+        },
+        "https://nhtsa.gov/equipment/car-seats-and-booster-seats#find-right-car-seat-find-compare-seats": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://instagram.com/pghparkrangers/": {
+            "count": 3,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/6371_2018_Annual_Report_Draft_-_Final.pdf": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/5354_City_Wide_Flyer.pdf": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/4801_2017_Annual_Report_Final_1.3.19.pdf": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://facebook.com/Department-of-Permits-Licenses-and-Inspections-1466309000366397/": {
+            "count": 3,
+            "type": "a"
+        },
+        "https://twitter.com/PLIpgh/": {
+            "count": 3,
+            "type": "a"
+        },
+        "https://data.wprdc.org/dataset/city-of-pittsburgh-building-permit-summary/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://onestoppgh.pittsburghpa.gov/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://forms.gle/bwBm9qQVoGW3pzPp9/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/1561_permit-application-tips.pdf": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://qminder.com/location/city-of-pittsburgh-pli/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8946_COVID_19_website_update-01.png": {
+            "count": 1,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/6265_pli-slider.png": {
+            "count": 1,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/7641_pli-survey.png": {
+            "count": 1,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/4694_permit-tips.png": {
+            "count": 1,
+            "type": "img"
+        },
+        "https://twitter.com/PghDOMI/": {
+            "count": 3,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/1360_BANNER_PERMIT_FEES_APPLICATION_REQUIREMENTS.PDF": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/6169_domi.jpg": {
+            "count": 1,
+            "type": "img"
+        },
+        "https://governmentjobs.com/careers/Pittsburgh/transferjobs/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8670_selecting-your-medical-care.pdf": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/7446_City_of_Pittsburgh_Occupational_Safety_Policy_Oct_18rev.pdf": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/7518_COP_BBP-ID_Manual_July_2014_FINAL-.pdf": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://bbbspgh.org/site/c.ahKLIYMIImI2E/b.9145659/k.C695/mentor20.htm": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://uwswpa.org/be-a-middle-school-mentor/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/6159_HR.jpg": {
+            "count": 1,
+            "type": "img"
+        },
+        "https://twitter.com/pghip?lang=en/": {
+            "count": 3,
+            "type": "a"
+        },
+        "\thttps://pittsburghpa.gov/innovation-performance/gis/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://gis.pittsburghpa.gov/pghenvironmental/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://youtube.com/embed/OaQ5U4XDcR4/": {
+            "count": 1,
+            "type": "iframe"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/6656_myburgh.png": {
+            "count": 1,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/6654_city-channel.png": {
+            "count": 1,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/6255_FEC_Flyer_June_2019.pdf": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://cfefund.org/": {
+            "count": 4,
+            "type": "a"
+        },
+        "https://neighborhoodallies.com/": {
+            "count": 4,
+            "type": "a"
+        },
+        "https://advantageccs.org/pa-home/": {
+            "count": 4,
+            "type": "a"
+        },
+        "https://omny.fm/shows/kdka-radio-middays/pittsburgh-financial-empowerment-centers/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/6254_FEC_press_release_final_5-9-19__1_.pdf": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://facebook.com/plugins/post.php?href=https%3A%2F%2Ffacebook.com%2FPghFEC%2Fposts%2F922685478176414&width=auto": {
+            "count": 2,
+            "type": "iframe"
+        },
+        "https://youtube.com/embed/fyc4qEbwoz8/": {
+            "count": 2,
+            "type": "iframe"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/5721_fec-logo.png": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/5463_rj-fec.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/5465_kr-fec.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/5467_io-fec.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/5466_kw-fec.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/7673_alicia-fec.png": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/5718_fund.png": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/5720_na.png": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/5719_advantage.png": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/6161_finance-homepage.jpg": {
+            "count": 1,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/6104_ehb.jpg": {
+            "count": 1,
+            "type": "img"
+        },
+        "https://facebook.com/ocapgh/": {
+            "count": 3,
+            "type": "a"
+        },
+        "https://twitter.com/ocapgh?lang=en/": {
+            "count": 3,
+            "type": "a"
+        },
+        "https://nextdoor.com/agency-detail/pa/pittsburgh/community-affairs/": {
+            "count": 3,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/6099_oca-hero.jpg": {
+            "count": 1,
+            "type": "img"
+        },
+        "https://facebook.com/PghCHR/": {
+            "count": 3,
+            "type": "a"
+        },
+        "https://twitter.com/pghchr?lang=en/": {
+            "count": 3,
+            "type": "a"
+        },
+        "https://calendar.google.com/calendar/r?cid=aHVtYW4ucmVsYXRpb25zLnBnaEBnbWFpbC5jb20/": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://apps.pittsburghpa.gov/redtail/images/8899_PghCHR_closed_sign.pdf": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://calendar.google.com/calendar?cid=aHVtYW4ucmVsYXRpb25zLnBnaEBnbWFpbC5jb20/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/9086_Coronavirus_response_3-26-2020.pdf": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://facebook.com/dana.ludgate/videos/2069443753201151/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8899_PghCHR_closed_sign.pdf": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://youtube.com/embed/M1ViF7hUbkM/": {
+            "count": 1,
+            "type": "iframe"
+        },
+        "https://facebook.com/planpgh/": {
+            "count": 3,
+            "type": "a"
+        },
+        "https://twitter.com/PLANPGH/": {
+            "count": 5,
+            "type": "a"
+        },
+        "https://instagram.com/planpgh/": {
+            "count": 5,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/4025_2019_Commission_Calendar.pdf": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/7657_2020-yearly-calendar-landscape.pdf": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8907_COVID_Update_(1).png": {
+            "count": 1,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/7356_onestoppgh_slider.png": {
+            "count": 1,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/4089_benchmarking-feature.png": {
+            "count": 1,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/4093_guides.jpg": {
+            "count": 1,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/4091_gis.jpg": {
+            "count": 1,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/4092_adopt-a-lot.jpg": {
+            "count": 1,
+            "type": "img"
+        },
+        "https://facebook.com/CitiparksPGH/": {
+            "count": 3,
+            "type": "a"
+        },
+        "https://twitter.com/citiparks/": {
+            "count": 3,
+            "type": "a"
+        },
+        "https://instagram.com/citiparks/": {
+            "count": 3,
+            "type": "a"
+        },
+        "https://pittsburghrbi.leagueapps.com/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8219_HSBktBallLeagueFlyer.pdf": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/7134_NEW_12uLL_Info_Flyer.pdf": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8218_HSBBallLeagueSlider.jpg": {
+            "count": 1,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/7825_SnowAngelsSlider.jpg": {
+            "count": 1,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/7133_New12ULLSliderBox.jpg": {
+            "count": 1,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/3889_OBH--pghpic.jpg": {
+            "count": 1,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/4628_DPWFacilityRental-SB.jpg": {
+            "count": 1,
+            "type": "img"
+        },
+        "https://twitter.com/Darlene4Pgh?lang=en/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://twitter.com/tkailsmith?lang=en/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://twitter.com/BruceKraus?lang=en/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://twitter.com/coghillanthony?lang=en/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://facebook.com/PghDistrict4/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://twitter.com/coreyoconnorpgh/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://facebook.com/PittsburghDistrict5/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://twitter.com/RDLavelle?lang=en/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://twitter.com/PghDistrict7?lang=en/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://twitter.com/PGHDistrict8?lang=en/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://twitter.com/RickyBurgessPgh?lang=en/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://twitter.com/PghFireBureau/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://facebook.com/PghFire/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://twitter.com/PghEMS/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://facebook.com/PghEMS/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://twitter.com/Pgh311/": {
+            "count": 4,
+            "type": "a"
+        },
+        "https://facebook.com/PghDCP/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/6673_twitter.png": {
+            "count": 56,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/6670_fb.png": {
+            "count": 32,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/6672_instagram.png": {
+            "count": 12,
+            "type": "img"
+        },
+        "https://pgh-sea.com/index.aspx": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://alleghenycounty.us/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://alleghenycounty.us/healthdepartment/index.aspx": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://health.pa.gov/Pages/default.aspx": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://governor.pa.gov/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://cdc.gov/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://nih.gov/health-information/coronavirus/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://who.int/emergencies/diseases/novel-coronavirus-2019/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8891_Allegheny_County_Announces_First_Two_Positive_Cases_of_COVID-19.pdf": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://amwater.com/paaw/news-community/pa_news_feed/id/5467054/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://pgh2o.com/news-events/news/press-release/2020-03-13-pwsa-extends-expands-shut-moratorium-response-covid-19/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://ura.org/news/ura-offering-resources-to-help-small-businesses-potentially-impacted-by-coronavirus/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/9120_Arabic_-_City_of_Pittsburgh_Announces_More_Social_Distancing_Restrictions.pdf": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/9093_Commission_on_Human_Relations_Statement_on_Discrimination_Targeting_Asian_Populations_[ARABIC].docx": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/9103_Statement_on_Environmental_Services_Workers_and_COVID-19_[ARABIC].docx": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/9097_Arabic_City_Amends_Schoolchildren_Meal_Distribution_Schedule_[ARABIC].docx” target=": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/9075_Pittsburgh_Extends_Income_Tax_Payment_Deadline_in_Response_to_COVID_[ARABIC].docx": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/9029_Arabic_-_URA_Partners_with_City_and_Urban_League_of_Greater_Pittsburgh_to_Provide_Short_Term_Rent-Mortgage-Utility_Financial_Assistance_to_City_Resident[1].docx": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/9016_Press_Release_City_of_Pittsburgh_Moves_to_Level_2_Emergency_Operations_in_Response_to_COVID_[ARABIC].docx": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/9014_City_to_Distribute_Meals_to_Registered__Seniors_Starting_Friday,_March_20_[ARABIC].docx": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/9015_Four_Centers_to_Offer_Meals_for_City_Schoolchildren_(1)_[ARABIC].docx": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/9032_ARABIC_City_of_Pittsburgh_bans_Gathering_of_more_than_50_people.docx ": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/9030_ARABIC_City_of_Pittsburgh_announces_operational_changes_due_to_COVID-19.docx ": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/9121_Chinese_-_City_of_Pittsburgh_Announces_More_Social_Distancing_Restrictions.pdf": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/9092_Chinese_Commission_on_Human_Relations_Statement_on_Discrimination_Targeting_Asian_Populations.docx": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/9104_Statement_on_Environmental_Services_Workers_and_COVID-19_[CHINESE].docx": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/9099_City_Amends_Schoolchildren_Meal_Distribution_Schedule_[CHINESE].docx” target=": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/9076_Pittsburgh_Extends_Income_Tax_Payment_Deadline_in_Response_to_COVID_[CHINESE].docx": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/9036_Chinese_URA_Partners_with_City_and_Urban_League_of_Greater_Pittsburgh_to_Provide_Short_Term_Rent-Mortgage-Utility_Financial_Assistance_to_City_.docx” target=": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/9018_Press_Release_City_of_Pittsburgh_Moves_to_Level_2_Emergency_Operations_in_Response_to_COVID_[CHINESE].docx": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/9023_City_to_Distribute_Meals_to_Registered_Seniors_[CHINESE].docx": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/9017_Four_Centers_to_Offer_Meals_for_City_Schoolchildren_[CHINESE].docx": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/9034_CHINESE_City_of_Pittsburgh_bans_Gathering_of_more_than_50_people.docx” target=": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/9033_CHINESE_City_of_Pittsburgh_announces_operational_changes_due_to_COVID-19.docx” target=": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/9035_CHINESE_Mayor_William_Peduto_declares_State_of_Emergency_due_to_COVID-19.docx” target=": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/9124_Spanish_-_City_of_Pittsburgh_Announces_More_Social_Distancing_Restrictions.pdf": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/9095_SPANISH_Commission_on_Human_Relations_Statement_on_Discrimination_Targeting_Asian_Populations.docx": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/9105_Statement_on_Environmental_Services_Workers_and_COVID-19_[SPANISH].docx": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/9101_SPANISH_City_Amends_Schoolchildren_Meal_Distribution_Schedule.docx” target=": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/9078_Pittsburgh_extends_Income_Taxt_Payment_Deadline_in_REsponse_to_Covid_[SPANISH].docx": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/9043_Spanish_-_URA_Partners_with_City_and_Urban_League_of_Greater_Pittsburgh_to_Provide_Short_Term_Rent-Mortgage-Utility_Financial_Assistance_to_City_Resident[3].docx” target=": {
+            "count": 4,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/9025_Press_Release_City_of_Pittsburgh_Moves_to_Level_2_Emergency_Operations_in_Response_to_COVID_[SPANISH].docx": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/9022_City_to_Distribute_Meals_to_Registered_Seniors_Starting_Friday,_March_20_[SPANISH].docx": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/9024_Four_Centers_to_Offer_Meals_for_City_Schoolchildren_[SPANISH].docx": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/9041_City_of_Pittsburgh_Bans_Gathering_of_More_Than_50_People_-_SPANISH.pdf” target=": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/9042_City_of_Pittsburgh_Announces_Operational_Changes_Due_to_COVID-19_-_SPANISH.pdf” target=": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/9044_Mayor_Declares_State_of_Emergency_Due_to_COVID-19_-_SPANISH.pdf” target=": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/9122_French_-_City_of_Pittsburgh_Announces_More_Social_Distancing_Restrictions.pdf": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/9108_Statement_on_Environmental_Services_Workers_and_COVID-19_French.docx": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/9098_City_Amends_Schoolchildren_Meal_Distribution_Schedule_[French].docx” target=": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/9074_Pittsburgh_Extends_Income_Taxt_Payment_Deadline_in_REsponse_to_COVID-19_[FRENCH].docx": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/9123_Nepali_-_City_of_Pittsburgh_Announces_More_Social_Distancing_Restrictions.pdf": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/9094_Commission_on_Human_Relations_Statement_on_Discrimination_Targeting_Asian_Populations_[NEPALI].docx": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/9106_Statement_on_Environmental_Services_Workers_and_COVID-19_[NEPALI].docx": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/9100_City_Amends_Schoolchildren_Meal_Distribution_Schedule_[NEPALI].docx” target=": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/9077_Pittsburgh_Extends_Income_Tax_Payment_Deadline_in_Response_to_COVID_[NEPALI].pdf": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/9037_Nepali_-_URA_Partners_with_City_and_Urban_League_of_Greater_Pittsburgh_to_Provide_Short_Term_Rent-Mortgage-Utility_Financial_Assistance_to_City_Resident.docx” target=": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/9021_Press_Release_City_of_Pittsburgh_Moves_to_Level_2_Emergency_Operations_in_Response_to_COVID_(1)_[NEPALI].pdf": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/9019_City_to_Distribute_Meals_to_Registered_Seniors_Starting_Friday,_March_20_[NEPALI].pdf": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/9020_Four_Centers_to_Offer_Meals_for_City_Schoolchildren_(1)_[NEPALI].pdf": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/9039_NEPALI_City_of_Pittsburgh_bans_Gathering_of_more_than_50_people.docx” target=": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/9038_NEPALI_City_of_Pittsburgh_announces_operational_changes_due_to_COVID-19.docx” target=”_blank”>सिटी अफ पिट्टसबर्गले कोभिड-१९ को कारणले कार्यसञ्चालनमा परिवर्तनको घोषणा गर्दछ - City of Pittsburgh Announces Operational Changes Due to COVID-19 </a></p> <p><a  data-cke-saved-href=/": {
+            "count": 2,
+            "type": "a"
+        },
+        " https://apps.pittsburghpa.gov/redtail/images/9125_Swahili_-_City_of_Pittsburgh_announces_more_distancing_restrictions.pdf ": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/9096_Swahili___Commission__on_Human_Relations__Statement_on_Discrimination_Tareting_Asia_Population_.docx": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/9107_Statement_on_Environmental_Services_Workers_and_COVID-19_[SWAHILI].docx": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/9102_City_Amends_Schoolchildren_Meal_Distribution_Schedule_[SWAHILI].docx” target=": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/9079_Swahili_Pittsburgh_Extends_Income_Tax_Payment_Deadline_in_Response_to_COVID.pdf": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/9048_Swahili_-_URA_Partners_with_City_and_Urban_League_of_Greater_Pittsburgh_to_Provide_Short_Term_Rent-Mortgage-Utility_Financial_Assistance_to_City_Resident[2].docx” target=": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/9028_Press_Release_City_of_Pttsburgh_Moves_to_Level_2_Emergency_Operations_in_Response_to_COVID_19_[SWAHILI].docx": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/9026_City_to_Distribute_Meals_to_Registered_Seniors_Starting_Friday,_March_20_[SWAHILI].docx": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/9027_Four_centers_to_offer_meals_to_schoolchildren_[SWAHILI].docx ": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/9045_City_of_Pittsburgh_Bans_Gatherings_of_More_than_50_-_SWAHILI.pdf” target=": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/9046_City_of_Pittsburgh_Announces_Operational_Changes_Due_to_COVID19_-_SWAHILI.pdf” target=": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/9047_Mayor_William_Peduto_Declares_State_of_Emergency_Due_to_COVID-19.pdf” target=": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/9157_PPP.pdf": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://alcogis.maps.arcgis.com/apps/MapSeries/index.html?appid=abaca148492b47a7ad0d5a71f5d2c5e8&fbclid=IwAR2fm3OnJy-PyhvN7BadV2i684Ir99YMlFbdcHqDcQI2tpklOT76Lwk5JeA": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://humaneanimalrescue.org/programs-services/pet-helpline-resources/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://bigburgh.com/": {
+            "count": 4,
+            "type": "a"
+        },
+        "https://alleghenycounty.us/human-services/index.aspx": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://alleghenycounty.us/Human-Services/About/Contact/Allegheny-Link.aspx": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/9126_HEN_Meeting__Report,_3.26.2020.pdf": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://wcspittsburgh.org/covid/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://corporate.comcast.com/press/releases/internet-essentials-low-income-broadband-coronavirus-pandemic/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://upmc.com/services/behavioral-health/resolve-crisis-services/services/": {
+            "count": 4,
+            "type": "a"
+        },
+        "https://peer-support.org/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://samhsa.gov/find-help/disaster-distress-helpline/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://alleghenycounty.us/Human-Services/About/Contact/SeniorLine.aspx": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://pghschools.org/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://pghschools.org/hometechsurvey/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://elrc5.alleghenycounty.us/news/pa-department-of-health-coronavirus-reminders/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://static1.squarespace.com/static/5d0a5e1d5609c000019a026a/t/5e7e2ecd86693d3dccebf2f0/1585327824994/COVID19.ChildCarePractices.ELRCregion5.pdf": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://drive.google.com/file/d/1QucLgDhdEUG6XPKrNWKAaofArs08rQbI/view/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://ura.org/pages/covid-19/": {
+            "count": 4,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/9136_PUC-Consumer-financial-tips-release_3-27-2020_FINAL.pdf": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://uc.pa.gov/Pages/covid19.aspx": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://sba.gov/page/coronavirus-covid-19-small-business-guidance-loan-resources/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://dced.pa.gov/resources/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://docs.google.com/forms/d/e/1FAIpQLSfvuyIyPG6X37itDlBgyyVVv6WtLCjvpYfEArjxN9syNz19CA/viewform/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://ura.org/pages/covid-19-working-capital-access-program/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://docs.google.com/forms/d/e/1FAIpQLScYY7q_jhvgBK3gYtkbd6w8gJAG3Aa3BpLmiG2_t2ck-8niyA/viewform/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://riversidecenterforinnovation.com/covid-19-small-business-resources/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://facebook.com/AlleghenyCountyHealth/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://facebook.com/AlleghenyCounty/?__tn__=%2Cd%2CP-R&eid=ARA8i_o9oL5j663ueVczDHvmAl5Ene2RYrWIcQ70tZ_hkItIywUneogB3PLlboyGVtaTlx69CB7L9ZNj/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://facebook.com/pennsylvaniadepartmentofhealth/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://facebook.com/PennsylvaniaGov/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://facebook.com/PittsburghPublicSchools/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://facebook.com/nih.gov/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://facebook.com/WHO/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://twitter.com/CityPGH)/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://twitter.com/TheNextPGH)/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://twitter.com/PghPublicSafety/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://twitter.com/HealthAllegheny/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://twitter.com/Allegheny_Co/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://twitter.com/PAHealthDept/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://twitter.com/GovernorsOffice/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://twitter.com/PPSnews/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://twitter.com/NIH/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://twitter.com/WHO/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/8829_covid-hero.png": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/9088_achd.png": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/9089_pa-health.png": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/9090_governor.png": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/9091_cdc.png": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/9146_NIH.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://apps.pittsburghpa.gov/redtail/images/9145_WHO.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "http://apps.pittsburghpa.gov/redtail/images/3048_Hispanic-LatinX_Resident_Guide_-_English_Translation.pdf": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://apps.pittsburghpa.gov/redtail/images/3042_3041_Facebook-Social-Media-Card-Resident-Guides.png": {
+            "count": 1,
+            "type": "img"
+        },
+        "http://apps.pittsburghpa.gov/redtail/images/3026_fey.jpg": {
+            "count": 2,
+            "type": "img"
+        }
+    },
+    "ip_addresses": {
+        "205.141.190.114": {
+            "lat": 37.751,
+            "long": -97.822
+        }
+    }
+}

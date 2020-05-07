@@ -1,0 +1,2451 @@
+{
+    "top_url": "https://cmu.edu/ini/",
+    "top_domain": "cmu.edu",
+    "external_domains": {
+        "engineering.cmu.edu": {
+            "resources": {
+                "total": 165,
+                "a": 165,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "128.2.131.87": {
+                    "lat": 40.4442,
+                    "long": 40.4442
+                }
+            }
+        },
+        "athletics.cmu.edu": {
+            "resources": {
+                "total": 2,
+                "a": 2,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "143.204.145.11": {
+                    "lat": 37.751,
+                    "long": 37.751
+                },
+                "143.204.145.63": {
+                    "lat": 37.751,
+                    "long": 37.751
+                },
+                "143.204.145.127": {
+                    "lat": 37.751,
+                    "long": 37.751
+                },
+                "143.204.145.13": {
+                    "lat": 37.751,
+                    "long": 37.751
+                }
+            }
+        },
+        "flickr.com": {
+            "resources": {
+                "total": 83,
+                "a": 83,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "13.33.75.144": {
+                    "lat": 37.751,
+                    "long": 37.751
+                }
+            }
+        },
+        "twitter.com": {
+            "resources": {
+                "total": 85,
+                "a": 85,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "104.244.42.129": {
+                    "lat": 37.751,
+                    "long": 37.751
+                },
+                "104.244.42.1": {
+                    "lat": 37.751,
+                    "long": 37.751
+                }
+            }
+        },
+        "facebook.com": {
+            "resources": {
+                "total": 85,
+                "a": 85,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "157.240.18.35": {
+                    "lat": 37.751,
+                    "long": 37.751
+                }
+            }
+        },
+        "linkedin.com": {
+            "resources": {
+                "total": 97,
+                "a": 97,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "108.174.10.10": {
+                    "lat": 37.751,
+                    "long": 37.751
+                }
+            }
+        },
+        "youtube.com": {
+            "resources": {
+                "total": 96,
+                "a": 82,
+                "script": 0,
+                "link": 0,
+                "iframe": 14,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "172.217.12.174": {
+                    "lat": 37.751,
+                    "long": 37.751
+                }
+            }
+        },
+        "instagram.com": {
+            "resources": {
+                "total": 84,
+                "a": 84,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "3.211.195.191": {
+                    "lat": 39.0481,
+                    "long": 39.0481
+                },
+                "3.210.157.97": {
+                    "lat": 39.0481,
+                    "long": 39.0481
+                },
+                "3.216.253.146": {
+                    "lat": 39.0481,
+                    "long": 39.0481
+                },
+                "3.210.57.193": {
+                    "lat": 39.0481,
+                    "long": 39.0481
+                },
+                "3.213.152.208": {
+                    "lat": 39.0481,
+                    "long": 39.0481
+                },
+                "3.214.207.247": {
+                    "lat": 39.0481,
+                    "long": 39.0481
+                },
+                "3.232.22.245": {
+                    "lat": 39.0481,
+                    "long": 39.0481
+                },
+                "3.208.232.245": {
+                    "lat": 39.0481,
+                    "long": 39.0481
+                }
+            }
+        },
+        "googletagmanager.com": {
+            "resources": {
+                "total": 74,
+                "a": 0,
+                "script": 74,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "172.217.7.8": {
+                    "lat": 37.751,
+                    "long": 37.751
+                }
+            }
+        },
+        "public.tockify.com": {
+            "resources": {
+                "total": 4,
+                "a": 0,
+                "script": 4,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "13.225.62.36": {
+                    "lat": 37.751,
+                    "long": 37.751
+                },
+                "13.225.62.28": {
+                    "lat": 37.751,
+                    "long": 37.751
+                },
+                "13.225.62.26": {
+                    "lat": 37.751,
+                    "long": 37.751
+                },
+                "13.225.62.108": {
+                    "lat": 37.751,
+                    "long": 37.751
+                }
+            }
+        },
+        "live.staticflickr.com": {
+            "resources": {
+                "total": 2,
+                "a": 0,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 2,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "13.225.71.164": {
+                    "lat": 37.751,
+                    "long": 37.751
+                }
+            }
+        },
+        "africa.engineering.cmu.edu": {
+            "resources": {
+                "total": 3,
+                "a": 3,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {}
+        },
+        "wiredin.rw": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "52.15.59.216": {
+                    "lat": 39.9653,
+                    "long": 39.9653
+                }
+            }
+        },
+        "https:": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {}
+        },
+        "apply.interfolio.com": {
+            "resources": {
+                "total": 2,
+                "a": 2,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "143.204.145.77": {
+                    "lat": 37.751,
+                    "long": 37.751
+                },
+                "143.204.145.118": {
+                    "lat": 37.751,
+                    "long": 37.751
+                },
+                "143.204.145.98": {
+                    "lat": 37.751,
+                    "long": 37.751
+                },
+                "143.204.145.14": {
+                    "lat": 37.751,
+                    "long": 37.751
+                }
+            }
+        },
+        "cmu.taleo.net": {
+            "resources": {
+                "total": 2,
+                "a": 2,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "68.233.76.181": {
+                    "lat": 41.8483,
+                    "long": 41.8483
+                }
+            }
+        },
+        "heinz.cmu.edu": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "128.2.42.99": {
+                    "lat": 40.3052,
+                    "long": 40.3052
+                }
+            }
+        },
+        "cs.cmu.edu": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "128.2.42.95": {
+                    "lat": 40.3052,
+                    "long": 40.3052
+                }
+            }
+        },
+        "tepper.cmu.edu": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "128.2.24.179": {
+                    "lat": 40.4324,
+                    "long": 40.4324
+                }
+            }
+        },
+        "cylab.cmu.edu": {
+            "resources": {
+                "total": 11,
+                "a": 11,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "128.2.131.76": {
+                    "lat": 40.4442,
+                    "long": 40.4442
+                }
+            }
+        },
+        "usnews.com": {
+            "resources": {
+                "total": 3,
+                "a": 3,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "104.64.229.52": {
+                    "lat": 37.751,
+                    "long": 37.751
+                }
+            }
+        },
+        "surveymonkey.com": {
+            "resources": {
+                "total": 2,
+                "a": 2,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "64.191.16.50": {
+                    "lat": 37.751,
+                    "long": 37.751
+                }
+            }
+        },
+        "join.slack.com": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "13.226.31.25": {
+                    "lat": 37.751,
+                    "long": 37.751
+                },
+                "13.226.31.12": {
+                    "lat": 37.751,
+                    "long": 37.751
+                },
+                "13.226.31.115": {
+                    "lat": 37.751,
+                    "long": 37.751
+                },
+                "13.226.31.67": {
+                    "lat": 37.751,
+                    "long": 37.751
+                }
+            }
+        },
+        "community.cmu.edu": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "13.109.154.201": {
+                    "lat": 37.751,
+                    "long": 37.751
+                }
+            }
+        },
+        "cmuini.firsthand.co": {
+            "resources": {
+                "total": 3,
+                "a": 3,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "34.234.130.228": {
+                    "lat": 39.0481,
+                    "long": 39.0481
+                },
+                "52.200.252.240": {
+                    "lat": 39.0481,
+                    "long": 39.0481
+                }
+            }
+        },
+        "library.cmu.edu": {
+            "resources": {
+                "total": 2,
+                "a": 2,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "128.2.42.76": {
+                    "lat": 40.3052,
+                    "long": 40.3052
+                }
+            }
+        },
+        "s3.as.cmu.edu": {
+            "resources": {
+                "total": 3,
+                "a": 3,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "128.2.42.79": {
+                    "lat": 40.3052,
+                    "long": 40.3052
+                }
+            }
+        },
+        "enr-apps.as.cmu.edu": {
+            "resources": {
+                "total": 19,
+                "a": 19,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "128.2.105.185": {
+                    "lat": 40.4442,
+                    "long": 40.4442
+                }
+            }
+        },
+        "cmu.joinhandshake.com": {
+            "resources": {
+                "total": 3,
+                "a": 3,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "35.222.224.90": {
+                    "lat": 38.6583,
+                    "long": 38.6583
+                }
+            }
+        },
+        "cmu.firsthand.co": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "34.234.130.228": {
+                    "lat": 39.0481,
+                    "long": 39.0481
+                },
+                "52.200.252.240": {
+                    "lat": 39.0481,
+                    "long": 39.0481
+                }
+            }
+        },
+        "bookstore.web.cmu.edu": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "104.18.222.143": {
+                    "lat": 37.751,
+                    "long": 37.751
+                },
+                "104.18.224.143": {
+                    "lat": 37.751,
+                    "long": 37.751
+                },
+                "104.18.223.143": {
+                    "lat": 37.751,
+                    "long": 37.751
+                },
+                "104.18.221.143": {
+                    "lat": 37.751,
+                    "long": 37.751
+                },
+                "104.18.220.143": {
+                    "lat": 37.751,
+                    "long": 37.751
+                }
+            }
+        },
+        "cmuini.wufoo.com": {
+            "resources": {
+                "total": 6,
+                "a": 6,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "64.191.16.85": {
+                    "lat": 37.751,
+                    "long": 37.751
+                }
+            }
+        },
+        "bppe.ca.gov": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "67.157.44.19": {
+                    "lat": 37.751,
+                    "long": 37.751
+                }
+            }
+        },
+        "sv.cmu.edu": {
+            "resources": {
+                "total": 3,
+                "a": 3,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "128.2.131.87": {
+                    "lat": 40.4442,
+                    "long": 40.4442
+                }
+            }
+        },
+        "gradadmissions.engineering.cmu.edu": {
+            "resources": {
+                "total": 2,
+                "a": 1,
+                "script": 1,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "34.198.122.35": {
+                    "lat": 39.0481,
+                    "long": 39.0481
+                }
+            }
+        },
+        "google.com": {
+            "resources": {
+                "total": 8,
+                "a": 8,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "172.217.10.14": {
+                    "lat": 37.751,
+                    "long": 37.751
+                }
+            }
+        },
+        "cert.org": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "128.237.30.13": {
+                    "lat": 40.4268,
+                    "long": 40.4268
+                }
+            }
+        },
+        "ai.u-hyogo.ac.jp": {
+            "resources": {
+                "total": 5,
+                "a": 5,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {}
+        },
+        "cups.cs.cmu.edu": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "128.2.204.134": {
+                    "lat": 40.4442,
+                    "long": 40.4442
+                }
+            }
+        },
+        "cmu-biometrics.org": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "23.236.62.147": {
+                    "lat": 37.751,
+                    "long": 37.751
+                }
+            }
+        },
+        "cmuj.jp": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "60.43.157.130": {
+                    "lat": 35.69,
+                    "long": 35.69
+                }
+            }
+        },
+        "ewf-usa.com": {
+            "resources": {
+                "total": 3,
+                "a": 3,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "35.169.50.49": {
+                    "lat": 39.0481,
+                    "long": 39.0481
+                },
+                "35.173.82.140": {
+                    "lat": 39.0481,
+                    "long": 39.0481
+                },
+                "35.174.132.21": {
+                    "lat": 39.0481,
+                    "long": 39.0481
+                }
+            }
+        },
+        "altaassociates.com": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "69.160.49.4": {
+                    "lat": 37.751,
+                    "long": 37.751
+                }
+            }
+        },
+        "womentechmakers.com": {
+            "resources": {
+                "total": 2,
+                "a": 2,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "216.239.32.21": {
+                    "lat": 34.0544,
+                    "long": 34.0544
+                },
+                "216.239.34.21": {
+                    "lat": 34.0544,
+                    "long": 34.0544
+                },
+                "216.239.36.21": {
+                    "lat": 37.3884,
+                    "long": 37.3884
+                },
+                "216.239.38.21": {
+                    "lat": 34.0544,
+                    "long": 34.0544
+                }
+            }
+        },
+        "ece.cmu.edu": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "128.2.131.95": {
+                    "lat": 40.4442,
+                    "long": 40.4442
+                }
+            }
+        },
+        "scmagazine.com": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "34.197.250.24": {
+                    "lat": 39.0481,
+                    "long": 39.0481
+                },
+                "52.45.78.177": {
+                    "lat": 39.0481,
+                    "long": 39.0481
+                }
+            }
+        },
+        "spark.adobe.com": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "99.84.32.108": {
+                    "lat": 37.751,
+                    "long": 37.751
+                },
+                "99.84.32.71": {
+                    "lat": 37.751,
+                    "long": 37.751
+                },
+                "99.84.32.121": {
+                    "lat": 37.751,
+                    "long": 37.751
+                },
+                "99.84.32.44": {
+                    "lat": 37.751,
+                    "long": 37.751
+                }
+            }
+        },
+        "calendar.google.com": {
+            "resources": {
+                "total": 2,
+                "a": 2,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "172.217.11.14": {
+                    "lat": 37.751,
+                    "long": 37.751
+                }
+            }
+        },
+        "docs.google.com": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "172.217.7.14": {
+                    "lat": 37.751,
+                    "long": 37.751
+                }
+            }
+        },
+        "dodcio.defense.gov": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "104.126.73.169": {
+                    "lat": 37.751,
+                    "long": 37.751
+                }
+            }
+        },
+        "cms-staging.andrew.cmu.edu": {
+            "resources": {
+                "total": 2,
+                "a": 2,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "128.2.42.81": {
+                    "lat": 40.3052,
+                    "long": 40.3052
+                }
+            }
+        },
+        "networkworld.com": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "151.101.130.165": {
+                    "lat": 37.751,
+                    "long": 37.751
+                },
+                "151.101.194.165": {
+                    "lat": 37.751,
+                    "long": 37.751
+                },
+                "151.101.2.165": {
+                    "lat": 37.751,
+                    "long": 37.751
+                },
+                "151.101.66.165": {
+                    "lat": 37.751,
+                    "long": 37.751
+                }
+            }
+        },
+        "theatlantic.com": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "151.101.2.133": {
+                    "lat": 37.751,
+                    "long": 37.751
+                },
+                "151.101.130.133": {
+                    "lat": 37.751,
+                    "long": 37.751
+                },
+                "151.101.194.133": {
+                    "lat": 37.751,
+                    "long": 37.751
+                },
+                "151.101.66.133": {
+                    "lat": 37.751,
+                    "long": 37.751
+                }
+            }
+        },
+        "pittsburghtoday.org": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "192.169.206.5": {
+                    "lat": 37.751,
+                    "long": 37.751
+                }
+            }
+        },
+        "nytimes.com": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "151.101.129.164": {
+                    "lat": 37.751,
+                    "long": 37.751
+                },
+                "151.101.193.164": {
+                    "lat": 37.751,
+                    "long": 37.751
+                },
+                "151.101.1.164": {
+                    "lat": 37.751,
+                    "long": 37.751
+                },
+                "151.101.65.164": {
+                    "lat": 37.751,
+                    "long": 37.751
+                }
+            }
+        },
+        "zagat.com": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "35.227.208.248": {
+                    "lat": 37.751,
+                    "long": 37.751
+                }
+            }
+        },
+        "huffingtonpost.com": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "212.82.100.153": {
+                    "lat": 51.4964,
+                    "long": 51.4964
+                },
+                "124.108.115.103": {
+                    "lat": 1.3667,
+                    "long": 1.3667
+                },
+                "98.136.103.26": {
+                    "lat": 37.751,
+                    "long": 37.751
+                },
+                "74.6.136.153": {
+                    "lat": 37.751,
+                    "long": 37.751
+                },
+                "106.10.248.153": {
+                    "lat": 1.3667,
+                    "long": 1.3667
+                }
+            }
+        },
+        "admission.enrollment.cmu.edu": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "128.2.12.45": {
+                    "lat": 40.4405,
+                    "long": 40.4405
+                }
+            }
+        },
+        "amusingplanet.com": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "216.239.32.21": {
+                    "lat": 34.0544,
+                    "long": 34.0544
+                },
+                "216.239.34.21": {
+                    "lat": 34.0544,
+                    "long": 34.0544
+                },
+                "216.239.36.21": {
+                    "lat": 37.3884,
+                    "long": 37.3884
+                },
+                "216.239.38.21": {
+                    "lat": 34.0544,
+                    "long": 34.0544
+                }
+            }
+        },
+        "andrew.cmu.edu": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "128.2.42.9": {
+                    "lat": 40.3052,
+                    "long": 40.3052
+                }
+            }
+        },
+        "thebridge.cmu.edu": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "13.68.101.62": {
+                    "lat": 36.6534,
+                    "long": 36.6534
+                }
+            }
+        },
+        "medium.com": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "104.16.124.127": {
+                    "lat": 37.751,
+                    "long": 37.751
+                },
+                "104.16.122.127": {
+                    "lat": 37.751,
+                    "long": 37.751
+                },
+                "104.16.121.127": {
+                    "lat": 37.751,
+                    "long": 37.751
+                },
+                "104.16.123.127": {
+                    "lat": 37.751,
+                    "long": 37.751
+                },
+                "104.16.120.127": {
+                    "lat": 37.751,
+                    "long": 37.751
+                }
+            }
+        },
+        "s3.andrew.cmu.edu": {
+            "resources": {
+                "total": 4,
+                "a": 4,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "128.2.42.79": {
+                    "lat": 40.3052,
+                    "long": 40.3052
+                }
+            }
+        },
+        "repository.cmu.edu": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "128.2.25.47": {
+                    "lat": 40.4324,
+                    "long": 40.4324
+                }
+            }
+        },
+        "maths.tcd.ie": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "134.226.81.23": {
+                    "lat": 53.3338,
+                    "long": 53.3338
+                },
+                "134.226.81.11": {
+                    "lat": 53.3338,
+                    "long": 53.3338
+                },
+                "134.226.81.12": {
+                    "lat": 53.3338,
+                    "long": 53.3338
+                },
+                "134.226.81.13": {
+                    "lat": 53.3338,
+                    "long": 53.3338
+                }
+            }
+        },
+        "secure.etdadmin.com": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "165.215.204.128": {
+                    "lat": 37.751,
+                    "long": 37.751
+                }
+            }
+        },
+        "moversguide.usps.com": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "23.45.133.175": {
+                    "lat": 37.751,
+                    "long": 37.751
+                }
+            }
+        },
+        "onemedical.com": {
+            "resources": {
+                "total": 2,
+                "a": 2,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "54.192.30.34": {
+                    "lat": 37.751,
+                    "long": 37.751
+                },
+                "54.192.30.92": {
+                    "lat": 37.751,
+                    "long": 37.751
+                },
+                "54.192.30.103": {
+                    "lat": 37.751,
+                    "long": 37.751
+                },
+                "54.192.30.57": {
+                    "lat": 37.751,
+                    "long": 37.751
+                }
+            }
+        },
+        "dmv.ca.gov": {
+            "resources": {
+                "total": 2,
+                "a": 2,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "107.162.129.29": {
+                    "lat": 37.751,
+                    "long": 37.751
+                }
+            }
+        },
+        "goo.gl": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "172.217.9.238": {
+                    "lat": 37.751,
+                    "long": 37.751
+                }
+            }
+        },
+        "freecycle.org": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "144.76.177.227": {
+                    "lat": 51.2993,
+                    "long": 51.2993
+                }
+            }
+        },
+        "vta.org": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "52.36.131.229": {
+                    "lat": 45.8491,
+                    "long": 45.8491
+                }
+            }
+        },
+        "caltrain.com": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "74.120.127.21": {
+                    "lat": 37.751,
+                    "long": 37.751
+                }
+            }
+        },
+        "mountainview.gov": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "38.99.34.68": {
+                    "lat": 37.3897,
+                    "long": 37.3897
+                }
+            }
+        },
+        "sfs.opm.gov": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "184.87.62.224": {
+                    "lat": 37.751,
+                    "long": 37.751
+                }
+            }
+        },
+        "alumni.cmu.edu": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "128.2.42.69": {
+                    "lat": 40.3052,
+                    "long": 40.3052
+                }
+            }
+        },
+        "bls.gov": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "146.142.252.23": {
+                    "lat": 37.751,
+                    "long": 37.751
+                }
+            }
+        },
+        "securelb.imodules.com": {
+            "resources": {
+                "total": 2,
+                "a": 2,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "104.16.18.111": {
+                    "lat": 37.751,
+                    "long": 37.751
+                },
+                "104.16.19.111": {
+                    "lat": 37.751,
+                    "long": 37.751
+                },
+                "104.16.16.111": {
+                    "lat": 37.751,
+                    "long": 37.751
+                },
+                "104.16.17.111": {
+                    "lat": 37.751,
+                    "long": 37.751
+                },
+                "104.16.20.111": {
+                    "lat": 37.751,
+                    "long": 37.751
+                }
+            }
+        },
+        "giving.cmu.edu": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "128.2.42.69": {
+                    "lat": 40.3052,
+                    "long": 40.3052
+                }
+            }
+        }
+    },
+    "external_resources": {
+        "https://engineering.cmu.edu/": {
+            "count": 155,
+            "type": "a"
+        },
+        "http://athletics.cmu.edu/fitness/groupxcalendar/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://flickr.com/gp/ini_cmu/K8W2T6/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://twitter.com/inicmu/": {
+            "count": 81,
+            "type": "a"
+        },
+        "https://facebook.com/inicmu/": {
+            "count": 82,
+            "type": "a"
+        },
+        "https://linkedin.com/school/15100382/": {
+            "count": 78,
+            "type": "a"
+        },
+        "http://youtube.com/user/inicmu/": {
+            "count": 82,
+            "type": "a"
+        },
+        "https://instagram.com/inicmu/": {
+            "count": 79,
+            "type": "a"
+        },
+        "http://flickr.com/photos/ini_cmu/": {
+            "count": 81,
+            "type": "a"
+        },
+        "https://googletagmanager.com/gtag/js?id=UA-6727291-1/": {
+            "count": 74,
+            "type": "script"
+        },
+        "https://public.tockify.com/browser/embed.js": {
+            "count": 4,
+            "type": "script"
+        },
+        "https://youtube.com/embed/NulT7kd8pBg/": {
+            "count": 2,
+            "type": "iframe"
+        },
+        "https://youtube.com/embed/2Lhw1QBtAG8/": {
+            "count": 2,
+            "type": "iframe"
+        },
+        "https://live.staticflickr.com/65535/49174038767_8735599fee_z.jpg": {
+            "count": 2,
+            "type": "img"
+        },
+        "https://africa.engineering.cmu.edu/alumni-impact/alumni-association.html": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://africa.engineering.cmu.edu/news/2017/12/15-kajangwe-wins-BK-Urumuri.html": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://wiredin.rw/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://linkedin.com/in/alainkajangwe/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://https://twitter.com/alaink?lang=en/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://africa.engineering.cmu.edu/news/2019/11/cmuafricanewlocation.html": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://engineering.cmu.edu/news-events/news/2019/11/19-africa-building-opening.html": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://apply.interfolio.com/70912/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://apply.interfolio.com/70911/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://cmu.taleo.net/careersection/2/jobdetail.ftl?job=2014736&tz=GMT-05%3A00&tzname=America%2FNew_York": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://cmu.taleo.net/careersection/2/jobdetail.ftl?job=2014840&tz=GMT-05%3A00&tzname=America%2FNew_York": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://instagram.com/p/B5be-VbAydX/?utm_source=ig_embed&utm_campaign=loading/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://instagram.com/cmufence/?utm_source=ig_embed&utm_campaign=loading/": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://twitter.com/inicmu/": {
+            "count": 3,
+            "type": "a"
+        },
+        "http://instagram.com/inicmu/": {
+            "count": 3,
+            "type": "a"
+        },
+        "https://linkedin.com/school/carnegie-mellon-university's-information-networking-institute/": {
+            "count": 3,
+            "type": "a"
+        },
+        "http://heinz.cmu.edu/index.aspx": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://cs.cmu.edu/": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://tepper.cmu.edu/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://cylab.cmu.edu/index.html": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://usnews.com/best-graduate-schools/top-engineering-schools/carnegie-mellon-university-02152/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://usnews.com/best-graduate-schools/top-science-schools/carnegie-mellon-university-211440/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://usnews.com/best-graduate-schools/top-business-schools/information-systems-rankings/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://surveymonkey.com/r/7MLQFSF?sm=hEcFzsFWhXfCgIvgM%2fx%2fqw%3d%3d/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://join.slack.com/t/cmu-ini/shared_invite/enQtNTA1NzcyODc0Njk0LTdmNGVjNjQ3YTJlYjk2MmMyYTQxOTc4ZjIxM2ZhNDdkNTFiMDk2N2M3MzE4NTIxMjM0MDkyY2YxNGM1NTY5MDk/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://linkedin.com/groups/1167707/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://facebook.com/home.php?sk=group_213124038715319": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://community.cmu.edu/s/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://cmuini.firsthand.co/": {
+            "count": 3,
+            "type": "a"
+        },
+        "https://cylab.cmu.edu/education/sfs/funding.html": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://cylab.cmu.edu/education/sfs/index.html": {
+            "count": 3,
+            "type": "a"
+        },
+        "https://cylab.cmu.edu/education/sfs/work.html": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://library.cmu.edu/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://library.cmu.edu/node/1657/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://s3.as.cmu.edu/sio/index.html#home": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://enr-apps.as.cmu.edu/open/SOC/SOCServlet/": {
+            "count": 5,
+            "type": "a"
+        },
+        "https://cmu.joinhandshake.com/login/": {
+            "count": 3,
+            "type": "a"
+        },
+        "https://cmu.firsthand.co/": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://bookstore.web.cmu.edu/home.aspx": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://cmuini.wufoo.com/forms/z1vku8gy09ejhgz/": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://bppe.ca.gov/": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://sv.cmu.edu/about/consumer-information.html": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://gradadmissions.engineering.cmu.edu/register/?id=ab875635-c3cc-43ce-ba8b-e8f646c4aa94&output=embed&div=form_ab875635-c3cc-43ce-ba8b-e8f646c4aa94/": {
+            "count": 1,
+            "type": "script"
+        },
+        "https://cmuini.wufoo.com/forms/m11t0c4h0jhh59n/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://google.com/maps/place/The+Information+Networking+Institute,+Carnegie+Mellon+University/@40.4460881,-79.9480519,15z/data=!4m2!3m1!1s0x0:0x85b7d021fa341b37?sa=X&ved=0ahUKEwii4fiEuZPVAhWR2YMKHcB1A7QQ_BIIkQEwEQ/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://google.com/maps/place/Carnegie+Mellon+University+-+Silicon+Valley/@37.41043,-122.059753,15z/data=!4m5!3m4!1s0x0:0xe1c97f568e4373db!8m2!3d37.41043!4d-122.059753": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://gradadmissions.engineering.cmu.edu/register/PTInterest/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://enr-apps.as.cmu.edu/open/SOC/SOCServlet/search/": {
+            "count": 14,
+            "type": "a"
+        },
+        "http://cert.org/": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://ai.u-hyogo.ac.jp/english/index.html": {
+            "count": 4,
+            "type": "a"
+        },
+        "https://cylab.cmu.edu/research/index.html": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://cups.cs.cmu.edu/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://cmu-biometrics.org/": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://cmuj.jp/en/support/": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://ewf-usa.com/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://altaassociates.com/": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://ewf-usa.com/FellowshipFund/": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://womentechmakers.com/scholars/": {
+            "count": 2,
+            "type": "a"
+        },
+        "http://ece.cmu.edu/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://scmagazine.com/home/security-news/features/dena-haritos-tsamitis-dir-information-networking-institute-at-carnegie-mellon-universitys-college-of-engineering/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://spark.adobe.com/page/u82mTw80mOmFI/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://google.com/maps/place/4616+Henry+St,+Pittsburgh,+PA+15213/@40.4460759,-79.9502247,17z/data=!3m1!4b1!4m5!3m4!1s0x8834f22412b4587f:0x5f85faddffa1068a!8m2!3d40.4460759!4d-79.9480307?hl=en": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://google.com/maps?f=q&hl=en&q=4720+Forbes+Ave.+Pittsburgh,+PA+15213&sll=37.0625,-95.677068&sspn=50.644639,97.03125&ie=UTF8&z=16&om=1&iwloc=addr": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://calendar.google.com/calendar/embed?src=9nkba1c3uij8haqd3gsmog1mps@group.calendar.google.com&amp;ctz=America/New_York&pli=1/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://calendar.google.com/calendar/embed?src=gj0q9varveitbpnq1r7osi81g4@group.calendar.google.com&amp;ctz=America/New_York/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://docs.google.com/forms/d/e/1FAIpQLSe5VFgckA2DvGThV349DPVmkw06C3nGLbWf1mP0AuAsdv_wVw/viewform?embedded=true&key=0As_UCMHVEXXhdEhKMTBBdnR0bGo1ZFBFaWdVMDNNQ2c/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://cylab.cmu.edu/": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://dodcio.defense.gov/In-the-News/Information-Assurance-Scholarship-Program-IASP/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://cms-staging.andrew.cmu.edu/ini/academics/index.html": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://cms-staging.andrew.cmu.edu/ini/academics/msit/index.html": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://engineering.cmu.edu/industry-innovation/toc/index.html": {
+            "count": 2,
+            "type": "a"
+        },
+        "http://networkworld.com/article/2687961/careers/pittsburgh-is-a-vibrant-ecosystem-for-high-tech-companies.html": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://theatlantic.com/business/archive/2014/12/how-to-create-a-tech-start-up-scene-if-youre-not-in-silicon-valley/384024/": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://pittsburghtoday.org/indicators/economy/cost-of-living/cost-of-living-index/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://nytimes.com/2016/03/16/dining/pittsburgh-restaurants.html": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://ai.u-hyogo.ac.jp/english/index.html": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://youtube.com/embed/K3F7uZVi2Gk/": {
+            "count": 1,
+            "type": "iframe"
+        },
+        "https://youtube.com/embed/hAdHQCNtGUk/": {
+            "count": 1,
+            "type": "iframe"
+        },
+        "https://zagat.com/v/this-is-why-americas-hottest-food-city-is-pittsburgh/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://huffingtonpost.com/tom-ayling/top-10-cities-techies-sho_b_9044910.html": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://admission.enrollment.cmu.edu/pages/carnegie-mellon-school-spirit-traditions/": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://amusingplanet.com/2014/09/the-fence-of-carnegie-mellon-university.html": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://andrew.cmu.edu/user/buggy/Sweepstakes/Welcome.html": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://thebridge.cmu.edu/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://youtube.com/embed/gmE27IDFC_c/": {
+            "count": 1,
+            "type": "iframe"
+        },
+        "https://youtube.com/embed/3vwFYT1fLHU/": {
+            "count": 1,
+            "type": "iframe"
+        },
+        "https://youtube.com/embed/jR60GBS7NQk/": {
+            "count": 1,
+            "type": "iframe"
+        },
+        "https://youtube.com/embed/hiAJiicxeG8/": {
+            "count": 1,
+            "type": "iframe"
+        },
+        "https://youtube.com/embed/68bVtcbvneU/": {
+            "count": 1,
+            "type": "iframe"
+        },
+        "https://youtube.com/embed/H7r6loF0DVQ/": {
+            "count": 1,
+            "type": "iframe"
+        },
+        "https://google.com/maps?f=q&hl=en&q=4616+Henry+St,+Pittsburgh,+Pennsylvania+15213&layer&sll=44.664471,-86.021984&sspn=0.006883,0.021265&ie=UTF8&z=16&ll=40.447143,-79.948604&spn=0.007365,0.021265&om=1&iwloc=addr": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://google.com/maps?f=q&hl=en&q=4720+Forbes+Ave.+Pittsburgh,+PA+15213&sll=37.0625,-95.677068&sspn=50.644639,97.03125&ie=UTF8&z=16&om=1&iwloc=addr": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://cmuini.wufoo.com/forms/qj6plbu1ozuc0d/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://linkedin.com/in/johndroggitis/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://linkedin.com/in/slallen/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://linkedin.com/in/yenmingchen/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/vykthur?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://linkedin.com/in/dibiavictor/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://linkedin.com/in/hthabib/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://linkedin.com/in/vickapur/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://linkedin.com/in/navkumar/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://linkedin.com/in/xinfeng-le-98349163/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://linkedin.com/in/zhiyuan-zoe-lin-41bb3983/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://linkedin.com/in/utsav-m-6b80695b/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://linkedin.com/in/tyelisa/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://linkedin.com/in/ewright/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://linkedin.com/in/devika-yeragudipati-05875a2b/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://linkedin.com/in/ranchao-zhang-b1526b28/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://cmuini.wufoo.com/forms/k1kfrvxa175mpco/": {
+            "count": 3,
+            "type": "a"
+        },
+        "https://medium.com/bitclave/research-collaboration-update-4ef58cea90f0/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://youtube.com/embed/0saqlZ-66ZI/": {
+            "count": 1,
+            "type": "iframe"
+        },
+        "https://youtube.com/embed/Kh1HTh6SCJM/": {
+            "count": 1,
+            "type": "iframe"
+        },
+        "https://google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwitkMnzkbnVAhWUxIMKHZKUD0YQFggoMAA&url=https%3A%2F%2Fcmu.joinhandshake.com%2F&usg=AFQjCNEadPxXNpLfwedsVxL6-GVygIsqJA": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://s3.andrew.cmu.edu/sio/": {
+            "count": 4,
+            "type": "a"
+        },
+        "https://engineering.cmu.edu/education/academic-policies/graduate-policies/degrees.html": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://repository.cmu.edu/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://engineering.cmu.edu/education/academic-policies/graduate-policies/thesis-dissertation.html": {
+            "count": 5,
+            "type": "a"
+        },
+        "https://engineering.cmu.edu/_files/documents/graduate-students/committee_sheet_2016.pdf": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://maths.tcd.ie/~dwilkins/LaTeXPrimer/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://secure.etdadmin.com/cgi-bin/etdadmin_login?form=etdadmin&request_uri=https%3A%2F%2Fsecure.etdadmin.com%2Fcgi-bin%2Fstudent%2Fetd": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://sv.cmu.edu/student-services/index.html": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://s3.as.cmu.edu/sio/index.html": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://moversguide.usps.com/icoa/home/icoa-main-flow.do?execution=e1s1&_flowId=icoa-main-flow": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://onemedical.com/mybenefit/": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://onemedical.com/mobile/": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://dmv.ca.gov/portal/dmv/detail/newtoca/newtoca/": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://dmv.ca.gov/portal/dmv/?1dmy&urile=wcm:path:/dmv_content_en/dmv/dl/dl_info#SSN": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://facebook.com/groups/305043239644248/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://facebook.com/CMUSiliconValley/?fref=ts/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://goo.gl/forms/7UI35ERGdMQ5P6Zz1/": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://freecycle.org/": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://vta.org/": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://caltrain.com/": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://mountainview.gov/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://sfs.opm.gov/": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://alumni.cmu.edu/s/1410/alumni/index.aspx?sid=1410&gid=1&pgid=254": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://bls.gov/ooh/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://securelb.imodules.com/s/1410/giving/16/form.aspx?sid=1410&gid=1&pgid=7427&cid=11807&dids=326.327.237.238.324&sort=1&bledit=1&appealcode=A4702": {
+            "count": 2,
+            "type": "a"
+        },
+        "http://giving.cmu.edu/s/1410/images/editor_documents/giving/download_giveform.pdf": {
+            "count": 1,
+            "type": "a"
+        }
+    },
+    "ip_addresses": {
+        "128.2.42.10": {
+            "lat": 40.3052,
+            "long": 40.3052
+        }
+    }
+}

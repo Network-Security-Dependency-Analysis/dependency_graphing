@@ -1,0 +1,40 @@
+{
+    "top_url": "https://peoples-gas.com/",
+    "top_domain": "peoples-gas.com",
+    "external_domains": {
+        "js.adsrvr.org": {
+            "resources": {
+                "total": 1,
+                "a": 0,
+                "script": 1,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "13.226.29.201": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 16509,
+                    "as_org": "AMAZON-02"
+                }
+            }
+        }
+    },
+    "external_resources": {
+        "https://js.adsrvr.org/up_loader.1.1.0.js": {
+            "count": 1,
+            "type": "script"
+        }
+    },
+    "ip_addresses": {
+        "54.213.88.99": {
+            "lat": 45.8491,
+            "long": -119.7143
+        }
+    }
+}

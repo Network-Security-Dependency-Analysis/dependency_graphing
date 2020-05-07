@@ -1,0 +1,1511 @@
+{
+    "top_url": "https://pgh2o.com/",
+    "top_domain": "pgh2o.com",
+    "external_domains": {
+        "schedulepayment.com": {
+            "resources": {
+                "total": 527,
+                "a": 527,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "162.220.104.153": {
+                    "lat": 40.1435,
+                    "long": -75.3779,
+                    "asn": 17378,
+                    "as_org": null
+                }
+            }
+        },
+        "my-pwsa.sensus-analytics.com": {
+            "resources": {
+                "total": 353,
+                "a": 353,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "34.235.183.243": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                },
+                "52.55.105.83": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                },
+                "107.21.52.194": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                },
+                "34.230.174.49": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                }
+            }
+        },
+        "googletagmanager.com": {
+            "resources": {
+                "total": 171,
+                "a": 0,
+                "script": 171,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "172.217.3.104": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 15169,
+                    "as_org": "GOOGLE"
+                }
+            }
+        },
+        "google.com": {
+            "resources": {
+                "total": 4,
+                "a": 0,
+                "script": 4,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "172.217.11.14": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 15169,
+                    "as_org": "GOOGLE"
+                }
+            }
+        },
+        "kit.fontawesome.com": {
+            "resources": {
+                "total": 171,
+                "a": 0,
+                "script": 171,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "151.139.128.10": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 20446,
+                    "as_org": "HIGHWINDS3"
+                }
+            }
+        },
+        "cdn.jsdelivr.net": {
+            "resources": {
+                "total": 2,
+                "a": 0,
+                "script": 2,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "104.16.85.20": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 13335,
+                    "as_org": "CLOUDFLARENET"
+                },
+                "104.16.87.20": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 13335,
+                    "as_org": "CLOUDFLARENET"
+                },
+                "104.16.86.20": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 13335,
+                    "as_org": "CLOUDFLARENET"
+                },
+                "104.16.89.20": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 13335,
+                    "as_org": "CLOUDFLARENET"
+                },
+                "104.16.88.20": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 13335,
+                    "as_org": "CLOUDFLARENET"
+                }
+            }
+        },
+        "cdnjs.cloudflare.com": {
+            "resources": {
+                "total": 4,
+                "a": 0,
+                "script": 2,
+                "link": 2,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "104.17.64.4": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 13335,
+                    "as_org": "CLOUDFLARENET"
+                },
+                "104.17.65.4": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 13335,
+                    "as_org": "CLOUDFLARENET"
+                }
+            }
+        },
+        "paynearme.com": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "52.2.179.75": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                },
+                "52.205.119.214": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                }
+            }
+        },
+        "twitter.com": {
+            "resources": {
+                "total": 101,
+                "a": 101,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "104.244.42.193": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 13414,
+                    "as_org": "TWITTER"
+                },
+                "104.244.42.1": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 13414,
+                    "as_org": "TWITTER"
+                }
+            }
+        },
+        "facebook.com": {
+            "resources": {
+                "total": 101,
+                "a": 101,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "157.240.18.35": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 32934,
+                    "as_org": "FACEBOOK"
+                }
+            }
+        },
+        "nextdoor.com": {
+            "resources": {
+                "total": 101,
+                "a": 101,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "13.225.62.94": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 16509,
+                    "as_org": "AMAZON-02"
+                },
+                "13.225.62.81": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 16509,
+                    "as_org": "AMAZON-02"
+                },
+                "13.225.62.18": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 16509,
+                    "as_org": "AMAZON-02"
+                },
+                "13.225.62.62": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 16509,
+                    "as_org": "AMAZON-02"
+                }
+            }
+        },
+        "srv1.publicnotify.com": {
+            "resources": {
+                "total": 102,
+                "a": 102,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "216.174.25.110": {
+                    "lat": 40.2129,
+                    "long": -77.0233,
+                    "asn": 3356,
+                    "as_org": "LEVEL3"
+                }
+            }
+        },
+        "ifsight.com": {
+            "resources": {
+                "total": 101,
+                "a": 101,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "13.225.205.21": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 16509,
+                    "as_org": "AMAZON-02"
+                },
+                "13.225.205.95": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 16509,
+                    "as_org": "AMAZON-02"
+                },
+                "13.225.205.7": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 16509,
+                    "as_org": "AMAZON-02"
+                },
+                "13.225.205.44": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 16509,
+                    "as_org": "AMAZON-02"
+                }
+            }
+        },
+        "beta.pgh2o.com": {
+            "resources": {
+                "total": 13,
+                "a": 13,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "34.210.98.122": {
+                    "lat": 45.8491,
+                    "long": -119.7143,
+                    "asn": 16509,
+                    "as_org": "AMAZON-02"
+                },
+                "52.26.106.226": {
+                    "lat": 45.8491,
+                    "long": -119.7143,
+                    "asn": 16509,
+                    "as_org": "AMAZON-02"
+                },
+                "52.27.107.209": {
+                    "lat": 45.8491,
+                    "long": -119.7143,
+                    "asn": 16509,
+                    "as_org": "AMAZON-02"
+                }
+            }
+        },
+        "api.mapbox.com": {
+            "resources": {
+                "total": 20,
+                "a": 0,
+                "script": 10,
+                "link": 10,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "13.225.215.183": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 16509,
+                    "as_org": "AMAZON-02"
+                }
+            }
+        },
+        "3riverswetweather.org": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "18.221.7.224": {
+                    "lat": 39.9653,
+                    "long": -83.0235,
+                    "asn": 16509,
+                    "as_org": "AMAZON-02"
+                }
+            }
+        },
+        "pgh2o.bonfirehub.com": {
+            "resources": {
+                "total": 15,
+                "a": 15,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "104.26.9.70": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 13335,
+                    "as_org": "CLOUDFLARENET"
+                },
+                "104.26.8.70": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 13335,
+                    "as_org": "CLOUDFLARENET"
+                }
+            }
+        },
+        "apps.pittsburghpa.gov": {
+            "resources": {
+                "total": 2,
+                "a": 2,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "205.141.190.115": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 26059,
+                    "as_org": "PGH-AS"
+                }
+            }
+        },
+        "cdc.gov": {
+            "resources": {
+                "total": 3,
+                "a": 3,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "198.246.106.49": {
+                    "lat": 33.8019,
+                    "long": -84.3861,
+                    "asn": 13611,
+                    "as_org": "CDC"
+                },
+                "198.246.102.49": {
+                    "lat": 33.8019,
+                    "long": -84.3861,
+                    "asn": 13611,
+                    "as_org": "CDC"
+                }
+            }
+        },
+        "linkprotect.cudasvc.com": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "3.92.97.0": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                },
+                "107.21.0.126": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                }
+            }
+        },
+        "dollarenergy.org": {
+            "resources": {
+                "total": 3,
+                "a": 3,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "216.92.198.95": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 7859,
+                    "as_org": "PAIR-NETWORKS"
+                }
+            }
+        },
+        "/media/oembed?url=https%3A//youtu.be/hFc5fcPYbfQ&max_width=0&max_height=0&hash=tNvyKbfK28anQEFHeALiOS4GA_ZNaYWopnxl6nGvOKU/": {
+            "resources": {
+                "total": 2,
+                "a": 0,
+                "script": 0,
+                "link": 0,
+                "iframe": 2,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {}
+        },
+        "pgh2o2030.com": {
+            "resources": {
+                "total": 2,
+                "a": 2,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "198.185.159.145": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 53831,
+                    "as_org": "SQUARESPACE"
+                },
+                "198.49.23.144": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 53831,
+                    "as_org": "SQUARESPACE"
+                },
+                "198.49.23.145": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 53831,
+                    "as_org": "SQUARESPACE"
+                },
+                "198.185.159.144": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 53831,
+                    "as_org": "SQUARESPACE"
+                }
+            }
+        },
+        "headwaters.pgh2o.com": {
+            "resources": {
+                "total": 9,
+                "a": 9,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "67.227.153.116": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 32244,
+                    "as_org": "LIQUIDWEB"
+                }
+            }
+        },
+        "lead.pgh2o.com": {
+            "resources": {
+                "total": 12,
+                "a": 12,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "35.188.75.204": {
+                    "lat": 38.6583,
+                    "long": -77.2481,
+                    "asn": 15169,
+                    "as_org": "GOOGLE"
+                }
+            }
+        },
+        "r20.rs6.net": {
+            "resources": {
+                "total": 3,
+                "a": 3,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "208.75.122.11": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 40444,
+                    "as_org": "ASN-CC"
+                }
+            }
+        },
+        "epa.gov": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "134.67.21.34": {
+                    "lat": 38.9091,
+                    "long": -77.0203,
+                    "asn": 14298,
+                    "as_org": "EPA-NET"
+                }
+            }
+        },
+        "achd.net": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "40.76.96.132": {
+                    "lat": 38.7095,
+                    "long": -78.1539,
+                    "asn": 8075,
+                    "as_org": "MICROSOFT-CORP-MSN-AS-BLOCK"
+                }
+            }
+        },
+        "dep.pa.gov": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "13.226.31.71": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 16509,
+                    "as_org": "AMAZON-02"
+                },
+                "13.226.31.87": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 16509,
+                    "as_org": "AMAZON-02"
+                },
+                "13.226.31.96": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 16509,
+                    "as_org": "AMAZON-02"
+                },
+                "13.226.31.21": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 16509,
+                    "as_org": "AMAZON-02"
+                }
+            }
+        },
+        "arcgis.com": {
+            "resources": {
+                "total": 5,
+                "a": 2,
+                "script": 0,
+                "link": 0,
+                "iframe": 3,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "18.234.22.45": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                },
+                "18.234.22.26": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                },
+                "107.23.158.123": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                },
+                "18.234.22.25": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                },
+                "18.234.22.251": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                },
+                "18.234.22.254": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                },
+                "34.233.149.104": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                },
+                "18.234.22.3": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                }
+            }
+        },
+        "pgh20bonds.com": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "52.55.173.69": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                }
+            }
+        },
+        "youtube.com": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "172.217.12.174": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 15169,
+                    "as_org": "GOOGLE"
+                }
+            }
+        },
+        "pghwater-my.sharepoint.com": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "40.108.247.27": {
+                    "lat": 36.6534,
+                    "long": -78.375,
+                    "asn": 8075,
+                    "as_org": "MICROSOFT-CORP-MSN-AS-BLOCK"
+                }
+            }
+        },
+        "flush-it.civicmapper.com": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "35.173.69.207": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                }
+            }
+        },
+        "/media/oembed?url=https%3A//youtube.com/watch%3Fv%3DjK6X4enhHqg&max_width=0&max_height=0&hash=Mo3dx8omJ9XOvky8A7he5PXAiwWlgoaUYq5fykWx7tw/": {
+            "resources": {
+                "total": 1,
+                "a": 0,
+                "script": 0,
+                "link": 0,
+                "iframe": 1,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {}
+        },
+        "governor.pa.gov": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "13.225.205.63": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 16509,
+                    "as_org": "AMAZON-02"
+                },
+                "13.225.205.37": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 16509,
+                    "as_org": "AMAZON-02"
+                },
+                "13.225.205.71": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 16509,
+                    "as_org": "AMAZON-02"
+                },
+                "13.225.205.50": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 16509,
+                    "as_org": "AMAZON-02"
+                }
+            }
+        },
+        "pa1call.org": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "209.187.110.165": {
+                    "lat": 40.3469,
+                    "long": -79.8689,
+                    "asn": 7018,
+                    "as_org": "ATT-INTERNET4"
+                }
+            }
+        },
+        "backflow.pgh2o.com": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "52.5.232.178": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                },
+                "34.233.35.85": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                },
+                "52.2.164.113": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                },
+                "34.225.195.115": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                },
+                "52.4.250.149": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                },
+                "52.5.204.126": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                },
+                "34.228.134.34": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                },
+                "34.224.185.241": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                }
+            }
+        },
+        "puc.pa.gov": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {}
+        },
+        "dhs.pa.gov": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "63.241.232.211": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 7018,
+                    "as_org": "ATT-INTERNET4"
+                },
+                "206.17.31.206": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 17231,
+                    "as_org": "ATT-CERFNET-BLOCK"
+                }
+            }
+        },
+        "papowerswitch.com": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "40.71.199.117": {
+                    "lat": 38.7095,
+                    "long": -78.1539,
+                    "asn": 8075,
+                    "as_org": "MICROSOFT-CORP-MSN-AS-BLOCK"
+                }
+            }
+        },
+        "pagasswitch.com": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "23.185.0.4": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 54113,
+                    "as_org": "FASTLY"
+                }
+            }
+        }
+    },
+    "external_resources": {
+        "https://schedulepayment.com/pwsa/": {
+            "count": 527,
+            "type": "a"
+        },
+        "https://my-pwsa.sensus-analytics.com/login.html#/signin/": {
+            "count": 178,
+            "type": "a"
+        },
+        "https://my-pwsa.sensus-analytics.com/login.html#/signup/": {
+            "count": 175,
+            "type": "a"
+        },
+        "https://googletagmanager.com/gtag/js?id=UA-45362756-1/": {
+            "count": 171,
+            "type": "script"
+        },
+        "https://google.com/recaptcha/api.js?hl=en": {
+            "count": 4,
+            "type": "script"
+        },
+        "https://kit.fontawesome.com/3dc7b5e47f.js": {
+            "count": 171,
+            "type": "script"
+        },
+        "https://cdn.jsdelivr.net/gh/szimek/signature_pad@v2.3.0/example/js/signature_pad.js": {
+            "count": 2,
+            "type": "script"
+        },
+        "https://cdnjs.cloudflare.com/ajax/libs/iCheck/1.0.2/icheck.js": {
+            "count": 2,
+            "type": "script"
+        },
+        "https://cdnjs.cloudflare.com/ajax/libs/iCheck/1.0.2/skins/square/_all.css": {
+            "count": 2,
+            "type": "link"
+        },
+        "https://paynearme.com/s/4778/b/xfpdDg/edit/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/pgh2o/": {
+            "count": 101,
+            "type": "a"
+        },
+        "https://facebook.com/pgh2o/": {
+            "count": 101,
+            "type": "a"
+        },
+        "https://nextdoor.com/agency-detail/pa/pittsburgh/pittsburgh-water-sewer-authority/": {
+            "count": 101,
+            "type": "a"
+        },
+        "http://srv1.publicnotify.com/pwsa/login.php": {
+            "count": 102,
+            "type": "a"
+        },
+        "https://ifsight.com/": {
+            "count": 101,
+            "type": "a"
+        },
+        "https://beta.pgh2o.com/about-us/": {
+            "count": 8,
+            "type": "a"
+        },
+        "https://api.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v1.0.1/Leaflet.fullscreen.min.js": {
+            "count": 10,
+            "type": "script"
+        },
+        "https://api.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v1.0.1/leaflet.fullscreen.css": {
+            "count": 10,
+            "type": "link"
+        },
+        "https://3riverswetweather.org/annual-sewer-conference/stormwater-conference-information/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://pgh2o.bonfirehub.com/portal/?tab=login/": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://apps.pittsburghpa.gov/redtail/images/8618_Pgh_Buying_Plan_Q1_2020.pdf": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://pgh2o.bonfirehub.com/opportunities/25312/": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://pgh2o.bonfirehub.com/opportunities/25048/": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://pgh2o.bonfirehub.com/opportunities/24795/": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://pgh2o.bonfirehub.com/opportunities/24180/": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://pgh2o.bonfirehub.com/opportunities/24322/": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://pgh2o.bonfirehub.com/opportunities/24037/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://pgh2o.bonfirehub.com/opportunities/23713/": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://pgh2o.bonfirehub.com/opportunities/24031/": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://pgh2o.bonfirehub.com/opportunities/24026/": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://pgh2o.bonfirehub.com/opportunities/24032/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://pgh2o.bonfirehub.com/opportunities/23456/": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://pgh2o.bonfirehub.com/projects/view/23069/": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://pgh2o.bonfirehub.com/opportunities/23018/": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://pgh2o.bonfirehub.com/projects/view/22822/": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://cdc.gov/handwashing/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://cdc.gov/coronavirus/2019-nCoV/summary.html": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fpaynearme.com%2fs%2f4778%2fb%2fxfpdDg%2fedit&c=E,1,KYD_d5sgyERqR76ZbXS4BIAVLfq_FPe_lIYx9eZMVSqERlu2Wiyd7LkhwvdpFrEgPhWsXPYU7qr53TDLMWgmeIlsUYaf8_UBYX3iqggmfrji4Rjj&typo=1": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://dollarenergy.org/": {
+            "count": 2,
+            "type": "a"
+        },
+        "/media/oembed?url=https%3A//youtu.be/hFc5fcPYbfQ&max_width=0&max_height=0&hash=tNvyKbfK28anQEFHeALiOS4GA_ZNaYWopnxl6nGvOKU/": {
+            "count": 2,
+            "type": "iframe"
+        },
+        "http://pgh2o2030.com/": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://headwaters.pgh2o.com/": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://lead.pgh2o.com/": {
+            "count": 6,
+            "type": "a"
+        },
+        "http://r20.rs6.net/tn.jsp?f=0012BxnJEiNrfU-s2HZoPKeB_6pEObJyLfegm9mny9mb-w-dmaXo833ytMRnIwTMKsXY5pf9kbc7HJawbKklfoYII9epff7wOHrFE5svuReoUb_5AF-sij0Jm1JFmTCiZ8J9BBBU94jslXiC2Ob4hdM4A==&c=fwtt5_evoLOTceNNzkqdo6CK6z077feB9Uj6t94UFYxIo3AhImw5xQ==&ch=rDKlOy1WMoq3msyovqJphwhGOv4MiIruAIHvhml-OiYV9qkM1Rl5Qg==": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://lead.pgh2o.com/resources/lead-filters-and-other-products/": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://r20.rs6.net/tn.jsp?f=0012BxnJEiNrfU-s2HZoPKeB_6pEObJyLfegm9mny9mb-w-dmaXo833yur_8gVMFlx1S2dZmlSkWvnMXJva9gGVClIzsWA8wvlLy4BIRamSeBNxIEyOeSAOyeLIXxTfBg6I_BdkKwD-K-m4RfmO7QmXVw==&c=fwtt5_evoLOTceNNzkqdo6CK6z077feB9Uj6t94UFYxIo3AhImw5xQ==&ch=rDKlOy1WMoq3msyovqJphwhGOv4MiIruAIHvhml-OiYV9qkM1Rl5Qg==": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://r20.rs6.net/tn.jsp?f=0012BxnJEiNrfU-s2HZoPKeB_6pEObJyLfegm9mny9mb-w-dmaXo833yppvNaZ4UJ_vozDkSxhJ5n1bBMR1a3yv13BvPc1AW6smheGUts1QJ2EwUHS9xwf-MidzPxJGoXtldP5GAo4ZhwQ=&c=fwtt5_evoLOTceNNzkqdo6CK6z077feB9Uj6t94UFYxIo3AhImw5xQ==&ch=rDKlOy1WMoq3msyovqJphwhGOv4MiIruAIHvhml-OiYV9qkM1Rl5Qg==": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://epa.gov/lead/": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://cdc.gov/nceh/lead/tips/water.htm": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://achd.net/lead/": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://dep.pa.gov/lead/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://arcgis.com/home/webmap/viewer.html?webmap=12fee329d4784ec69414085638895317&extent=-80.0951,40.3854,-79.8735,40.4937": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://headwaters.pgh2o.com/#Goals": {
+            "count": 6,
+            "type": "a"
+        },
+        "https://headwaters.pgh2o.com/Content/documents/focusing-on-the-future.pdf": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://headwaters.pgh2o.com/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://pgh20bonds.com/pittsburgh-water-sewer-authority-pa/i6172/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://beta.pgh2o.com/sites/default/files/2019-11/eEA_PWSA%20Water%20Distribution_Apr2_eEA%20edits.png": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://beta.pgh2o.com/sites/default/files/2019-11/GI%20Bio-Retention%20Cross%20Section%20Graphic.jpg": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://beta.pgh2o.com/sites/default/files/2019-11/pwsa%2010%20things%20-%20final.pdf": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://youtube.com/channel/UCQZwyIQ5Zfthsa-GvrYn1bw/featured/": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://lead.pgh2o.com/understanding-lead-and-water/": {
+            "count": 2,
+            "type": "a"
+        },
+        "http://lead.pgh2o.com/resources/customer-water-quality-data/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://arcgis.com/home/webmap/viewer.html?webmap=ae4ca7a114a242c8a7be03083d7cb897&extent=-80.184,40.3514,-79.7237,40.5456": {
+            "count": 1,
+            "type": "iframe"
+        },
+        "https://pghwater-my.sharepoint.com/:b:/g/personal/rzito_pgh2o_com/EWv0yzx72eVGt5WpjVOd2REBOfOV3bBY8LbgW-bIoOCEcQ?e=rpcSdr/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://flush-it.civicmapper.com/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://pgh2o2030.com/": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://lead.pgh2o.com/your-water-service-line/planned-water-service-line-replacement-map/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://arcgis.com/home/webmap/viewer.html?webmap=77a09bc499524672981cb57878c4d3f4&extent=-80.2289,40.3234,-79.7218,40.5499": {
+            "count": 2,
+            "type": "iframe"
+        },
+        "https://beta.pgh2o.com/your-water/stormwater/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://beta.pgh2o.com/your-water/stormwater/help-manage-stormwater/": {
+            "count": 1,
+            "type": "a"
+        },
+        "/media/oembed?url=https%3A//youtube.com/watch%3Fv%3DjK6X4enhHqg&max_width=0&max_height=0&hash=Mo3dx8omJ9XOvky8A7he5PXAiwWlgoaUYq5fykWx7tw/": {
+            "count": 1,
+            "type": "iframe"
+        },
+        "https://governor.pa.gov/wp-content/uploads/2020/03/20200319-TWW-COVID-19-business-closure-order.pdf": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://pa1call.org/PA811/Public/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://backflow.pgh2o.com/login/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://apps.pittsburghpa.gov/pwsa/dyeTestOrd.pdf": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://puc.pa.gov/about_puc/press_releases.aspx?ShowPR=4336": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://dhs.pa.gov/Services/Assistance/Pages/LIHEAP.aspx": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://papowerswitch.com/ways-to-save-energy/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://pagasswitch.com/ways-to-save-energy/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://dollarenergy.org/need-help/application-process/": {
+            "count": 1,
+            "type": "a"
+        }
+    },
+    "ip_addresses": {
+        "52.25.219.28": {
+            "lat": 45.8491,
+            "long": -119.7143
+        },
+        "52.36.45.254": {
+            "lat": 45.8491,
+            "long": -119.7143
+        }
+    }
+}

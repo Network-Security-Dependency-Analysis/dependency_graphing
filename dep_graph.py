@@ -5,8 +5,8 @@ import pandas as pd
 import networkx as nx
 import matplotlib.pyplot as plt
 
-DATA_FILE = 'data/47b3bb0e99cef4dbf43d6ce37cbf87f700334d77.json'
-DEFAULT_NODE_SIZE = 300  # library default is 300
+DATA_FILE = 'data/c5adca69c13b55679bbf30ff8a53c970e98188f2.json'
+DEFAULT_NODE_SIZE = 500  # library default is 300
 
 # Retrieve the json data on dependencies
 with open(DATA_FILE) as f:
@@ -24,5 +24,5 @@ for ext_domain in data['external_domains']:
 G = nx.from_edgelist(edgelist)
 
 # Plot it
-nx.draw(G, with_labels=True, font_size=5, node_color="skyblue", node_size=node_sizes)
+nx.draw(G, with_labels=True, font_size=12, node_color="skyblue", node_size=node_sizes)
 plt.show()

@@ -1,0 +1,2169 @@
+{
+    "top_url": "https://visitpittsburgh.com/",
+    "top_domain": "visitpittsburgh.com",
+    "external_domains": {
+        "visitpittsburgh.idss.com": {
+            "resources": {
+                "total": 180,
+                "a": 180,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "173.203.42.81": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 19994,
+                    "as_org": "RACKSPACE"
+                }
+            }
+        },
+        "sportspittsburgh.com": {
+            "resources": {
+                "total": 175,
+                "a": 175,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "34.226.187.201": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                }
+            }
+        },
+        "facebook.com": {
+            "resources": {
+                "total": 173,
+                "a": 173,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "157.240.18.35": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 32934,
+                    "as_org": "FACEBOOK"
+                }
+            }
+        },
+        "twitter.com": {
+            "resources": {
+                "total": 172,
+                "a": 172,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "104.244.42.1": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 13414,
+                    "as_org": "TWITTER"
+                },
+                "104.244.42.193": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 13414,
+                    "as_org": "TWITTER"
+                }
+            }
+        },
+        "tag.simpli.fi": {
+            "resources": {
+                "total": 175,
+                "a": 0,
+                "script": 175,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "169.47.141.227": {
+                    "lat": 39.018,
+                    "long": -77.539,
+                    "asn": 36351,
+                    "as_org": "SOFTLAYER"
+                }
+            }
+        },
+        "googletagmanager.com": {
+            "resources": {
+                "total": 350,
+                "a": 0,
+                "script": 175,
+                "link": 0,
+                "iframe": 175,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "172.217.3.104": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 15169,
+                    "as_org": "GOOGLE"
+                }
+            }
+        },
+        "googletagservices.com": {
+            "resources": {
+                "total": 172,
+                "a": 0,
+                "script": 172,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {}
+        },
+        "ad.doubleclick.net": {
+            "resources": {
+                "total": 175,
+                "a": 0,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 175,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "172.217.12.134": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 15169,
+                    "as_org": "GOOGLE"
+                }
+            }
+        },
+        "embed.crowdriff.com": {
+            "resources": {
+                "total": 28,
+                "a": 0,
+                "script": 28,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "52.72.48.209": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                },
+                "52.6.8.63": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                },
+                "52.200.241.78": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                },
+                "52.44.30.61": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                },
+                "52.202.181.156": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                },
+                "3.217.244.247": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                }
+            }
+        },
+        "google.com": {
+            "resources": {
+                "total": 10,
+                "a": 2,
+                "script": 8,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "172.217.11.14": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 15169,
+                    "as_org": "GOOGLE"
+                }
+            }
+        },
+        "youtube.com": {
+            "resources": {
+                "total": 21,
+                "a": 5,
+                "script": 0,
+                "link": 0,
+                "iframe": 16,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "172.217.6.238": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 15169,
+                    "as_org": "GOOGLE"
+                }
+            }
+        },
+        "s3.amazonaws.com": {
+            "resources": {
+                "total": 3,
+                "a": 3,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "52.217.46.182": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 16509,
+                    "as_org": "AMAZON-02"
+                }
+            }
+        },
+        "instagram.com": {
+            "resources": {
+                "total": 8,
+                "a": 8,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "34.233.33.203": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                },
+                "52.54.200.34": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                },
+                "52.45.64.73": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                },
+                "54.165.89.73": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                },
+                "52.45.36.188": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                },
+                "52.54.232.92": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                },
+                "52.22.200.157": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                },
+                "34.228.172.19": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                }
+            }
+        },
+        "cleanpix.com": {
+            "resources": {
+                "total": 4,
+                "a": 4,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "104.26.11.76": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 13335,
+                    "as_org": "CLOUDFLARENET"
+                },
+                "104.26.10.76": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 13335,
+                    "as_org": "CLOUDFLARENET"
+                }
+            }
+        },
+        "heinzhistorycenter.org": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "50.116.73.168": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 46606,
+                    "as_org": "UNIFIEDLAYER-AS-1"
+                }
+            }
+        },
+        "kennywood.com": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "216.122.52.172": {
+                    "lat": 33.7485,
+                    "long": -84.3871,
+                    "asn": 13768,
+                    "as_org": "COGECO-PEER1"
+                }
+            }
+        },
+        "pbt.org": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "35.209.59.67": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 19527,
+                    "as_org": "GOOGLE-2"
+                }
+            }
+        },
+        "ppgplace.com": {
+            "resources": {
+                "total": 6,
+                "a": 6,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "67.225.161.242": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 32244,
+                    "as_org": "LIQUIDWEB"
+                }
+            }
+        },
+        "phipps.conservatory.org": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "159.89.233.248": {
+                    "lat": 40.793,
+                    "long": -74.0247,
+                    "asn": 14061,
+                    "as_org": "DIGITALOCEAN-ASN"
+                }
+            }
+        },
+        "pittsburghsymphony.org": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "13.225.205.55": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 16509,
+                    "as_org": "AMAZON-02"
+                },
+                "13.225.205.76": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 16509,
+                    "as_org": "AMAZON-02"
+                },
+                "13.225.205.25": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 16509,
+                    "as_org": "AMAZON-02"
+                },
+                "13.225.205.105": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 16509,
+                    "as_org": "AMAZON-02"
+                }
+            }
+        },
+        "gatewayclipper.com": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "104.27.189.122": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 13335,
+                    "as_org": "CLOUDFLARENET"
+                },
+                "104.27.188.122": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 13335,
+                    "as_org": "CLOUDFLARENET"
+                }
+            }
+        },
+        "pittsburghzoo.org": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "174.138.116.151": {
+                    "lat": 40.8364,
+                    "long": -74.1403,
+                    "asn": 14061,
+                    "as_org": "DIGITALOCEAN-ASN"
+                }
+            }
+        },
+        "downtownpittsburghholidays.com": {
+            "resources": {
+                "total": 2,
+                "a": 2,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "198.185.159.144": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 53831,
+                    "as_org": "SQUARESPACE"
+                },
+                "198.185.159.145": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 53831,
+                    "as_org": "SQUARESPACE"
+                },
+                "198.49.23.144": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 53831,
+                    "as_org": "SQUARESPACE"
+                },
+                "198.49.23.145": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 53831,
+                    "as_org": "SQUARESPACE"
+                }
+            }
+        },
+        "chabadpgh.com": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "199.26.225.29": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 11403,
+                    "as_org": "NYINTERNET"
+                }
+            }
+        },
+        "pittsburghclo.org": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "209.126.24.101": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 36444,
+                    "as_org": "NEXCESS-NET"
+                }
+            }
+        },
+        "aviary.org": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "52.37.75.89": {
+                    "lat": 45.8491,
+                    "long": -119.7143,
+                    "asn": 16509,
+                    "as_org": "AMAZON-02"
+                }
+            }
+        },
+        "dioceseofpgh.org": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "184.168.131.241": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 26496,
+                    "as_org": "AS-26496-GO-DADDY-COM-LLC"
+                }
+            }
+        },
+        "trustarts.org": {
+            "resources": {
+                "total": 2,
+                "a": 2,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "13.225.205.93": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 16509,
+                    "as_org": "AMAZON-02"
+                },
+                "13.225.205.87": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 16509,
+                    "as_org": "AMAZON-02"
+                },
+                "13.225.205.47": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 16509,
+                    "as_org": "AMAZON-02"
+                },
+                "13.225.205.86": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 16509,
+                    "as_org": "AMAZON-02"
+                }
+            }
+        },
+        "thefrickpittsburgh.org": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "65.111.254.13": {
+                    "lat": 40.0565,
+                    "long": -86.0159,
+                    "asn": 30691,
+                    "as_org": "LLDC"
+                }
+            }
+        },
+        "carnegiesciencecenter.org": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "208.103.112.52": {
+                    "lat": 40.4442,
+                    "long": -79.9557,
+                    "asn": 33154,
+                    "as_org": "DQECOM"
+                }
+            }
+        },
+        "nationalityrooms.pitt.edu": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "136.142.35.85": {
+                    "lat": 40.4182,
+                    "long": -80.051,
+                    "asn": 4130,
+                    "as_org": "UPITT-AS"
+                }
+            }
+        },
+        "visitpa.com": {
+            "resources": {
+                "total": 8,
+                "a": 8,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "69.167.138.212": {
+                    "lat": 42.7502,
+                    "long": -84.7388,
+                    "asn": 32244,
+                    "as_org": "LIQUIDWEB"
+                }
+            }
+        },
+        "visittheusa.com": {
+            "resources": {
+                "total": 8,
+                "a": 8,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "104.16.187.79": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 13335,
+                    "as_org": "CLOUDFLARENET"
+                },
+                "104.16.235.76": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 13335,
+                    "as_org": "CLOUDFLARENET"
+                }
+            }
+        },
+        "destinationsinternational.org": {
+            "resources": {
+                "total": 8,
+                "a": 8,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "104.16.43.62": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 13335,
+                    "as_org": "CLOUDFLARENET"
+                },
+                "104.16.44.62": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 13335,
+                    "as_org": "CLOUDFLARENET"
+                }
+            }
+        },
+        "trustyou.com": {
+            "resources": {
+                "total": 8,
+                "a": 8,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "88.198.114.4": {
+                    "lat": 51.2993,
+                    "long": 9.491,
+                    "asn": 24940,
+                    "as_org": "Hetzner Online GmbH"
+                },
+                "88.198.114.6": {
+                    "lat": 51.2993,
+                    "long": 9.491,
+                    "asn": 24940,
+                    "as_org": "Hetzner Online GmbH"
+                }
+            }
+        },
+        "flickr.com": {
+            "resources": {
+                "total": 5,
+                "a": 5,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "13.225.70.230": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 16509,
+                    "as_org": "AMAZON-02"
+                }
+            }
+        },
+        "pinterest.com": {
+            "resources": {
+                "total": 5,
+                "a": 5,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "151.101.64.84": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 54113,
+                    "as_org": "FASTLY"
+                },
+                "151.101.128.84": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 54113,
+                    "as_org": "FASTLY"
+                },
+                "151.101.192.84": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 54113,
+                    "as_org": "FASTLY"
+                },
+                "151.101.0.84": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 54113,
+                    "as_org": "FASTLY"
+                }
+            }
+        },
+        "visitpittsburgh.appone.com": {
+            "resources": {
+                "total": 1,
+                "a": 0,
+                "script": 0,
+                "link": 0,
+                "iframe": 1,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "141.123.221.30": {
+                    "lat": 37.751,
+                    "long": -97.822,
+                    "asn": 13588,
+                    "as_org": "PAYCHEX"
+                }
+            }
+        },
+        "reservations.visitpittsburgh.com": {
+            "resources": {
+                "total": 10,
+                "a": 10,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "64.34.237.136": {
+                    "lat": 43.6644,
+                    "long": -79.4195,
+                    "asn": 13768,
+                    "as_org": "COGECO-PEER1"
+                }
+            }
+        },
+        "issuu.com": {
+            "resources": {
+                "total": 1,
+                "a": 1,
+                "script": 0,
+                "link": 0,
+                "iframe": 0,
+                "video": 0,
+                "audio": 0,
+                "img": 0,
+                "embed": 0,
+                "object": 0
+            },
+            "ip_addresses": {
+                "52.73.64.69": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                },
+                "54.88.32.63": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                },
+                "34.206.174.212": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                },
+                "52.203.132.65": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                },
+                "54.87.186.203": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                },
+                "34.231.68.69": {
+                    "lat": 39.0481,
+                    "long": -77.4728,
+                    "asn": 14618,
+                    "as_org": "AMAZON-AES"
+                }
+            }
+        }
+    },
+    "external_resources": {
+        "https://visitpittsburgh.idss.com/default.aspx": {
+            "count": 180,
+            "type": "a"
+        },
+        "https://sportspittsburgh.com/": {
+            "count": 175,
+            "type": "a"
+        },
+        "https://facebook.com/sharer/sharer.php?u=": {
+            "count": 167,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/things-to-do/arts-culture/architecture/covered-bridges/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://tag.simpli.fi/sifitag/cd7edd50-0859-0136-cbbb-06a9ed4ca31b/": {
+            "count": 175,
+            "type": "script"
+        },
+        "https://googletagmanager.com/gtag/js?id=DC-8184016/": {
+            "count": 175,
+            "type": "script"
+        },
+        "https://googletagservices.com/tag/js/gpt.js": {
+            "count": 172,
+            "type": "script"
+        },
+        "https://googletagmanager.com/ns.html?id=GTM-T3X66WZ": {
+            "count": 175,
+            "type": "iframe"
+        },
+        "https://ad.doubleclick.net/ddm/activity/src=8184016;type=invmedia;cat=k66firh6;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;npa=;ord=1?/": {
+            "count": 175,
+            "type": "img"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/things-to-do/arts-culture/architecture/frank-lloyd-wright/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://embed.crowdriff.com/js/init?hash=ccd1cb3522973781/": {
+            "count": 1,
+            "type": "script"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/things-to-do/arts-culture/architecture/churches/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/things-to-do/arts-culture/architecture/theaters/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/things-to-do/arts-culture/architecture/sports-venues/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/things-to-do/arts-culture/architecture/green-buildings/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/things-to-do/arts-culture/architecture/pittsburgh-skyline/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/things-to-do/arts-culture/architecture/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://embed.crowdriff.com/js/init?hash=9eaf64fcc0c2d345/": {
+            "count": 1,
+            "type": "script"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/things-to-do/arts-culture/museums/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/things-to-do/arts-culture/history/civil-war-monuments/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/things-to-do/arts-culture/history/underground-railroad/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/things-to-do/arts-culture/history/african-american-history/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/things-to-do/arts-culture/history/famous-pittsburghers/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/things-to-do/arts-culture/history/historical-markers/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/things-to-do/arts-culture/history/the-pittsburgh-h/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/things-to-do/arts-culture/history/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/things-to-do/arts-culture/music-performing-arts/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://embed.crowdriff.com/js/init?hash=eef241aa/": {
+            "count": 1,
+            "type": "script"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/things-to-do/arts-culture/visual-arts/public-art/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/things-to-do/arts-culture/visual-arts/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/partners/partnership-staff/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/partners/partner-events/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/partners/advertising-opportunities/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/partners/be-a-partner/partner-rules-and-requirements/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/partners/be-a-partner/partner-application/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://google.com/recaptcha/api.js": {
+            "count": 8,
+            "type": "script"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/partners/be-a-partner/dues-schedule/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/partners/be-a-partner/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/media/communications-staff/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/media/pittsburgh-in-the-spotlight/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/media/media-information-request/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/media/press-tours/visitation-guidelines/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/media/press-tours/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/media/photo-requests/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/media/news-releases/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/media/press-kit/pittsburgh-accolades/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/media/press-kit/pittsburgh-facts-trivia/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/media/press-kit/backgrounders/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/media/press-kit/whats-new/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/media/press-kit/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/media/pull-up-a-chair/good-morning-america-in-pittsburgh/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://embed.crowdriff.com/js/init?hash=b312c62e71fff563/": {
+            "count": 1,
+            "type": "script"
+        },
+        "https://youtube.com/embed/GymJcErP5M4?feature=oembed/": {
+            "count": 1,
+            "type": "iframe"
+        },
+        "https://youtube.com/embed/WdjIvJtmlgc?feature=oembed/": {
+            "count": 1,
+            "type": "iframe"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/media/pull-up-a-chair/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://embed.crowdriff.com/js/init?hash=0a05e9fbff614605/": {
+            "count": 1,
+            "type": "script"
+        },
+        "https://youtube.com/embed/qW2TQAONJZ8?feature=oembed/": {
+            "count": 2,
+            "type": "iframe"
+        },
+        "https://youtube.com/embed/SBQ8wUIUhq4?feature=oembed/": {
+            "count": 1,
+            "type": "iframe"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/weddings-reunions/venues/": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://s3.amazonaws.com/visit-pittsburgh/CMS/Pittsburgh-Reunion-Planner-and-Workbook-2.pdf": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/weddings-reunions/reunions/10-tips-for-a-successful-reunion/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/weddings-reunions/reunions/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/weddings-reunions/weddings/special-occasion-packs/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/weddings-reunions/weddings/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://instagram.com/p/BjLoGdigQPe/": {
+            "count": 2,
+            "type": "a"
+        },
+        "https://instagram.com/pittsburghcc_/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/contact-us/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/privacy/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/blog/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/about-us/why-is-pittsburgh-special/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/about-us/filming-in-pittsburgh/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/about-us/board-listing/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/about-us/staff-listing/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/about-us/speakers-bureau/": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://s3.amazonaws.com/visit-pittsburgh/CMS/Documents/HR/Internship-brochure-2018.pdf": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/things-to-do/outdoor-adventure/biking-in-pittsburgh/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://embed.crowdriff.com/js/init?hash=56a669a25b8a412e/": {
+            "count": 1,
+            "type": "script"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/things-to-do/outdoor-adventure/parks/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://embed.crowdriff.com/js/init?hash=5411f591/": {
+            "count": 1,
+            "type": "script"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/things-to-do/outdoor-adventure/trails/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/things-to-do/outdoor-adventure/fishing-boating/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/things-to-do/outdoor-adventure/golf/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/things-to-do/pittsburgh-sports-teams/terrible-towel/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/things-to-do/pittsburgh-sports-teams/other-sports-teams/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/things-to-do/pittsburgh-sports-teams/college-sports/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/things-to-do/pittsburgh-sports-teams/pittsburgh-penguins/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://embed.crowdriff.com/js/init?hash=83982913/": {
+            "count": 1,
+            "type": "script"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/things-to-do/pittsburgh-sports-teams/pittsburgh-pirates/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://embed.crowdriff.com/js/init?hash=9ce29531/": {
+            "count": 2,
+            "type": "script"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/things-to-do/pittsburgh-sports-teams/pittsburgh-steelers/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://embed.crowdriff.com/js/init?hash=b5f97be5/": {
+            "count": 1,
+            "type": "script"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/restaurants-culinary/farms-farmers-markets/pittsburgh-farm-fresh-meats/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/restaurants-culinary/farms-farmers-markets/pittsburghs-csas/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/restaurants-culinary/farms-farmers-markets/u-pick-farms/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/plan-your-trip/transportation/cab-services/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/plan-your-trip/transportation/local-transportation/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/plan-your-trip/transportation/public-transportation/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/plan-your-trip/transportation/around-town/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/plan-your-trip/transportation/driving-directions/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/plan-your-trip/transportation/pittsburgh-airport/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://youtube.com/embed/2XLOBEkwqC4?feature=oembed/": {
+            "count": 1,
+            "type": "iframe"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/plan-your-trip/weather/autumn-in-pittsburgh/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://embed.crowdriff.com/js/init?hash=d1360df3232a3023/": {
+            "count": 1,
+            "type": "script"
+        },
+        "https://embed.crowdriff.com/js/init?hash=667f6fbd53b08722/": {
+            "count": 1,
+            "type": "script"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/plan-your-trip/weather/summer-in-pittsburgh/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://embed.crowdriff.com/js/init?hash=48e5a64196f3da10/": {
+            "count": 1,
+            "type": "script"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/plan-your-trip/weather/spring-in-pittsburgh/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://embed.crowdriff.com/js/init?hash=2e05d3e58f36157f/": {
+            "count": 1,
+            "type": "script"
+        },
+        "https://youtube.com/embed/LlR7e1b9Bdo/": {
+            "count": 1,
+            "type": "iframe"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/plan-your-trip/weather/winter-in-pittsburgh/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://embed.crowdriff.com/js/init?hash=81c95f4a40a4c70c/": {
+            "count": 1,
+            "type": "script"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/plan-your-trip/lgbtq-travel/nightlife/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/plan-your-trip/lgbtq-travel/tag-approved-hotels/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/plan-your-trip/lgbtq-travel/things-to-do/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/plan-your-trip/medical-travel/temporary-housing/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/plan-your-trip/medical-travel/places-to-stay-for-medical-travel/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/plan-your-trip/medical-travel/hospitals/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://cleanpix.com/cleanpix/do/gallery.Gallery/W14fn:R5f:Skb?/": {
+            "count": 4,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/meetpittsburgh/meeting-planner-toolkit/videos/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://youtube.com/embed/videoseries?list=PLc66dYOaHkt_wyVCZGkECXdxAdmRb30Xf/": {
+            "count": 1,
+            "type": "iframe"
+        },
+        "https://youtube.com/embed/videoseries?list=PLc66dYOaHkt9CCAitbLI1a42KoxGKlNpa/": {
+            "count": 1,
+            "type": "iframe"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/meetpittsburgh/meeting-planner-toolkit/promotional-materials/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/meetpittsburgh/meeting-planner-toolkit/publications/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/meetpittsburgh/destination-services/meet-the-services-team/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/meetpittsburgh/destination-services/service-lead-request/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/meetpittsburgh/destination-services/registration-staffing/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/meetpittsburgh/destination-services/housing-reservation-services/": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://heinzhistorycenter.org/exhibits/a-very-merry-pittsburgh/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://kennywood.com/holidaylights/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://pbt.org/performances/nutcracker/": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://ppgplace.com/events/carriage-rides/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://phipps.conservatory.org/calendar/detail/winter-flower-show-and-light-garden/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://pittsburghsymphony.org/production/52656/highmark-holiday-pops/": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://gatewayclipper.com/holiday-cruises/santa-fun/": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://pittsburghzoo.org/Event-Category-Events/": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://downtownpittsburghholidays.com/holiday-season-of-events/holley-trolley-carriage-ride/": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://downtownpittsburghholidays.com/peoples-gas-holiday-market/": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://chabadpgh.com/": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://pittsburghclo.org/shows/a-musical-christmas-carol/": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://ppgplace.com/events/spirit-of-giving/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://aviary.org/wings-in-winter/": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://dioceseofpgh.org/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://facebook.com/miraclepgh/": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://ppgplace.com/directory/the-rink/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://trustarts.org/production/52309/dr-seuss-how-the-grinch-stole-christmas-the-musical/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://google.com/search?q=Christmas+Tree+at+Point+State+Park&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjjusK6rpbYAhXPk-AKHRE_A0IQ_AUIDCgD&biw=1470&bih=1288/": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://thefrickpittsburgh.org/visitor-information/holidays/": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://carnegiesciencecenter.org/exhibits/miniature-railroad/": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://ppgplace.com/events/gingerbread-house-display-competition/": {
+            "count": 3,
+            "type": "a"
+        },
+        "http://nationalityrooms.pitt.edu/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://trustarts.org/production/53967/cirque-dreams-holidaze/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://google.com/search?q=Christmas+Tree+at+the+City+County+Building&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjR0NH-m6TYAhVsct8KHZNHBL0Q_AUICygC&biw=1068&bih=695&dpr=2/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/blog/category/holidays/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/blog/tag/holidays/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/blog/tag/winter/": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://visitpa.com/": {
+            "count": 8,
+            "type": "a"
+        },
+        "https://visittheusa.com/": {
+            "count": 8,
+            "type": "a"
+        },
+        "https://destinationsinternational.org/": {
+            "count": 8,
+            "type": "a"
+        },
+        "http://trustyou.com/": {
+            "count": 8,
+            "type": "a"
+        },
+        "https://facebook.com/VisitPittsburgh/": {
+            "count": 5,
+            "type": "a"
+        },
+        "https://instagram.com/visitpittsburgh/": {
+            "count": 5,
+            "type": "a"
+        },
+        "https://twitter.com/vstpgh/": {
+            "count": 5,
+            "type": "a"
+        },
+        "https://youtube.com/channel/UChtK_mzDRJokXAQoS6gFNnQ/": {
+            "count": 5,
+            "type": "a"
+        },
+        "https://flickr.com/photos/visitpittsburgh/": {
+            "count": 5,
+            "type": "a"
+        },
+        "https://pinterest.com/visitpittsburgh/": {
+            "count": 5,
+            "type": "a"
+        },
+        "https://visitpittsburgh.appone.com/": {
+            "count": 1,
+            "type": "iframe"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/about-us/affiliations/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/about-us/visitpittsburgh-history/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/about-us/tourism-impact/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/about-us/about-pittsburgh/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/about-us/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://embed.crowdriff.com/js/init?hash=69731036dcc6d627/": {
+            "count": 1,
+            "type": "script"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/meetpittsburgh/reasons-to-meet-in-pittsburgh/three-city-collective/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/meetpittsburgh/reasons-to-meet-in-pittsburgh/pittsburgh-ambassadors/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/meetpittsburgh/reasons-to-meet-in-pittsburgh/customer-success/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://youtube.com/embed/vHyV67mi1Fk?feature=oembed/": {
+            "count": 1,
+            "type": "iframe"
+        },
+        "https://youtube.com/embed/EVoVxqFbbMw?feature=oembed/": {
+            "count": 1,
+            "type": "iframe"
+        },
+        "https://youtube.com/embed/XzKtSi9eOEw?feature=oembed/": {
+            "count": 1,
+            "type": "iframe"
+        },
+        "https://youtube.com/embed/93cs1JZXXNQ?feature=oembed/": {
+            "count": 1,
+            "type": "iframe"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/meetpittsburgh/reasons-to-meet-in-pittsburgh/pittsburgh-industries-corporations/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/meetpittsburgh/reasons-to-meet-in-pittsburgh/places-to-dine/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/meetpittsburgh/reasons-to-meet-in-pittsburgh/things-to-do/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/meetpittsburgh/reasons-to-meet-in-pittsburgh/easy-travel/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://embed.crowdriff.com/js/init?hash=5c57affc4aaf52cd/": {
+            "count": 1,
+            "type": "script"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/meetpittsburgh/reasons-to-meet-in-pittsburgh/dlcc/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/meetpittsburgh/contact-us/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/meetpittsburgh/request-for-proposal/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/meetpittsburgh/group-tour/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/meetpittsburgh/destination-services/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/meetpittsburgh/meeting-planner-toolkit/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/meetpittsburgh/suppliers/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/meetpittsburgh/meeting-spaces/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/meetpittsburgh/hotels/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/meetpittsburgh/reasons-to-meet-in-pittsburgh/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/partners/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/media/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/weddings-reunions/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/meetpittsburgh/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://youtube.com/embed/7G_XXYeOxmA?feature=oembed/": {
+            "count": 2,
+            "type": "iframe"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/neighborhoods/pittsburghs-countryside/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/neighborhoods/carnegie/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/neighborhoods/monroeville/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/neighborhoods/east-liberty/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/neighborhoods/oakland/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/neighborhoods/lawrenceville/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/neighborhoods/north-shore-north-side/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/neighborhoods/south-side/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/neighborhoods/mt-washington/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/neighborhoods/strip-district/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/neighborhoods/downtown-pittsburgh/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/plan-your-trip/medical-travel/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/plan-your-trip/college-visits/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/plan-your-trip/lgbtq-travel/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/plan-your-trip/weather/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/plan-your-trip/newsletter-signup/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/plan-your-trip/accessibility-guide/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/plan-your-trip/transportation/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/plan-your-trip/welcome-centers/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/plan-your-trip/maps/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/plan-your-trip/visitors-guide/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/restaurants-culinary/farms-farmers-markets/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/restaurants-culinary/wineries-distilleries/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://embed.crowdriff.com/js/init?hash=e00ccf0c/": {
+            "count": 1,
+            "type": "script"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/restaurants-culinary/craft-breweries/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://embed.crowdriff.com/js/init?hash=ccb4403396aec8e7/": {
+            "count": 1,
+            "type": "script"
+        },
+        "https://embed.crowdriff.com/js/init?hash=eeeccdc3591f57a0/": {
+            "count": 1,
+            "type": "script"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/restaurants-culinary/bars-nightlife/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/events-festivals/marathons-runs-walks/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/events-festivals/food-festivals/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/events-festivals/film-festivals/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/events-festivals/halloween-events/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://embed.crowdriff.com/js/init?hash=a0d04589f4dd0dff/": {
+            "count": 1,
+            "type": "script"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/events-festivals/holidays/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/events-festivals/annual-events/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/events-festivals/submit-your-event/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/events-festivals/this-week-in-pittsburgh/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/things-to-do/casinos-gaming/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/things-to-do/pittsburgh-sports-teams/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/things-to-do/shopping/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/things-to-do/arts-culture/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/things-to-do/outdoor-adventure/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://youtube.com/embed/9rN0JM26FAg?feature=oembed/": {
+            "count": 1,
+            "type": "iframe"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/things-to-do/tours-sightseeing/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/things-to-do/family-fun/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/things-to-do/free-things-to-do/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://embed.crowdriff.com/js/init?hash=9de5c494e64c837c/": {
+            "count": 1,
+            "type": "script"
+        },
+        "https://embed.crowdriff.com/js/init?hash=9ffff61c/": {
+            "count": 1,
+            "type": "script"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/neighborhoods/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/plan-your-trip/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://embed.crowdriff.com/js/init?hash=bff2c3e7/": {
+            "count": 1,
+            "type": "script"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/restaurants-culinary/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://embed.crowdriff.com/js/init?hash=eac29cf20225a04a/": {
+            "count": 2,
+            "type": "script"
+        },
+        "http://reservations.visitpittsburgh.com/Hotels-Motels/Hotel.asp?Hotel_ID=CMB": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://reservations.visitpittsburgh.com/Hotels-Motels/Hotel.asp?Hotel_ID=CMD": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://reservations.visitpittsburgh.com/Hotels-Motels/Hotel.asp?Hotel_ID=CPS": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://reservations.visitpittsburgh.com/Hotels-Motels/Hotel.asp?Hotel_ID=DTD": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://reservations.visitpittsburgh.com/Hotels-Motels/Hotel.asp?Hotel_ID=DTG": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://reservations.visitpittsburgh.com/Hotels-Motels/Hotel.asp?Hotel_ID=DTM": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://reservations.visitpittsburgh.com/Hotels-Motels/Hotel.asp?Hotel_ID=DRP": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://reservations.visitpittsburgh.com/Hotels-Motels/Hotel.asp?Hotel_ID=FMP": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://reservations.visitpittsburgh.com/Hotels-Motels/Hotel.asp?Hotel_ID=HMD": {
+            "count": 1,
+            "type": "a"
+        },
+        "http://reservations.visitpittsburgh.com/Hotels-Motels/Hotel.asp?Hotel_ID=HMU": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://issuu.com/visitpittsburgh/docs/2020_ovg_final_proof_single_page_format/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/events-festivals/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/things-to-do/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/weather/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://twitter.com/intent/tweet?text=https://visitpittsburgh.com/": {
+            "count": 1,
+            "type": "a"
+        },
+        "https://embed.crowdriff.com/js/init?hash=d4c6e081325da284/": {
+            "count": 1,
+            "type": "script"
+        }
+    },
+    "ip_addresses": {
+        "34.226.187.201": {
+            "lat": 39.0481,
+            "long": -77.4728
+        }
+    }
+}

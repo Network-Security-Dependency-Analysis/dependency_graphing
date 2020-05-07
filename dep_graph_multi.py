@@ -6,8 +6,8 @@ import pandas as pd
 import networkx as nx
 import matplotlib.pyplot as plt
 
-DATA_DIR = 'data/'
-DEFAULT_NODE_SIZE = 15  # library default is 300
+DATA_DIR = 'data_pgh2/'
+DEFAULT_NODE_SIZE = 1  # library default is 300
 
 # Retrieve the json data on dependencies
 json_data = []
