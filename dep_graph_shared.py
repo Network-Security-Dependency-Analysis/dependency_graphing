@@ -14,6 +14,9 @@ DEFAULT_NODE_SIZE = args.node_size
 DEFAULT_ROOT_NODE_COLOR = 'pink'
 DEFAULT_NODE_COLOR = 'skyblue'
 DATA_DIR = args.input_dir
+
+# Types of resources
+# 'total', 'a', 'script', 'link', 'iframe', 'video', 'audio', 'img', 'embed', 'object'
 RESOURCES = ['total']
 
 
@@ -64,18 +67,34 @@ G = nx.from_edgelist(shared_deps_edgelist)
 # Parameter adjusting (labels, node sizes, etc.)
 ################################################################################
 # Count the number of dependencies (used to determine node size)
+# All root nodes and external IPs/domains are saved to the dictionary along with
+# a tally of how many times they are referenced
 num_deps = {}
-for tld in data_files:
-    # Add the top domain into the dictionary
-    td = tld['top_domain']
-    num_deps[td] = num_deps[td] + 1 if td in num_deps else 1
-    # Add the external domains into the dictionary
-    ext_domains = tld['external_domains']
-    for ext in ext_domains:
-        total = 0
-        for r in RESOURCES:
-            total += ext_domains[ext]['resources'][r]
-        num_deps[ext] = num_deps[ext] + total if ext in num_deps else total
+for d in data_files:
+    # This is a web dependency graph
+    if 'top_domain' in d.keys():
+        num_deps[d['top_domain']] = 1
+        for ext_dom in d['external_domains']:
+            total = 0
+            for r in RESOURCES:
+                total += d['external_domains'][ext_dom]['resources'][r]
+            if ext_dom in num_deps:
+                num_deps[ext_dom] = num_deps[ext_dom] + total
+            else:
+                num_deps[ext_dom] = total
+    # This is an IoT device dependency graph
+    elif 'Name' in d.keys() and 'MAC' in d.keys() and 'IPs' in d.keys():
+        device_name = d['Name']
+        num_deps[device_name] = 1
+        for ext_ip in d['IPs']:
+            asorg = d['IPs'][ext_ip]['as_org']
+            if not asorg:
+                asorg = "UNKNOWN"
+            ext_name = ext_ip + '\n' + asorg
+            if ext_name in num_deps:
+                num_deps[ext_name] = num_deps[ext_name] + 1
+            else:
+                num_deps[ext_name] = 1
 
 # Update node sizes in the graph
 node_sizes = [num_deps[node] * DEFAULT_NODE_SIZE for node in G.nodes]

@@ -1,6 +1,8 @@
 ################################################################################
 # Priorities
 ################################################################################
+- Fix resources (only checking script tags)
+    - working in "deg_graph_mult", but not "dep_graph_shared"
 - Make the labels readable
     - Only assign labels to dependencies which are big enough
     - make the labels scale to the node size

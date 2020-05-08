@@ -7,7 +7,7 @@ import networkx as nx
 import matplotlib.pyplot as plt
 
 DEFAULT_NODE_SIZE = 1  # library default is 300
-DEFAULT_ROOT_NODE_SIZE = 5000
+DEFAULT_ROOT_NODE_SIZE = 2000
 DEFAULT_NODE_COLOR = 'skyblue'
 DEFAULT_ROOT_NODE_COLOR = 'pink'
 MIN_DEPENDENCIES = 5
@@ -15,7 +15,7 @@ DATA_DIR = 'data/pgh2/'
 
 # Types of resources
 # 'total', 'a', 'script', 'link', 'iframe', 'video', 'audio', 'img', 'embed', 'object'
-RESOURCES = ['script', 'link', 'iframe', 'img']
+# RESOURCES = ['script', 'link', 'iframe']
 RESOURCES = ['total']
 
 
