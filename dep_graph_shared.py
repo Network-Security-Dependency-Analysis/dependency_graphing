@@ -1,11 +1,17 @@
-''' Plot the shared dependencies across multiple top level domains (TLD) '''
+''' Plot the shared dependencies across multiple top level domains (TLD) or IoT Device '''
 import os
 import json
+import argparse
 import networkx as nx
 import matplotlib.pyplot as plt
 
-DEFAULT_NODE_SIZE = 150
-DATA_DIR = 'data/pgh/'
+parser = argparse.ArgumentParser(description='Generate shared dependency graph for multiple TLDs or IoT Devices')
+parser.add_argument('-i', dest='input_dir', type=str, help='Directory for JSON files', required=True)
+parser.add_argument('-n', dest='node_size', type=int, help='Integer node size', default=50)
+args = parser.parse_args()
+
+DEFAULT_NODE_SIZE = args.node_size
+DATA_DIR = args.input_dir
 RESOURCES = ['script']
 
 
@@ -13,19 +19,29 @@ RESOURCES = ['script']
 # Initial Graph Generation
 ################################################################################
 # Retrieve the json data on dependencies
-TLDs = []
+data_files = []
 for fname in os.listdir(DATA_DIR):
     if not fname.endswith('.json'): continue
     with open(DATA_DIR + fname) as f:
-        TLDs.append(json.load(f))
+        data_files.append(json.load(f))
 
 # Generate list of edges between all nodes
 edgelist = []
-for tld in TLDs:
-    top_domain = tld['top_domain']
-    ext_domains = tld['external_domains']
-    for ext_domain in ext_domains:
-        edgelist.append((top_domain, ext_domain))
+for d in data_files:
+    # This is a web dependency graph
+    if 'top_domain' in d.keys():
+        top_domain = d['top_domain']
+        ext_domains = d['external_domains']
+        for ext_domain in ext_domains:
+            edgelist.append((top_domain, ext_domain))
+    # This is an IoT device dependency graph
+    elif 'Name' in d.keys() and 'MAC' in d.keys() and 'IPs' in d.keys():
+        device_name = d['Name']
+        for ext_ip in d['IPs']:
+            asorg = d['IPs'][ext_ip]['as_org']
+            if not asorg:
+                asorg = "UNKNOWN"
+            edgelist.append((device_name, ext_ip + '\n' + asorg))
 
 # Generate list of shared dependences
 # A dependency is shared when "external_domain" exists for many "top_domains"
@@ -38,13 +54,13 @@ for edge in edgelist:
 # Generate Graph
 G = nx.from_edgelist(shared_deps_edgelist)
 
-
+'''
 ################################################################################
 # Parameter adjusting (labels, node sizes, etc.)
 ################################################################################
 # Count the number of dependencies (used to determine node size)
 num_deps = {}
-for tld in TLDs:
+for tld in data_files:
     # Add the top domain into the dictionary
     td = tld['top_domain']
     num_deps[td] = num_deps[td] + 1 if td in num_deps else 1
@@ -62,10 +78,11 @@ node_sizes = [num_deps[node] * DEFAULT_NODE_SIZE for node in G.nodes]
 print(node_sizes)
 print(len(G.nodes))
 print(len(node_sizes))
-
+'''
 
 ################################################################################
 # Drawing
 ################################################################################
-nx.draw(G, with_labels=True, font_color='k', font_size=5, node_sizes=node_sizes)
+# nx.draw(G, with_labels=True, font_color='k', font_size=5, node_sizes=node_sizes)
+nx.draw(G, with_labels=True, font_color='k', font_size=5)
 plt.show()
