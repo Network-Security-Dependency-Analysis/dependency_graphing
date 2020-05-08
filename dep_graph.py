@@ -35,7 +35,10 @@ elif 'Name' in data.keys() and 'MAC' in data.keys() and 'IPs' in data.keys():
     device_name = data['Name']
     for ext_ip in data['IPs']:
         if data['IPs'][ext_ip]['count'] > 10:
-            edgelist.append((device_name, ext_ip + '\n' + data['IPs'][ext_ip]['as_org']))
+            asorg = data['IPs'][ext_ip]['as_org']
+            if not asorg:
+                asorg = "UNKNOWN"
+            edgelist.append((device_name, ext_ip + '\n' + asorg))
             node_sizes.append(data['IPs'][ext_ip]['count'] * DEFAULT_NODE_SIZE)
 
 # Generate Graph
