@@ -14,7 +14,7 @@ DEFAULT_NODE_SIZE = args.node_size
 DEFAULT_ROOT_NODE_COLOR = 'pink'
 DEFAULT_NODE_COLOR = 'skyblue'
 DATA_DIR = args.input_dir
-RESOURCES = ['script']
+RESOURCES = ['total']
 
 
 ################################################################################
@@ -63,14 +63,12 @@ G = nx.from_edgelist(shared_deps_edgelist)
 ################################################################################
 # Parameter adjusting (labels, node sizes, etc.)
 ################################################################################
-'''
 # Count the number of dependencies (used to determine node size)
 num_deps = {}
 for tld in data_files:
     # Add the top domain into the dictionary
     td = tld['top_domain']
     num_deps[td] = num_deps[td] + 1 if td in num_deps else 1
-
     # Add the external domains into the dictionary
     ext_domains = tld['external_domains']
     for ext in ext_domains:
@@ -81,10 +79,6 @@ for tld in data_files:
 
 # Update node sizes in the graph
 node_sizes = [num_deps[node] * DEFAULT_NODE_SIZE for node in G.nodes]
-print(node_sizes)
-print(len(G.nodes))
-print(len(node_sizes))
-'''
 
 # Change node colors for the TLD
 node_colors = []
@@ -94,10 +88,14 @@ for node in G.nodes:
     else:
         node_colors.append(DEFAULT_NODE_COLOR)
 
+# Change node sizes for the TLD
+for i, node in enumerate(G.nodes):
+    if node in root_nodes:
+        node_sizes[i] = 2000
+
 
 ################################################################################
 # Drawing
 ################################################################################
-# nx.draw(G, with_labels=True, font_color='k', font_size=5, node_sizes=node_sizes)
-nx.draw(G, with_labels=True, font_color='k', font_size=5, node_color=node_colors)
+nx.draw(G, with_labels=True, font_size=5, node_size=node_sizes, node_color=node_colors)
 plt.show()
