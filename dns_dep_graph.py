@@ -14,6 +14,8 @@ args = parser.parse_args()
 
 DATA_FILE = args.input_file
 DEFAULT_NODE_SIZE = args.node_size  # library default is 300
+DEFAULT_ROOT_NODE_COLOR = 'pink'
+DEFAULT_NODE_COLOR = 'skyblue'
 
 # Retrieve the json data on dependencies
 with open(DATA_FILE) as f:
@@ -22,6 +24,7 @@ with open(DATA_FILE) as f:
 # Generate edge list
 edgelist = []
 node_sizes = [20000] # Make the center node very big for readability
+node_colors = [DEFAULT_ROOT_NODE_COLOR]
 
 # Keep track of sizes for each node based on how many references each DNS name has
 nodes = {}
@@ -41,6 +44,7 @@ if 'top_domain' in data.keys():
         edgelist.append((top_domain, node))
         size = nodes[node]['refs'] + DEFAULT_NODE_SIZE
         node_sizes.append(size)
+        node_colors.append(DEFAULT_NODE_COLOR)
 # This is an IoT device dependency graph
 elif 'Name' in data.keys() and 'MAC' in data.keys() and 'IPs' in data.keys():
     device_name = data['Name']
@@ -53,10 +57,11 @@ elif 'Name' in data.keys() and 'MAC' in data.keys() and 'IPs' in data.keys():
         edgelist.append((device_name, node))
         size = nodes[node]['refs'] * DEFAULT_NODE_SIZE
         node_sizes.append(size)
+        node_colors.append(DEFAULT_NODE_COLOR)
 
 # Generate Graph
 G = nx.from_edgelist(edgelist)
 
 # Plot it
-nx.draw(G, with_labels=True, font_size=12, node_color="skyblue", node_size=node_sizes)
+nx.draw(G, with_labels=True, font_size=12, node_color=node_colors, node_size=node_sizes)
 plt.show()
