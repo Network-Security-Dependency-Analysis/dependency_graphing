@@ -7,6 +7,8 @@ import networkx as nx
 import matplotlib.pyplot as plt
 
 DEFAULT_NODE_SIZE = 1  # library default is 300
+DEFAULT_ROOT_NODE_COLOR = 'pink'
+DEFAULT_NODE_COLOR = 'skyblue'
 MIN_DEPENDENCIES = 5
 DATA_DIR = 'data/pgh/'
 # RESOURCES = ['script', 'iframe', 'video', 'audio', 'img', 'embed']
@@ -25,9 +27,11 @@ for fname in os.listdir(DATA_DIR):
 
 # Generate list of edges between all nodes
 edgelist = []
+root_nodes = []
 for tld in TLDs:
     top_domain = tld['top_domain']
     ext_domains = tld['external_domains']
+    root_nodes.append(top_domain)
     for ext_domain in ext_domains:
         edgelist.append((top_domain, ext_domain))
 
@@ -68,9 +72,24 @@ for node, size in zip(G.nodes, node_sizes):
     else:
         labels[node] = ''
 
+# Change node colors for the top level domains
+print(root_nodes)
+node_colors = []
+for node in G.nodes:
+    if node in root_nodes:
+        node_colors.append(DEFAULT_ROOT_NODE_COLOR)
+    else:
+        node_colors.append(DEFAULT_NODE_COLOR)
+
+# Change node sizes for the TLD
+for i, node in enumerate(G.nodes):
+    if node in root_nodes:
+        node_sizes[i] = 2000
+
 
 ################################################################################
 # Drawing
 ################################################################################
-nx.draw(G, with_labels=True, font_color='r', font_size=5, node_color="skyblue", node_size=node_sizes, labels=labels)
+# nx.draw(G, with_labels=True, font_color='r', font_size=5, node_color="skyblue", node_size=node_sizes, labels=labels)
+nx.draw(G, with_labels=True, font_size=5, node_color=node_colors, node_size=node_sizes, labels=labels)
 plt.show()
