@@ -1,12 +1,19 @@
 ''' Plot the dependency graph for a single top level domain (TLD) '''
 import json
+import argparse
 import numpy as np
 import pandas as pd
 import networkx as nx
 import matplotlib.pyplot as plt
 
-DATA_FILE = 'data/c5adca69c13b55679bbf30ff8a53c970e98188f2.json'
-DEFAULT_NODE_SIZE = 500  # library default is 300
+# Get input data
+parser = argparse.ArgumentParser(description='Generate dependency graph for a single TLD or IoT Device')
+parser.add_argument('-i', dest='input_file', type=str, help='Input JSON file', required=True)
+parser.add_argument('-n', dest='node_size', type=int, help='Integer node size', default=50)
+args = parser.parse_args()
+
+DATA_FILE = args.input_file
+NODE_SIZE = args.node_size  # library default is 300
 
 # Retrieve the json data on dependencies
 with open(DATA_FILE) as f:
@@ -14,11 +21,22 @@ with open(DATA_FILE) as f:
 
 # Generate edge list
 edgelist = []
-node_sizes = [DEFAULT_NODE_SIZE]
-top_domain = data['top_domain']
-for ext_domain in data['external_domains']:
-    edgelist.append((top_domain, ext_domain))
-    node_sizes.append(data['external_domains'][ext_domain]['resources']['total'] * DEFAULT_NODE_SIZE)
+node_sizes = [NODE_SIZE]
+
+# This is a web dependency graph
+if 'top_domain' in data.keys():
+    top_domain = data['top_domain']
+    for ext_domain in data['external_domains']:
+        if data['external_domains'][ext_domain]['resources']['total'] > 10:
+            edgelist.append((top_domain, ext_domain))
+            node_sizes.append(data['external_domains'][ext_domain]['resources']['total'] * NODE_SIZE)
+# This is an IoT device dependency graph
+elif 'Name' in data.keys() and 'MAC' in data.keys() and 'IPs' in data.keys():
+    device_name = data['Name']
+    for ext_ip in data['IPs']:
+        if data['IPs'][ext_ip]['count'] > 10:
+            edgelist.append((device_name, ext_ip + '\n' + data['IPs'][ext_ip]['as_org']))
+            node_sizes.append(data['IPs'][ext_ip]['count'] * NODE_SIZE)
 
 # Generate Graph
 G = nx.from_edgelist(edgelist)
