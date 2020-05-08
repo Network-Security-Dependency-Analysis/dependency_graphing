@@ -11,6 +11,8 @@ parser.add_argument('-n', dest='node_size', type=int, help='Integer node size', 
 args = parser.parse_args()
 
 DEFAULT_NODE_SIZE = args.node_size
+DEFAULT_ROOT_NODE_COLOR = 'pink'
+DEFAULT_NODE_COLOR = 'skyblue'
 DATA_DIR = args.input_dir
 RESOURCES = ['script']
 
@@ -27,16 +29,19 @@ for fname in os.listdir(DATA_DIR):
 
 # Generate list of edges between all nodes
 edgelist = []
+root_nodes = []
 for d in data_files:
     # This is a web dependency graph
     if 'top_domain' in d.keys():
         top_domain = d['top_domain']
         ext_domains = d['external_domains']
+        root_nodes.append(top_domain)
         for ext_domain in ext_domains:
             edgelist.append((top_domain, ext_domain))
     # This is an IoT device dependency graph
     elif 'Name' in d.keys() and 'MAC' in d.keys() and 'IPs' in d.keys():
         device_name = d['Name']
+        root_nodes.append(device_name)
         for ext_ip in d['IPs']:
             asorg = d['IPs'][ext_ip]['as_org']
             if not asorg:
@@ -54,10 +59,11 @@ for edge in edgelist:
 # Generate Graph
 G = nx.from_edgelist(shared_deps_edgelist)
 
-'''
+
 ################################################################################
 # Parameter adjusting (labels, node sizes, etc.)
 ################################################################################
+'''
 # Count the number of dependencies (used to determine node size)
 num_deps = {}
 for tld in data_files:
@@ -80,9 +86,18 @@ print(len(G.nodes))
 print(len(node_sizes))
 '''
 
+# Change node colors for the TLD
+node_colors = []
+for node in G.nodes:
+    if node in root_nodes:
+        node_colors.append(DEFAULT_ROOT_NODE_COLOR)
+    else:
+        node_colors.append(DEFAULT_NODE_COLOR)
+
+
 ################################################################################
 # Drawing
 ################################################################################
 # nx.draw(G, with_labels=True, font_color='k', font_size=5, node_sizes=node_sizes)
-nx.draw(G, with_labels=True, font_color='k', font_size=5)
+nx.draw(G, with_labels=True, font_color='k', font_size=5, node_color=node_colors)
 plt.show()
