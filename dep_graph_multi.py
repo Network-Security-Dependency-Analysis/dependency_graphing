@@ -7,12 +7,16 @@ import networkx as nx
 import matplotlib.pyplot as plt
 
 DEFAULT_NODE_SIZE = 1  # library default is 300
-DEFAULT_ROOT_NODE_COLOR = 'pink'
+DEFAULT_ROOT_NODE_SIZE = 5000
 DEFAULT_NODE_COLOR = 'skyblue'
+DEFAULT_ROOT_NODE_COLOR = 'pink'
 MIN_DEPENDENCIES = 5
-DATA_DIR = 'data/pgh/'
-# RESOURCES = ['script', 'iframe', 'video', 'audio', 'img', 'embed']
-RESOURCES = ['script']
+DATA_DIR = 'data/pgh2/'
+
+# Types of resources
+# 'total', 'a', 'script', 'link', 'iframe', 'video', 'audio', 'img', 'embed', 'object'
+RESOURCES = ['script', 'link', 'iframe', 'img']
+RESOURCES = ['total']
 
 
 ################################################################################
@@ -35,8 +39,21 @@ for tld in TLDs:
     for ext_domain in ext_domains:
         edgelist.append((top_domain, ext_domain))
 
+# Generate list of edges between nodes which are dependent on a RESOURCE
+# Only keep edges using the resources that we care about
+resource_edgelist = []
+for tld in TLDs:
+    top_domain = tld['top_domain']
+    ext_domains = tld['external_domains']
+    for ext in ext_domains:
+        total = 0
+        for r in RESOURCES:
+            total += ext_domains[ext]['resources'][r]
+        if total != 0:
+            resource_edgelist.append((top_domain, ext))
+
 # Generate Graph
-G = nx.from_edgelist(edgelist)
+G = nx.from_edgelist(resource_edgelist)
 
 
 ################################################################################
@@ -73,7 +90,6 @@ for node, size in zip(G.nodes, node_sizes):
         labels[node] = ''
 
 # Change node colors for the top level domains
-print(root_nodes)
 node_colors = []
 for node in G.nodes:
     if node in root_nodes:
@@ -81,15 +97,15 @@ for node in G.nodes:
     else:
         node_colors.append(DEFAULT_NODE_COLOR)
 
-# Change node sizes for the TLD
+# Change node sizes for the top level domains
 for i, node in enumerate(G.nodes):
     if node in root_nodes:
-        node_sizes[i] = 2000
+        node_sizes[i] = DEFAULT_ROOT_NODE_SIZE
 
 
 ################################################################################
 # Drawing
 ################################################################################
-# nx.draw(G, with_labels=True, font_color='r', font_size=5, node_color="skyblue", node_size=node_sizes, labels=labels)
 nx.draw(G, with_labels=True, font_size=5, node_color=node_colors, node_size=node_sizes, labels=labels)
+# nx.draw(G, with_labels=True, font_size=5, node_color=node_colors, node_size=node_sizes)
 plt.show()
